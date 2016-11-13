@@ -114,6 +114,7 @@ I'm out there to have fun and to take a break from training.
 
 |Date|Miles|Pace|Pounds|Where|
 |----|--------|----|------|-----|
+|November 16th|1.9|speed|40|from house|
 |November 19th|12|race|40|Bosque Bike Path|
 |November 23rd|6.5|speed|40|from house|
 |November 26th|9.5|mountain|35|La Luz|
