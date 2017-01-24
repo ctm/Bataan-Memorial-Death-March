@@ -1,7 +1,7 @@
 # Bataan Memorial Death March training
 
 Cliff Matthews's training plan for the [2017 Bataan
-Memorial Death March](http://bataanmarch.com).
+Memorial Death March](http://bataanmarch.com) (civilian heavy).
 
 ## What is the BMDM?
 
@@ -112,42 +112,71 @@ hope to better that this year, but it'll be tough.
 keep my HR between 140bpm and 150bpm during the Foothills Fat Ass 50k.
 I'm out there to have fun and to take a break from training.
 
-|Date|Miles|Pace|Pounds|Where|
-|----|--------|----|------|-----|
-|November 16th|1.9|speed|40|from house|
-|November 19th|12|race|40|Bosque Bike Path|
-|November 23rd|6.5|speed|40|from house|
-|November 26th|9.5|mountain|35|La Luz|
-|November 30th|7|speed|40|from house|
-|December 3rd|15|race|40|Bosque Bike Path|
-|December 7th|7.5|speed|40|from house|
-|December 10th|9.5|mountain|35|La Luz|
-|December 14th|8|speed|40|from house|
-|December 17th|18|race|40|Bosque Bike Path|
-|December 21st|8.5|speed|40|from house|
-|December 24th|9.5|mountain|35|La Luz|
-|December 28th|9|speed|40|from house|
-|December 31st|4.5|race|40|Bosque Bike Path|
-|January 1st|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|
-|January 4th|9.5|speed|40|from house|
-|January 7th|9.5|mountain|35|La Luz|
-|January 11th|10|speed|40|from house|
-|January 14th|21|race|40|Bosque Bike Path|
-|January 18th|10.5|speed|40|from house|
-|January 21st|3.1*|speed|0|[Sandia Snowshoe Race](http://www.sandiasnowshoe.com) *snow-shoe|
-|January 25th|11|speed|40|from house|
-|January 28th|24|race|40|Bosque Bike Path|
-|February 1st|11.5|speed|40|from house|
-|February 4th|9.5|mountain|35|La Luz|
-|February 8th|12|speed|40|from house|
-|February 11th|9.5|mountain|35|La Luz|
-|February 15th|5.6|speed|40|from house|
-|February 18th|43*|speed|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org) *bike/run/ski/snow-shoe|
-|February 22nd|12.5|speed|40|from house|
-|February 25th|24|race|40|Bosque Bike Path|
-|March 1st|13|speed|40|from house|
-|March 4th|4.5|mountain|35|La Luz|
-|March 8th|6.5|speed|40|from house|
-|March 11th|6|race|40|Bosque Bike Path|
-|March 15th|3.25|speed|40|from house|
-|March 19th|26.2|race|35|Bataan Memorial Death March ([civilian heavy](http://bataanmarch.com/register/civilian-individual/))|
+## Bike Accident
+
+On Sunday, January 8th, I was leisurely riding my bike on little sleep.
+I had participated in a search and rescue mission the night before and
+didn't get to sleep until 2:30am.  I got up at 6:30am and decided to go
+ride my bike for 35 - 50 miles, thinking "Sure I'm tired, but how much
+sleep do you need to ride a bike?".  Oops.
+
+I was pedaling downhill toward the underpass under Paseo del Norte when
+I realized that the dark stuff I was approaching wasn't _liquid_ water,
+but black ice.  The next thing I remembered was someone helping me put
+the chain back on my bike so I could ride back to my truck and get help.
+Although I don't remember it, circumstantial evidence shows that I went
+over the handlebars, landing on my face.  I chipped/broke 5 teeth and
+was at the hospital for several hours before they sutured me up (one of my
+punctures went completely through my chin and into my mouth).
+
+My accident caused me to miss a week of training, and even after that
+week, I'm still not back to where I was.  Additionally, the Sandia Snowshoe
+Race, which had been scheduled for January 21st got postponed due to weather.
+So, I ran 21 miles with my pack on the 21st and will do the Snowshoe Race
+on the 28th.  I've also changed my La Luz run on February 4th to a 24
+mile pack run.
+
+I was not meeting my goals before the accident, so it is unlikely that
+I'll make my goal on race day.  I should break five hours (11:27
+min/mile), but probably won't break four and a half (10:18 min/mile).
+
+|Date|Miles|Pace|Pounds|Where|Notes|
+|----|-----|----|------|-----|-----|
+|Nov. 16|1.9|speed|40|from house|9:14 min/mile|
+|Nov. 19|12|race|40|Bosque Bike Path|10:48 min/mile|
+|Nov. 23|6.5|speed|40|from house|9:51 min/mile|
+|Nov. 25|4|race|0|[Tractor Brewing](https://www.webscorer.com/racedetails?raceid=90484)|8:12 min/mile|
+|Nov. 26|9.5|mountain|35|La Luz|2:27:35|
+|Nov. 30|7|speed|40|from house|9:45 min/mile|
+|Dec. 3|15|race|40|Bosque Bike Path|10:41 min/mile|
+|Dec. 7|7.5|speed|40|from house|9:59 min/mile|
+|Dec. 10|9.5|mountain|35|La Luz|2:30:02|
+|Dec. 14|8|speed|40|from house|10:08 min/mile|
+|Dec. 17|18|race|40|Bosque Bike Path|11:05 min/mile|
+|Dec. 21|8.5|speed|40|from house|9:45 min/mile|
+|Dec. 24|9.5|mountain|35|La Luz|2:22:20|
+|Dec. 28|9|speed|40|from house|9:56 min/mile|
+|Dec. 31|4.5|race|40|Bosque Bike Path|9:04 min/mile|
+|Jan. 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|6:50:34|
+|Jan. 4|9.5|speed|40|from house|9:47 min/mile|
+|Jan. 7|9.5|mountain|35|La Luz|2:21:40|
+|Jan. 11|10|speed|40|from house|missed: bike accident|
+|Jan. 14|21|race|40|Bosque Bike Path|missed: bike accident|
+|Jan. 18|10.5|speed|40|from house|10:37 min/mile|
+|Jan. 21|21|race|40|Bosque Bike Path|11:25 min/mile|
+|Jan. 25|11|speed|40|from house|
+|Jan. 28|3.1*|speed|0|[Sandia Snowshoe Race](http://www.sandiasnowshoe.com)|*snow-shoe|
+|Feb. 1|11.5|speed|40|from house|
+|Feb. 4|24|race|40|Bosque Bike Path|
+|Feb. 8|12|speed|40|from house|
+|Feb. 11|9.5|mountain|35|La Luz|
+|Feb. 15|5.6|speed|40|from house|
+|Feb. 18|43*|speed|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snow-shoe|
+|Feb. 22nd|12.5|speed|40|from house|
+|Feb. 25|24|race|40|Bosque Bike Path|
+|Mar. 1|13|speed|40|from house|
+|Mar. 4|4.5|mountain|35|La Luz|
+|Mar. 8|6.5|speed|40|from house|
+|Mar. 11|6|race|40|Bosque Bike Path|
+|Mar. 15|3.25|speed|40|from house|
+|Mar. 19|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)|
