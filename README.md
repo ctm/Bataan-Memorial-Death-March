@@ -164,11 +164,11 @@ min/mile), but probably won't break four and a half (10:18 min/mile).
 |Jan. 14|21|race|40|Bosque Bike Path|missed: bike accident|
 |Jan. 18|10.5|speed|40|from house|10:37 min/mile|
 |Jan. 21|21|race|40|Bosque Bike Path|11:25 min/mile|
-|Jan. 25|11|speed|40|from house|
-|Jan. 28|3.1*|speed|0|[Sandia Snowshoe Race](http://www.sandiasnowshoe.com)|*snow-shoe|
-|Feb. 1|11.5|speed|40|from house|
-|Feb. 4|24|race|40|Bosque Bike Path|
-|Feb. 8|12|speed|40|from house|
+|Jan. 25|11|speed|40|from house|10:17 min/mile|
+|Jan. 28|3.1*|speed|0|[Sandia Snowshoe Race](http://www.sandiasnowshoe.com)|*snow-shoe 47:50 (19th)|
+|Feb. 1|11.5|speed|40|from house|10:09 min/mile|
+|Feb. 4|24|race|40|Bosque Bike Path|12:39 min/mile, MISERY: chest cold|
+|Feb. 8|12|speed|40|from house|missed: chest cold|
 |Feb. 11|9.5|mountain|35|La Luz|
 |Feb. 15|5.6|speed|40|from house|
 |Feb. 18|43*|speed|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snow-shoe|
