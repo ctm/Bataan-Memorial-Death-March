@@ -140,6 +140,23 @@ I was not meeting my goals before the accident, so it is unlikely that
 I'll make my goal on race day.  I should break five hours (11:27
 min/mile), but probably won't break four and a half (10:18 min/mile).
 
+
+## Illness
+
+I managed to catch a cold sometime after the Sandia Snowshoe race,
+probably due to the celebratory drinking.  It was pretty virulent; the
+whole family came down with it, although I'm often spared.  It was
+hard to shake, in part because I did both my Wednesday, February 1st,
+pack run and the following Saturday pack run even though I had stuff
+in my lungs.  The wheels fell off on my Saturday run, so not only did
+I skip my Wednesday, February 8th pack run, but I ran a "5k" (the
+course was really closer to 2.8 miles) on Saturday the 11th instead
+of doing my normal La Luz Trail run.  By the time of the Mt. Taylor
+Winter Quadrathlon I was 100% healthy again, but signicantly slower
+than last year due to all the training I've missed from the accident,
+bad weather and sickness.
+
+
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
 |Nov. 16|1.9|speed|40|from house|9:14 min/mile|
@@ -169,11 +186,11 @@ min/mile), but probably won't break four and a half (10:18 min/mile).
 |Feb. 1|11.5|speed|40|from house|10:09 min/mile|
 |Feb. 4|24|race|40|Bosque Bike Path|12:39 min/mile, MISERY: chest cold|
 |Feb. 8|12|speed|40|from house|missed: chest cold|
-|Feb. 11|9.5|mountain|35|La Luz|
-|Feb. 15|5.6|speed|40|from house|
-|Feb. 18|43*|speed|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snow-shoe|
-|Feb. 22nd|12.5|speed|40|from house|
-|Feb. 25|24|race|40|Bosque Bike Path|
+|Feb. 11|2.8|speed|40|Cupid's Chase|8:48 min/mile, Was sick, so ran Cupid's 5k w/pack instead of La Luz|
+|Feb. 15|5.6|speed|40|from house|9:30 min/mile|
+|Feb. 18|43*|speed|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snow-shoe, 6:24:49 (last year was 6:03:28)|
+|Feb. 22nd|12.5|speed|40|from house|10:41 min/mile|
+|Feb. 25|24|race|40|Bosque Bike Path|10:51 min/mile|
 |Mar. 1|13|speed|40|from house|
 |Mar. 4|4.5|mountain|35|La Luz|
 |Mar. 8|6.5|speed|40|from house|
