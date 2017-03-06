@@ -191,8 +191,8 @@ bad weather and sickness.
 |Feb. 18|43*|speed|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snow-shoe, 6:24:49 (last year was 6:03:28)|
 |Feb. 22nd|12.5|speed|40|from house|10:41 min/mile|
 |Feb. 25|24|race|40|Bosque Bike Path|10:51 min/mile|
-|Mar. 1|13|speed|40|from house|
-|Mar. 4|4.5|mountain|35|La Luz|
+|Mar. 1|13|speed|40|from house|9:47 min/mile|
+|Mar. 4|4.5|mountain|35|La Luz|13:13 min/mile|
 |Mar. 8|6.5|speed|40|from house|
 |Mar. 11|6|race|40|Bosque Bike Path|
 |Mar. 15|3.25|speed|40|from house|
