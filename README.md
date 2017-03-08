@@ -163,20 +163,20 @@ bad weather and sickness.
 |Nov. 19|12|race|40|Bosque Bike Path|10:48 min/mile|
 |Nov. 23|6.5|speed|40|from house|9:51 min/mile|
 |Nov. 25|4|race|0|[Tractor Brewing](https://www.webscorer.com/racedetails?raceid=90484)|8:12 min/mile|
-|Nov. 26|9.5|mountain|35|La Luz|2:27:35|
+|Nov. 26|9.5|mountain|35|La Luz|2:27:35, 15:36 min/mile|
 |Nov. 30|7|speed|40|from house|9:45 min/mile|
 |Dec. 3|15|race|40|Bosque Bike Path|10:41 min/mile|
 |Dec. 7|7.5|speed|40|from house|9:59 min/mile|
-|Dec. 10|9.5|mountain|35|La Luz|2:30:02|
+|Dec. 10|9.5|mountain|35|La Luz|2:30:02, 15:51 min/mile|
 |Dec. 14|8|speed|40|from house|10:08 min/mile|
 |Dec. 17|18|race|40|Bosque Bike Path|11:05 min/mile|
 |Dec. 21|8.5|speed|40|from house|9:45 min/mile|
-|Dec. 24|9.5|mountain|35|La Luz|2:22:20|
+|Dec. 24|9.5|mountain|35|La Luz|2:22:20, 15:03 min/mile|
 |Dec. 28|9|speed|40|from house|9:56 min/mile|
 |Dec. 31|4.5|race|40|Bosque Bike Path|9:04 min/mile|
 |Jan. 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|6:50:34|
 |Jan. 4|9.5|speed|40|from house|9:47 min/mile|
-|Jan. 7|9.5|mountain|35|La Luz|2:21:40|
+|Jan. 7|9.5|mountain|35|La Luz|2:21:40, 15:01 min/mile|
 |Jan. 11|10|speed|40|from house|missed: bike accident|
 |Jan. 14|21|race|40|Bosque Bike Path|missed: bike accident|
 |Jan. 18|10.5|speed|40|from house|10:37 min/mile|
@@ -193,7 +193,7 @@ bad weather and sickness.
 |Feb. 25|24|race|40|Bosque Bike Path|10:51 min/mile|
 |Mar. 1|13|speed|40|from house|9:47 min/mile|
 |Mar. 4|4.5|mountain|35|La Luz|13:13 min/mile|
-|Mar. 8|6.5|speed|40|from house|
+|Mar. 8|6.5|speed|40|from house|9:21 min/mile|
 |Mar. 11|6|race|40|Bosque Bike Path|
 |Mar. 15|3.25|speed|40|from house|
 |Mar. 19|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)|
