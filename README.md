@@ -82,7 +82,7 @@ Bike Path pack run.
 
 In theory, I try to keep my heart-rate at about 130bpm for my slow
 runs and bike ride, but if it's chilly or I'm rushed or otherwise
-feeling frisky I may run a bit faster.
+feeling frisky I may run, or bike, a bit faster.
 
 |Day|Activity|Amount|
 |---|--------|------|
@@ -130,10 +130,10 @@ was at the hospital for several hours before they sutured me up (one of my
 punctures went completely through my chin and into my mouth).
 
 My accident caused me to miss a week of training, and even after that
-week, I'm still not back to where I was.  Additionally, the Sandia Snowshoe
+week, I had regressed.  Additionally, the Sandia Snowshoe
 Race, which had been scheduled for January 21st got postponed due to weather.
-So, I ran 21 miles with my pack on the 21st and will do the Snowshoe Race
-on the 28th.  I've also changed my La Luz run on February 4th to a 24
+So, I ran 21 miles with my pack on the 21st and did the Snowshoe Race
+on the 28th.  I also changed my La Luz run on February 4th to a 24
 mile pack run.
 
 I was not meeting my goals before the accident, so it is unlikely that
@@ -144,8 +144,8 @@ min/mile), but probably won't break four and a half (10:18 min/mile).
 ## Illness
 
 I managed to catch a cold sometime after the Sandia Snowshoe race,
-probably due to the celebratory drinking.  It was pretty virulent; the
-whole family came down with it, although I'm often spared.  It was
+probably due to my celebratory drinking.  The cold I caught was pretty
+virulent; my whole family came down with it.  It was
 hard to shake, in part because I did both my Wednesday, February 1st,
 pack run and the following Saturday pack run even though I had stuff
 in my lungs.  The wheels fell off on my Saturday run, so not only did
@@ -153,7 +153,7 @@ I skip my Wednesday, February 8th pack run, but I ran a "5k" (the
 course was really closer to 2.8 miles) on Saturday the 11th instead
 of doing my normal La Luz Trail run.  By the time of the Mt. Taylor
 Winter Quadrathlon I was 100% healthy again, but signicantly slower
-than last year due to all the training I've missed from the accident,
+than last year due to all the training I had missed from the accident,
 bad weather and sickness.
 
 
@@ -194,6 +194,6 @@ bad weather and sickness.
 |Mar. 1|13|speed|40|from house|9:47 min/mile|
 |Mar. 4|4.5|mountain|35|La Luz|13:13 min/mile|
 |Mar. 8|6.5|speed|40|from house|9:21 min/mile|
-|Mar. 11|6|race|40|Bosque Bike Path|
+|Mar. 11|6|speed|40|Bosque Bike Path|9:03 min/mile|
 |Mar. 15|3.25|speed|40|from house|
 |Mar. 19|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)|
