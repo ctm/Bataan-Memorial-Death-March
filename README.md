@@ -156,6 +156,23 @@ Winter Quadrathlon I was 100% healthy again, but signicantly slower
 than last year due to all the training I had missed from the accident,
 bad weather and sickness.
 
+## My plan and follow through
+
+> "Everyone has a plan 'till they get punched in the mouth."
+> --Mike Tyson
+
+On November 27th, 2016, [John
+Mims](http://pilotonline.com/news/local/bataan-death-march-survivor-shares-story-at-memorial-walk/article_564865f6-9148-5da1-910d-1f216728a1f4.html),
+a man many past participants of BMDM had the privilege of listening to,
+[died](http://www.thepilot.com/news/hardship-cruelty-didn-t-blacken-john-mims-heart/article_02d8ab40-b56e-11e6-931e-87ffe1798689.html). Mims
+didn't get punched in the mouth. On the real Bataan Death March, he
+had picked up the empty coke bottle that a Japanese soldier had
+dropped and handed it back to the soldier.  The soldier then smashed
+the bottle against Mims's face, knocking out several of his teeth.  So
+yeah, I fell off my bike and had to take a little time off from
+training, but in the grand scheme of things, it was but a minor
+annoyance.
+
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
@@ -195,5 +212,5 @@ bad weather and sickness.
 |Mar. 4|4.5|mountain|35|La Luz|13:13 min/mile|
 |Mar. 8|6.5|speed|40|from house|9:21 min/mile|
 |Mar. 11|6|speed|40|Bosque Bike Path|9:03 min/mile|
-|Mar. 15|3.25|speed|40|from house|
+|Mar. 15|3.25|speed|40|from house|8:54 min/mile|
 |Mar. 19|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)|
