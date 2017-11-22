@@ -150,7 +150,7 @@ pages should list anything major.
 |Oct. 25|5.58|speed|40|from house|8:47|
 |Nov. 14|6|speed|40|from house|9:09|
 |Nov. 18|9.5|mountain|35|La Luz|2:16:03, 14:27 min/mile|
-|Nov. 22|6.5|speed|40|from house||
+|Nov. 22|6.5|speed|40|from house|9:04|
 |Nov. 23|6.2|race|0|Hobbler Gobbler 10k||
 |Nov. 24|4|race|0|Black Friday Turkey Trots||
 |Nov. 25|31|comfort|0|Bosque Bigfoot FREEAss 50k||
