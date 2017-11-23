@@ -111,9 +111,9 @@ feeling frisky I may run, or bike, a bit faster.
 
 In the following table, `speed` means as quickly as I can to minimize
 the total time I spend. This year it should be about a 9:30
-minute/mile pace when running with my pack.  My speed during the
-Sandia Snowshoe Race and the Mt. Taylor Winter Quadrathlon varies
-greatly!
+minute/mile pace when running with my pack.  My speed during my
+non-pack races (e.g., Sandia Snowshoe Race and the Mt. Taylor Winter
+Quadrathlon) varies greatly!
 
 `Race` is my race goal of 10:18 minute/mile.
 
@@ -151,13 +151,13 @@ pages should list anything major.
 |Nov. 14|6|speed|40|from house|9:09|
 |Nov. 18|9.5|mountain|35|La Luz|2:16:03, 14:27 min/mile|
 |Nov. 22|6.5|speed|40|from house|9:04|
-|Nov. 23|6.2|race|0|Hobbler Gobbler 10k||
-|Nov. 24|4|race|0|Black Friday Turkey Trots||
-|Nov. 25|31|comfort|0|Bosque Bigfoot FREEAss 50k||
+|Nov. 23|6.2|speed|0|[Hobbler Gobbler 10k](http://www.irunfit.org/run-fit-events/hobbler-gobbler-run)|49:20, 7:48 min/mile, 2nd AG|
+|Nov. 24|4|speed|0|[Black Friday Turkey Trots](https://www.facebook.com/events/133362897283125)||
+|Nov. 25|31|comfort|0|[Bosque Bigfoot FREEAss 50k](http://ultrasignup.com/entrants_event.aspx?did=49420)||
 |Nov. 29|7|speed|40|from house||
 |Dec. 2|12|race|40|Bosque Bike Path||
 |Dec. 6|7.5|speed|40|from house||
-|Dec. 9|26.2|race|0|Tucson Marathon||
+|Dec. 9|26.2|speed|0|[Tucson Marathon](http://tucsonmarathon.com)||
 |Dec. 13|8|speed|40|from house||
 |Dec. 16|9.5|mountain|35|La Luz||
 |Dec. 20|8.5|speed|40|from house||
