@@ -151,9 +151,9 @@ pages should list anything major.
 |Nov. 14|6|speed|40|from house|9:09|
 |Nov. 18|9.5|mountain|35|La Luz|2:16:03, 14:27 min/mile|
 |Nov. 22|6.5|speed|40|from house|9:04|
-|Nov. 23|6.2|speed|0|[Hobbler Gobbler 10k](http://www.irunfit.org/run-fit-events/hobbler-gobbler-run)|49:20, 7:48 min/mile, 2nd AG|
-|Nov. 24|4|speed|0|[Black Friday Turkey Trots](https://www.webscorer.com/racedetails?raceid=121365&did=131872)|31:17, 7:46 min/mile, 2nd OA|
-|Nov. 25|31|comfort|0|[Bosque Bigfoot FREEAss 50k](http://ultrasignup.com/entrants_event.aspx?did=49420)|5:35:24, 10:17 min/mile, 11th OA, 1st? AG, PR|
+|Nov. 23|6.2|speed|0|[Hobbler Gobbler 10k](http://results.active.com/system/uploads/result_files/2017/11/23/285187Ua2456c92/HOBBLER_GOBBLER_THANKSGIVING_DAY_10K_2017_OVERALL_FINISH.htm?1511478767)|49:19, 7:48 min/mile|
+|Nov. 24|4|speed|0|[Black Friday Turkey Trots](https://www.webscorer.com/racedetails?raceid=121365&did=131872)|31:17, 7:46 min/mile|
+|Nov. 25|31|comfort|0|[Bosque Bigfoot FREEAss 50k](http://ultrasignup.com/results_event.aspx?did=49420)|5:35:21, 10:17 min/mile|
 |Nov. 29|7|speed|40|from house||
 |Dec. 2|12|race|40|Bosque Bike Path||
 |Dec. 6|7.5|speed|40|from house||
