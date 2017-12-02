@@ -155,7 +155,7 @@ pages should list anything major.
 |Nov. 24|4|speed|0|[Black Friday Turkey Trots](https://www.webscorer.com/racedetails?raceid=121365&did=131872)|31:17, 7:46 min/mile|
 |Nov. 25|31|comfort|0|[Bosque Bigfoot FREEAss 50k](http://ultrasignup.com/results_event.aspx?did=49420)|5:35:21, 10:17 min/mile|
 |Nov. 29|7|speed|40|from house|9:17 min/mile, 148bpm, strain in back of left thigh|
-|Dec. 2|12|race|40|Bosque Bike Path||
+|Dec. 2|12|race|40|Bosque Bike Path|1:57:19, 9:45 min/mile, 144bpm|
 |Dec. 6|7.5|speed|40|from house||
 |Dec. 9|26.2|speed|0|[Tucson Marathon](http://tucsonmarathon.com)||
 |Dec. 13|8|speed|40|from house||
