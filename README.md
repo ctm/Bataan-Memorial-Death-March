@@ -157,7 +157,7 @@ pages should list anything major.
 |Nov. 29|7|speed|40|from house|9:17 min/mile, 148bpm, slightly strained hamstring|
 |Dec. 2|12|race|40|Bosque Bike Path|1:57:19, 9:45 min/mile, 144bpm|
 |Dec. 6|7.5|speed|40|from house|8:59 min/mi, 154bpm, slightly sore hamstring still|
-|Dec. 9|26.2|speed|0|[Tucson Marathon](http://tucsonmarathon.com)||
+|Dec. 9|26.2|speed|0|[Tucson Marathon](https://www.athlinks.com/event/13551/results/Event/603382/Course/913511/Bib/367)|3:31:25, 8:04 min/mile, 155bpm|
 |Dec. 13|8|speed|40|from house||
 |Dec. 16|9.5|mountain|35|La Luz||
 |Dec. 20|8.5|speed|40|from house||
