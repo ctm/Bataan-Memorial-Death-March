@@ -158,7 +158,7 @@ pages should list anything major.
 |Dec. 2|12|race|40|Bosque Bike Path|1:57:19, 9:45 min/mile, 144bpm|
 |Dec. 6|7.5|speed|40|from house|8:59 min/mi, 154bpm, slightly sore hamstring still|
 |Dec. 9|26.2|speed|0|[Tucson Marathon](https://www.athlinks.com/event/13551/results/Event/603382/Course/913511/Bib/367)|3:31:25, 8:04 min/mile, 155bpm|
-|Dec. 13|8|speed|40|from house||
+|Dec. 13|8&dagger;|speed|40|from house|0.49 miles @ 9:11 min/mile|
 |Dec. 16|9.5|mountain|35|La Luz||
 |Dec. 20|8.5|speed|40|from house||
 |Dec. 23|15|race|40|Bosque Bike Path||
@@ -188,3 +188,25 @@ pages should list anything major.
 |Mar. 14|6.5|speed|40|from house||
 |Mar. 21|3.25|speed|40|from house||
 |Mar. 25|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
+
+&dagger;On December 13th, I only ran 0.49 miles, because my pack
+started poking me in the back one quarter mile in.  This was a new
+pack that I bought to replace my previous one which had torn due to
+the stress I've put on it over the last couple of years.
+
+Although the new pack required minimal assembly, I still managed to do
+it wrong.  There are two bars&mdash;one on each side&mdash;that I
+needed to attach to the frame, but I only attached one.  As such, when
+I went for my run, the other one poked through the mesh and into my back.
+I realized what I had done so I turned around and ran (much more
+slowly) home to fix it.  I then decided to call it a day because I
+still have a tender left hamstring from _before_ Tucson and I haven't
+fully recovered from Tucson.
+
+FWIW, I ran the first 1/4 mile @ 8:12 min/mile. Last week the same 1/4
+mile was @ 6:58 min/mile.  If I had chosen to skip today's run
+entirely, I don't think it would have hurt my training, per-se, but
+there's a good chance that come Saturday I'd attempt my La Luz run
+with only one of the two bars attached and have to abort _that_
+training run.  As such, I'm glad I attempted this run and am not too
+disappointed that I chose to turn back.
