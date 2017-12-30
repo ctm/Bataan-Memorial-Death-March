@@ -78,13 +78,21 @@ happy with my performance in 2017, so this year I started doing Wednesday
 pack runs in late August.  I also stopped tapering and taking recovery days
 after my August through November races.
 
+I did fine without the taper or recovery days for all of my races
+until the Tucson marathon.  I caught a pretty bad cold (or maybe it
+was the flu) a week after Tucson that I _may_ have avoided had I
+either spent a little time recovering or not done as much celebratory
+drinking.  On the other hand, my son had caught the same bug before I
+did and my wife caught it shortly after.  Friends and relatives caught
+it around the same time, so maybe I'd have fallen sick regardless.
+
 ## Non-pack Days
 
 During the week I do slow runs from my house out to Albuquerque Academy,
 some distance around Albuquerque Academy and back to my house.  On Sundays
 I ride my bike along the Bosque Bike trail.  How far I ride is dependent
 on weather, mood, how much time I want to be out and to a lesser extent
-how beat up I am from my Saturday activity. I usually ride my bike 70
+how beat up I am from my Saturday activity. I usually ride my bike between 35 and 50
 miles the day after a La Luz pack run and 35 miles the day after a Bosque
 Bike Path pack run.
 
@@ -134,7 +142,7 @@ In addition to the runs in the following table, I may do others.  My
 [Marathon
 Maniacs](http://www.marathonmaniacsdb.com/Maniacs/MyRaces?ManiacId=4395)
 and
-[Ultrasignup](http://ultrasignup.com/results_participant.aspx?fname=Clifford&lname=Matthews)
+[UltraSignup](http://ultrasignup.com/results_participant.aspx?fname=Clifford&lname=Matthews)
 pages should list anything major.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
@@ -185,7 +193,9 @@ pages should list anything major.
 |Feb. 28|13|speed|40|from house||
 |Mar. 3|24|race|40|Bosque Bike Path||
 |Mar. 7|13.5|speed|40|from house||
+|Mar. 11|4.75|mountain|35|La Luz||
 |Mar. 14|6.5|speed|40|from house||
+|Mar. 18|6|race|40|Bosque Bike Path||
 |Mar. 21|3.25|speed|40|from house||
 |Mar. 25|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
 
