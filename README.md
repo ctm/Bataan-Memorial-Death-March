@@ -171,7 +171,7 @@ pages should list anything major.
 |Dec. 20|8.5|speed|40|from house|did not run with my pack: junk in lungs|
 |Dec. 23|15|race|40|Bosque Bike Path|did not run: search and rescue mission instead|
 |Dec. 27|9|speed|40|from house|1:23:53, 9:19 min/mile, 159bpm, still had some junk in lungs|
-|Dec. 30|9.5|mountain|35|La Luz||
+|Dec. 30|9.5|mountain|35|La Luz|2:14:56, 14:18 min/mile|
 |Jan. 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)||
 |Jan. 3|9.5|speed|40|from house||
 |Jan. 6|18|race|40|Bosque Bike Path||
