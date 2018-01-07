@@ -172,7 +172,7 @@ pages should list anything major.
 |Dec. 23|15|race|40|Bosque Bike Path|did not run: search and rescue mission instead|
 |Dec. 27|9|speed|40|from house|1:23:53, 9:19 min/mile, 159bpm, still had some junk in lungs|
 |Dec. 30|9.5|mountain|35|La Luz|2:14:56, 14:18 min/mile|
-|Jan. 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|6:13:56, 11:40 min/mile, 145bpm|
+|Jan. 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|[6:13:57](https://www.webscorer.com/racedetails?raceid=123789&did=134453), 11:40 min/mile, 145bpm|
 |Jan. 3|9.5|speed|40|from house|1:30:08, 9:29 min/mile, 151bpm|
 |Jan. 6|18|race|40|Bosque Bike Path|2:59:53, 9:59 min/mile, 145bpm|
 |Jan. 10|10|speed|40|from house||
