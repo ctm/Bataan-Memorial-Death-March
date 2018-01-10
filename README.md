@@ -175,7 +175,7 @@ pages should list anything major.
 |Jan. 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|[6:13:57](https://www.webscorer.com/racedetails?raceid=123789&did=134453), 11:40 min/mile, 145bpm|
 |Jan. 3|9.5|speed|40|from house|1:30:08, 9:29 min/mile, 151bpm|
 |Jan. 6|18|race|40|Bosque Bike Path|2:59:53, 9:59 min/mile, 145bpm|
-|Jan. 10|10|speed|40|from house||
+|Jan. 10|10|speed|40|from house|1:38:28, 9:50 min/mile, 153bpm|
 |Jan. 13|9.5|mountain|35|La Luz||
 |Jan. 17|10.5|speed|40|from house||
 |Jan. 20|3.1*|speed|0|[Sandia Snowshoe Race](http://www.sandiasnowshoe.com)|*snow-shoe|
