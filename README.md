@@ -177,7 +177,7 @@ pages should list anything major.
 |Jan. 6|18|race|40|Bosque Bike Path|2:59:53, 9:59 min/mile, 145bpm|
 |Jan. 10|10|speed|40|from house|1:38:28, 9:50 min/mile, 153bpm|
 |Jan. 13|9.5|mountain|35|La Luz|2:20:24, 14:43 min/mile, 153bpm|
-|Jan. 17|10.5|speed|40|from house||
+|Jan. 17|10.5|speed|40|from house|1:43:05, 9:48 min/mile, 155bpm|
 |Jan. 20|3.1*|speed|0|[Sandia Snowshoe Race](http://www.sandiasnowshoe.com)|*snow-shoe|
 |Jan. 24|11|speed|40|from house||
 |Jan. 27|21|race|40|Bosque Bike Path||
