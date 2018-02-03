@@ -182,7 +182,7 @@ pages should list anything major.
 |Jan. 24|11|speed|40|from house|1:46:32, 9:40 min/mile, 157bpm|
 |Jan. 27|21|race|40|Bosque Bike Path|3:25:01, 9:45 min/mile, 151bpm|
 |Jan. 31|11.5|speed|40|from house|1:53:09, 9:49 min/mile, 156bpm|
-|Feb. 3|9.5|mountain|35|La Luz||
+|Feb. 3|9.5|mountain|35|La Luz|2:20:43, 14:55 min/mile, 149bpm|
 |Feb. 7|12|speed|40|from house||
 |Feb. 10|24|race|40|Bosque Bike Path||
 |Feb. 14|6|speed|40|from house||
