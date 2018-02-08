@@ -121,7 +121,7 @@ In the following table, `speed` means as quickly as I can to minimize
 the total time I spend. This year it should be about a 9:30
 minute/mile pace when running with my pack.  My speed during my
 non-pack races (e.g., Sandia Snowshoe Race and the Mt. Taylor Winter
-Quadrathlon) varies greatly!
+Quadrathlon) varies greatly.
 
 `Race` is my race goal of 10:18 minute/mile.
 
@@ -186,7 +186,7 @@ pages should list anything major.
 |Feb. 7|12|speed|40|from house|1:57:01, 9:44 min/mile, 156bpm|
 |Feb. 10|24|race|40|Bosque Bike Path||
 |Feb. 14|6|speed|40|from house||
-|Feb. 17|43*|speed|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snow-shoe|
+|Feb. 17|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snow-shoe (or bike/run if no snow)|
 |Feb. 18|31|comfort|0|Ghost Town 50k||
 |Feb. 21|12.5|speed|40|from house||
 |Feb. 24|9.5|mountain|35|La Luz||
