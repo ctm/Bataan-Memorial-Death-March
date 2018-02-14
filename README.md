@@ -185,7 +185,7 @@ pages should list anything major.
 |Feb. 3|9.5|mountain|35|La Luz|2:20:43, 14:55 min/mile, 149bpm|
 |Feb. 7|12|speed|40|from house|1:57:01, 9:44 min/mile, 156bpm|
 |Feb. 10|24|race|40|Bosque Bike Path|4:25:38, 11:03 min/mile, 147bpm|
-|Feb. 14|6|speed|40|from house||
+|Feb. 14|6|speed|40|from house|58:02, 9:39 min/mile, 159bpm|
 |Feb. 17|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snow-shoe (or bike/run if no snow)|
 |Feb. 18|31|comfort|0|Ghost Town 50k||
 |Feb. 21|12.5|speed|40|from house||
