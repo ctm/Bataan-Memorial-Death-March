@@ -186,8 +186,8 @@ pages should list anything major.
 |Feb. 7|12|speed|40|from house|1:57:01, 9:44 min/mile, 156bpm|
 |Feb. 10|24|race|40|Bosque Bike Path|4:25:38, 11:03 min/mile, 147bpm|
 |Feb. 14|6|speed|40|from house|58:02, 9:39 min/mile, 159bpm|
-|Feb. 17|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snow-shoe (or bike/run if no snow)|
-|Feb. 18|31|comfort|0|Ghost Town 50k||
+|Feb. 17|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run&Dagger; [6:08:07](http://www.ccrtiming.com/events-results/2018-results/mt-taylor.htm), 143bpm|
+|Feb. 18|31|comfort|0|Ghost Town 50k|7:07:20, 14:51 min/mile, 126bpm|
 |Feb. 21|12.5|speed|40|from house||
 |Feb. 24|9.5|mountain|35|La Luz||
 |Feb. 28|13|speed|40|from house||
@@ -204,19 +204,7 @@ started poking me in the back one quarter mile in.  This was a new
 pack that I bought to replace my previous one which had torn due to
 the stress I've put on it over the last couple of years.
 
-Although the new pack required minimal assembly, I still managed to do
-it wrong.  There are two bars&mdash;one on each side&mdash;that I
-needed to attach to the frame, but I only attached one.  As such, when
-I went for my run, the other one poked through the mesh and into my back.
-I realized what I had done so I turned around and ran (much more
-slowly) home to fix it.  I then decided to call it a day because I
-still have a tender left hamstring from _before_ Tucson and I haven't
-fully recovered from Tucson.
-
-FWIW, I ran the first 1/4 mile @ 8:12 min/mile. Last week the same 1/4
-mile was @ 6:58 min/mile.  If I had chosen to skip today's run
-entirely, I don't think it would have hurt my training, per-se, but
-there's a good chance that come Saturday I'd attempt my La Luz run
-with only one of the two bars attached and have to abort _that_
-training run.  As such, I'm glad I attempted this run and am not too
-disappointed that I chose to turn back.
+&Dagger;Normally there is also biking and snowshoeing, but there wasn't
+enough snow to do that this year.  I did, however, carry my snowshoes
+in a backpack with me from the run/ski transition.  I also held myself
+back because I had the Ghost Town 50k the next day.
