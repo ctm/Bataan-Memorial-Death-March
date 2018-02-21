@@ -204,7 +204,7 @@ started poking me in the back one quarter mile in.  This was a new
 pack that I bought to replace my previous one which had torn due to
 the stress I've put on it over the last couple of years.
 
-&Dagger;Normally there is also biking and snowshoeing, but there wasn't
+&Dagger;Normally there is also skiing and snowshoeing, but there wasn't
 enough snow to do that this year.  I did, however, carry my snowshoes
 in a backpack with me from the run/ski transition.  I also held myself
 back because I had the Ghost Town 50k the next day.
