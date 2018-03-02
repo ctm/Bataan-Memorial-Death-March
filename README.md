@@ -190,7 +190,7 @@ pages should list anything major.
 |Feb. 18|31|comfort|0|Ghost Town 50k|[7:07:15](https://ghosttown50kinvitationals.blogspot.com/2018/02/the-splits-from-feb-2018-gt-50-k.html), 14:51 min/mile, 126bpm|
 |Feb. 21|12.5|speed|40|from house|2:04:47, 9:58 min/mile, 150bpm, 180ffm|
 |Feb. 24|9.5|mountain|35|La Luz|2:27:06, 15:27 min/mile, 145bpm|
-|Feb. 28|13|speed|40|from house||
+|Feb. 28|13|speed|40|from house|did not run, was sick|
 |Mar. 3|24|race|40|Bosque Bike Path||
 |Mar. 7|13.5|speed|40|from house||
 |Mar. 11|4.75|mountain|35|La Luz||
