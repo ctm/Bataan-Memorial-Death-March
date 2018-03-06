@@ -191,8 +191,8 @@ pages should list anything major.
 |Feb. 21|12.5|speed|40|from house|2:04:47, 9:58 min/mile, 150bpm, 180ffm|
 |Feb. 24|9.5|mountain|35|La Luz|2:27:06, 15:27 min/mile, 145bpm|
 |Feb. 28|13|speed|40|from house|did not run, was sick|
-|Mar. 5|24|race|40|Bosque Bike Path|delayed 2 days due to sickness|
-|Mar. 8|13.5|speed|40|from house|delayed 1 day|
+|Mar. 6|24|race|40|Bosque Bike Path|delayed 3 days due to sickness 4:12:04, 10:29 min/mile, 154bpm (tentative: movescount is down)|
+|Mar. 8|13.5|speed|40|from house|on hold, depending on how quickly my lungs clear out|
 |Mar. 11|4.75|mountain|35|La Luz||
 |Mar. 14|6.5|speed|40|from house||
 |Mar. 18|6|race|40|Bosque Bike Path||
