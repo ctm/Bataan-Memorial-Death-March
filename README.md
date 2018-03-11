@@ -192,10 +192,11 @@ pages should list anything major.
 |Feb. 24|9.5|mountain|35|La Luz|2:27:06, 15:27 min/mile, 145bpm|
 |Feb. 28|13|speed|40|from house|did not run, was sick|
 |Mar. 6|24|race|40|Bosque Bike Path|delayed 3 days due to sickness 4:12:04, 10:29 min/mile, 154bpm (tentative: movescount is down)|
-|Mar. 8|13.5|speed|40|from house|on hold, depending on how quickly my lungs clear out|
-|Mar. 11|4.75|mountain|35|La Luz||
+|Mar. 7|13.5|speed|40|from house|skipped, to resync my schedule|
+|Mar. 10|4.75|mountain|35|La Luz|1:01:19, 13:39 min/mile, 156bpm|
+|Mar. 10|9.79|comfort|35|La Luz|5:10:19, 31:39 min/mile, 117bpm bonus Team RWB hike|
 |Mar. 14|6.5|speed|40|from house||
-|Mar. 18|6|race|40|Bosque Bike Path||
+|Mar. 17|6|race|40|Bosque Bike Path||
 |Mar. 21|3.25|speed|40|from house||
 |Mar. 25|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
 
