@@ -196,7 +196,7 @@ pages should list anything major.
 |Mar. 10|4.75|mountain|35|La Luz|1:01:19, 13:39 min/mile, 156bpm|
 |Mar. 10|9.79|comfort|35|La Luz|5:10:19, 31:39 min/mile, 117bpm bonus Team RWB hike|
 |Mar. 14|6.5|speed|40|from house|1:03:35, 9:53 min/mile, 163bpm|
-|Mar. 17|6|race|40|Bosque Bike Path||
+|Mar. 17|6|race|40|Bosque Bike Path|55:24, 9:12 min/mile, 154bpm|
 |Mar. 21|3.25|speed|40|from house||
 |Mar. 25|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
 
