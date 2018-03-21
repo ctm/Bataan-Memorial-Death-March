@@ -1,6 +1,6 @@
 # Bataan Memorial Death March training
 
-Cliff Matthews's training plan for the 2018 [Bataan
+Cliff Matthews's training log for the 2018 [Bataan
 Memorial Death March](http://bataanmarch.com) (civilian heavy).  This
 is very similar to [what I did for 2017](2017.md).
 
@@ -46,19 +46,22 @@ that wasn't enough training days, and the surface was too soft.  So,
 when I attended my first BMDM, my feet hurt quite a bit by mile six.
 I could barely walk the last several miles.
 
-For the last few years I've begun training in November, although I try
-to do _something_ with my pack at least once a month between BMDM and
-when I start training.  Often that is a search and rescue mission or
-two, but&mdash;assuming I'm healthy&mdash;I'll go out and do a big
-hike with a fifty pound pack on a month with no significant missions.
+In the last few years I started training in November, but this year I
+started doing weekly pack runs in late August.  In my non-training
+months I've tried to do _something_ with my pack at least once a month
+between BMDM and when I start training.  Often that is a search and
+rescue mission or two, but&mdash;assuming I'm healthy&mdash;I'll go
+out and do a big hike with a fifty pound pack on a month with no
+significant missions.
 
-During training, I run with my pack on Wednesdays and on Saturdays.
-My Wednesday runs are done as quickly as I can and start from and end
-at my house.  Typically I increase the distance by a half mile each
-week.  My Saturday runs alternate between a level run at race pace and
-a run five miles up and five miles down the local mountain.  My level
-run distance typically increases by three miles.  My mountain run
-stays the same distance, but I try to do it faster each time.
+During training, starting in November, I run with my pack on
+Wednesdays and on Saturdays.  My Wednesday runs are done as quickly as
+I can and start from and end at my house.  Typically I increase the
+distance by a half mile each week.  My Saturday runs alternate between
+a level run at race pace and a run five miles up and five miles down
+the local mountain.  My level run distance typically increases by
+three miles.  My mountain run stays the same distance, but I try to do
+it faster each time.
 
 In addition to my pack runs, I also run without my pack the remaining
 days of the week except Sunday, when I ride my bike.
@@ -136,7 +139,7 @@ keep my HR between 140bpm and 150bpm during the Foothills Fat Ass 50k.
 I'm out there to have fun and to take a break from training.
 
 
-## My plan
+## My log
 
 In addition to the runs in the following table, I may do others.  My
 [Marathon
@@ -197,7 +200,7 @@ pages should list anything major.
 |Mar. 10|9.79|comfort|35|La Luz|5:10:19, 31:39 min/mile, 117bpm bonus Team RWB hike|
 |Mar. 14|6.5|speed|40|from house|1:03:35, 9:53 min/mile, 163bpm|
 |Mar. 17|6|race|40|Bosque Bike Path|55:24, 9:12 min/mile, 154bpm|
-|Mar. 21|3.25|speed|40|from house||
+|Mar. 21|3.25|speed|40|from house|28:28, 8:45 min/mile, 161bpm|
 |Mar. 25|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
 
 &dagger;On December 13th, I only ran 0.49 miles, because my pack
@@ -209,3 +212,57 @@ the stress I've put on it over the last couple of years.
 enough snow to do that this year.  I did, however, carry my snowshoes
 in a backpack with me from the run/ski transition.  I also held myself
 back because I had the Ghost Town 50k the next day.
+
+## Prediction going into BMDM 2018
+
+### Fitness
+
+I am better trained than last year, but not as trained as 2016.
+
+### Weather
+
+BMDM in 2016 was on March 20th.  This year it's March 25th.  Those
+five days are probably going to add to the heat.  Although it probably
+won't be as hot as it was last year (which was the hottest it's ever
+been since they moved the event from April back to March), the current
+prediction is for a low of 54 and high of 79.  That's fairly hot.
+
+### Other differences
+
+Last year I switched from an external frame backpack to an internal one,
+because internal frames are better for search and rescue.  I figured I
+should use an internal frame for SAR and it makes sense to train for BMDM
+with the same pack I use for SAR.  That was a bad choice and the extra
+heat really got to me.  So this year I'm back to using an external frame
+for BMDM but I still use my internal frame for SAR.
+
+Psychologically, I'm more resilient than I was last year.  Mentally I
+simply wasn't over my bike accident last year.  This year it's a
+distant memory (although I did use my bike's brakes when I got up to
+45mph going downhill @ The Quad this year).
+
+Last year I used an iPod nano; this year I'm using my iPhone.  I will
+try hard to keep water out of my earbuds.  Last year my tunes started
+fritzing out at around mile 20.  This year I'm hoping for my playlist
+to last throughout the race.
+
+### 4:45
+
+At the beginning of this year's training, my goal was to break 4:30.
+However, to have maximized my chance of doing so, I shouldn't have run
+Tucson to qualify for Boston, I shouldn't have done the Quad and Ghost
+Town 50k in the same weekend, I shouldn't have done a Team RWB hike on
+March 10th, nor should I have had a couple beers on Tuesday March 20th
+before my last Wednesday pack run, but ... I'm glad I did all of those
+things.
+
+If the weather isn't too bad, I think I can easily break 4:45.  I will
+still try to break 4:30, but my big goal is to not let my heart-rate
+sag too much between miles 20 and 25.  That has been my downfall.  In
+2016 my average HR for that stretch was 151.  In 2017 it was 146 (in
+the ferocious heat).  My A goal will be to keep it at 160, but
+realistically I may have a hard time keeping it up at 155; because by
+that time of the race I'm a bit uncomfortable.
+
+My completely unrealistic goal will be not to cry when I see [Ben
+Skardon](https://www.youtube.com/watch?v=QGAV5vdRscY).
