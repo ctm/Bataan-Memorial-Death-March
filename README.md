@@ -1,8 +1,8 @@
 # Bataan Memorial Death March training
 
-Cliff Matthews's training log for the 2018 [Bataan
-Memorial Death March](http://bataanmarch.com) (civilian heavy).  This
-is very similar to [what I did for 2017](2017.md).
+Cliff Matthews's training plan for the 2019 [Bataan
+Memorial Death March](http://bataanmarch.com) (civilian heavy),
+similar to what I did for [2017](2017.md) and [2018](2018.md).
 
 ## What is the BMDM?
 
@@ -29,9 +29,9 @@ that I was hooked.
 Although that first march took me seven and a half hours and beat the
 hell out of me, I decided to return each year as long as the original
 vets were still coming out.  I also decided to volunteer for search
-and rescue since I realized I met the physical requirements and knew
-that SAR was a tiny way I could say thanks with more than a word and
-a handshake.
+and rescue (SAR) since I realized I met the physical requirements and
+knew that SAR was a tiny way I could say thanks with more than a word
+and a handshake.
 
 In addition to honoring veterans, training for BMDM keeps me fit for
 SAR missions.
@@ -46,7 +46,7 @@ that wasn't enough training days, and the surface was too soft.  So,
 when I attended my first BMDM, my feet hurt quite a bit by mile six.
 I could barely walk the last several miles.
 
-In the last few years I started training in November, but this year I
+In the last few years I started training in November, but in 2017 I
 started doing weekly pack runs in late August.  In my non-training
 months I've tried to do _something_ with my pack at least once a month
 between BMDM and when I start training.  Often that is a search and
@@ -76,10 +76,11 @@ although the times, distances and weight should probably be lessened.
 
 ## Base building
 
-In previous years, my BMDM training has begun in mid November.  I was not
-happy with my performance in 2017, so this year I started doing Wednesday
-pack runs in late August.  I also stopped tapering and taking recovery days
-after my August through November races.
+In previous years, my BMDM training has begun in mid November.  I was
+not happy with my performance @ BMDM in March of 2017, so that year I
+started doing Wednesday pack runs in late August.  I also stopped
+tapering and taking recovery days after my August through November
+races.
 
 I did fine without the taper or recovery days for all of my races
 until the Tucson marathon.  I caught a pretty bad cold (or maybe it
@@ -135,11 +136,14 @@ my pace.  My record, in February 2016, was a 14:15 minute/mile pace.  I
 hope to better that this year, but it'll be tough.
 
 `Comfort` means I'll
-keep my HR between 140bpm and 150bpm during the Foothills Fat Ass 50k.
+keep my HR between below 150bpm during the event.
 I'm out there to have fun and to take a break from training.
 
+`Pace` means whatever it takes to be the best pacer possible for my
+brother-in-law as he finishes his first Leadville 100.
 
-## My log
+
+## My plan
 
 In addition to the runs in the following table, I may do others.  My
 [Marathon
@@ -148,121 +152,63 @@ and
 [UltraSignup](http://ultrasignup.com/results_participant.aspx?fname=Clifford&lname=Matthews)
 pages should list anything major.
 
+I haven't yet decided when to start Wednesday pack runs post-BMDM 2018.  I'm
+thinking about doing them throughout the year, but I sprained my ankle six
+days after BMDM and haven't run with my pack since.
+
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Aug. 23|5.58|speed|40|from house|10:27 min/mile|
-|Aug. 30|5.58|speed|40|from house|9:45|
-|Sep. 6|5.58|speed|40|from house|9:51|
-|Sep. 13|5.58|speed|40|from house|9:21|
-|Sep. 20|5.58|speed|40|from house|9:13|
-|Sep. 27|5.58|speed|40|from house|9:11|
-|Oct. 4|5.58|speed|40|from house|9:29|
-|Oct. 19|5.58|speed|40|from house|8:56|
-|Oct. 25|5.58|speed|40|from house|8:47|
-|Nov. 14|6|speed|40|from house|9:09|
-|Nov. 18|9.5|mountain|35|La Luz|2:16:03, 14:27 min/mile|
-|Nov. 22|6.5|speed|40|from house|9:04|
-|Nov. 23|6.2|speed|0|[Hobbler Gobbler 10k](http://results.active.com/system/uploads/result_files/2017/11/23/285187Ua2456c92/HOBBLER_GOBBLER_THANKSGIVING_DAY_10K_2017_OVERALL_FINISH.htm?1511478767)|49:19, 7:48 min/mile|
-|Nov. 24|4|speed|0|[Black Friday Turkey Trots](https://www.webscorer.com/racedetails?raceid=121365&did=131872)|31:17, 7:46 min/mile|
-|Nov. 25|31|comfort|0|[Bosque Bigfoot FREEAss 50k](http://ultrasignup.com/results_event.aspx?did=49420)|5:35:21, 10:17 min/mile|
-|Nov. 29|7|speed|40|from house|9:17 min/mile, 148bpm, slightly strained hamstring|
-|Dec. 2|12|race|40|Bosque Bike Path|1:57:19, 9:45 min/mile, 144bpm|
-|Dec. 6|7.5|speed|40|from house|8:59 min/mi, 154bpm, slightly sore hamstring still|
-|Dec. 9|26.2|speed|0|[Tucson Marathon](https://www.athlinks.com/event/13551/results/Event/603382/Course/913511/Bib/367)|3:31:25, 8:04 min/mile, 155bpm|
-|Dec. 13|8&dagger;|speed|40|from house|0.49 miles @ 9:11 min/mile|
-|Dec. 16|9.5|mountain|35|La Luz|2:21:03, 15:01 min/mile|
-|Dec. 20|8.5|speed|40|from house|did not run with my pack: junk in lungs|
-|Dec. 23|15|race|40|Bosque Bike Path|did not run: search and rescue mission instead|
-|Dec. 27|9|speed|40|from house|1:23:53, 9:19 min/mile, 159bpm, still had some junk in lungs|
-|Dec. 30|9.5|mountain|35|La Luz|2:14:56, 14:18 min/mile, 154bpm|
-|Jan. 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|[6:13:57](https://www.webscorer.com/racedetails?raceid=123789&did=134453), 11:40 min/mile, 145bpm|
-|Jan. 3|9.5|speed|40|from house|1:30:08, 9:29 min/mile, 151bpm|
-|Jan. 6|18|race|40|Bosque Bike Path|2:59:53, 9:59 min/mile, 145bpm|
-|Jan. 10|10|speed|40|from house|1:38:28, 9:50 min/mile, 153bpm|
-|Jan. 13|9.5|mountain|35|La Luz|2:20:24, 14:43 min/mile, 153bpm|
-|Jan. 17|10.5|speed|40|from house|1:43:05, 9:48 min/mile, 155bpm|
-|Jan. 20|21|race|40|Bosque Bike Path|3:40:14, 10:29 min/mile, 154bpm ([Sandia Snowshoe Race](http://sandiasnowshoe.com) was canceled)|
-|Jan. 24|11|speed|40|from house|1:46:32, 9:40 min/mile, 157bpm|
-|Jan. 27|21|race|40|Bosque Bike Path|3:25:01, 9:45 min/mile, 151bpm|
-|Jan. 31|11.5|speed|40|from house|1:53:09, 9:49 min/mile, 156bpm|
-|Feb. 3|9.5|mountain|35|La Luz|2:20:43, 14:55 min/mile, 149bpm|
-|Feb. 7|12|speed|40|from house|1:57:01, 9:44 min/mile, 156bpm|
-|Feb. 10|24|race|40|Bosque Bike Path|4:25:38, 11:03 min/mile, 147bpm|
-|Feb. 14|6|speed|40|from house|58:02, 9:39 min/mile, 159bpm|
-|Feb. 17|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run&Dagger; [6:08:07](http://www.ccrtiming.com/events-results/2018-results/mt-taylor.htm), 143bpm|
-|Feb. 18|31|comfort|0|Ghost Town 50k|[7:07:15](https://ghosttown50kinvitationals.blogspot.com/2018/02/the-splits-from-feb-2018-gt-50-k.html), 14:51 min/mile, 126bpm|
-|Feb. 21|12.5|speed|40|from house|2:04:47, 9:58 min/mile, 150bpm, 180ffm|
-|Feb. 24|9.5|mountain|35|La Luz|2:27:06, 15:27 min/mile, 145bpm|
-|Feb. 28|13|speed|40|from house|did not run, was sick|
-|Mar. 6|24|race|40|Bosque Bike Path|delayed 3 days due to sickness 4:12:04, 10:29 min/mile, 154bpm (tentative: movescount is down)|
-|Mar. 7|13.5|speed|40|from house|skipped, to resync my schedule|
-|Mar. 10|4.75|mountain|35|La Luz|1:01:19, 13:39 min/mile, 156bpm|
-|Mar. 10|9.79|comfort|35|La Luz|5:10:19, 31:39 min/mile, 117bpm bonus Team RWB hike|
-|Mar. 14|6.5|speed|40|from house|1:03:35, 9:53 min/mile, 163bpm|
-|Mar. 17|6|race|40|Bosque Bike Path|55:24, 9:12 min/mile, 154bpm|
-|Mar. 21|3.25|speed|40|from house|28:28, 8:45 min/mile, 161bpm|
-|Mar. 25|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
+|Aug 4|31|comfort|0|[Baldy 50k](https://newmexicofa50k.wordpress.com/baldy_50k/)|I'm the race-director, but I'm still hoping to run it this year|
+|Aug 18|50|pace|0|[Leadville Trail 100](http://www.leadvilleraceseries.com/run/leadvilletrail100run/)|Pacing my brother-in-law back from Winfield|
+|Aug 25|27|comfort|50|Sandia Crest Trail|13-hour slow hike|
+|Sep 7|200|comfort|0|[Tahoe 200](http://www.tahoe200.com)|100 hour (max) event|
+|Sep ?|13.1|race|0|Wounded Warrior half marathon|Will do if it's a convenient date|
+|Sep ?|100*|comfort|0|Tour de Cheapskates|*Self-supported 100 mile bike ride|
+|Sep 29|31|comfort|0|[Mt. Taylor 50k](http://www.mttaylor50k.com)||
+|Oct 20|31|comfort|0|[White Mesa Fat Ass 50k](https://newmexicofa50k.wordpress.com)||
+|Oct 21|26.2|comfort|0|[Duke City Marathon](https://www.dukecitymarathon.com)|If allowed, I'll be the 5:00 pace group leader|
+|Oct 27|100|comfort|0|[Javelina Jundred](http://www.javelinajundred.com)||
+|Nov 3|53|comfort|0|[Deadman Peaks Trail Run](https://deadmanpeakstrailrun.wordpress.com)||
+|Nov 11|31|comfort|0|[Ghost Town 50k](https://ghosttown50kinvitationals.blogspot.com)||
+|Nov 17|9.5|mountain|35|La Luz||
+|Nov. 14|6|speed|40|from house||
+|Nov. 21|6.5|speed|40|from house||
+|Nov 23|4|speed|0|Black Friday Turkey Trots||
+|Nov 24|31|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=56199)||
+|Nov 28|7|speed|40|from house||
+|Dec 1|12|race|40|Bosque Bike Path||
+|Dec 5|7.5|speed|40|from house||
+|Dec 8|15|speed|40|from house||
+|Dec 12|8.0|speed|40|from house||
+|Dec 15|9.5|mountain|35|La Luz||
+|Dec 19|8.5|speed|40|from house||
+|Dec 22|18|race|40|Bosque Bike Path||
+|Dec 26|9|speed|40|from house||
+|Dec 29|9.5|mountain|35|La Luz||
+|Jan 1|31|comfort|0|Foothills Fat Ass 50k||
+|Jan 2|5.6|speed|40|from house||
+|Jan 5|21|race|40|Bosque Bike Path||
+|Jan 9|10|speed|40|from house||
+|Jan 12|9.5|mountain|35|La Luz||
+|Jan 16|10.5|speed|40|from house||
+|Jan 19|3.1|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)||
+|Jan 23|11|speed|40|from house||
+|Jan 26|24|race|40|Bosque Bike Path||
+|Jan 30|11.5|speed|40|from house||
+|Feb 2|9.5|mountain|35|La Luz||
+|Feb 6|12|speed|40|from house||
+|Feb 9|12|race|40|Bosque Bike Path||
+|Feb 13|5.6|speed|40|from house||
+|Feb 16|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snowshoe|
+|Feb 17|31|comfort|0|[Ghost Town 50k](https://ghosttown50kinvitationals.blogspot.com)||
+|Feb 20|6|speed|40|from house||
+|Feb 23|9.5|mountain|35|La Luz||
+|Feb 27|13|speed|40|from house||
+|Mar 2|24|race|40|Bosque Bike Path||
+|Mar 6|6.5|speed|40|from house||
+|Mar 9|4.75|mountain|35|La Luz||
+|Mar 13|3.25|speed|40|from house||
+|Mar 17|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
 
-&dagger;On December 13th, I only ran 0.49 miles, because my pack
-started poking me in the back one quarter mile in.  This was a new
-pack that I bought to replace my previous one which had torn due to
-the stress I've put on it over the last couple of years.
-
-&Dagger;Normally there is also skiing and snowshoeing, but there wasn't
-enough snow to do that this year.  I did, however, carry my snowshoes
-in a backpack with me from the run/ski transition.  I also held myself
-back because I had the Ghost Town 50k the next day.
-
-## Prediction going into BMDM 2018
-
-### Fitness
-
-I am better trained than last year, but not as trained as 2016.
-
-### Weather
-
-BMDM in 2016 was on March 20th.  This year it's March 25th.  Those
-five days are probably going to add to the heat.  Although it probably
-won't be as hot as it was last year (which was the hottest it's ever
-been since they moved the event from April back to March), the current
-prediction is for a low of 54 and high of 79.  That's fairly hot.
-
-### Other differences
-
-Last year I switched from an external frame backpack to an internal one,
-because internal frames are better for search and rescue.  I figured I
-should use an internal frame for SAR and it makes sense to train for BMDM
-with the same pack I use for SAR.  That was a bad choice and the extra
-heat really got to me.  So this year I'm back to using an external frame
-for BMDM but I still use my internal frame for SAR.
-
-Psychologically, I'm more resilient than I was last year.  Mentally I
-simply wasn't over my bike accident last year.  This year it's a
-distant memory (although I did use my bike's brakes when I got up to
-45mph going downhill @ The Quad this year).
-
-Last year I used an iPod nano; this year I'm using my iPhone.  I will
-try hard to keep water out of my earbuds.  Last year my tunes started
-fritzing out at around mile 20.  This year I'm hoping for my playlist
-to last throughout the race.
-
-### 4:45
-
-At the beginning of this year's training, my goal was to break 4:30.
-However, to have maximized my chance of doing so, I shouldn't have run
-Tucson to qualify for Boston, I shouldn't have done the Quad and Ghost
-Town 50k in the same weekend, I shouldn't have done a Team RWB hike on
-March 10th, nor should I have had a couple beers on Tuesday March 20th
-before my last Wednesday pack run, but ... I'm glad I did all of those
-things.
-
-If the weather isn't too bad, I think I can easily break 4:45.  I will
-still try to break 4:30, but my big goal is to not let my heart-rate
-sag too much between miles 20 and 25.  That has been my downfall.  In
-2016 my average HR for that stretch was 151.  In 2017 it was 146 (in
-the ferocious heat).  My A goal will be to keep it at 160, but
-realistically I may have a hard time keeping it up at 155; because by
-that time of the race I'm a bit uncomfortable.
-
-My completely unrealistic goal will be not to cry when I see [Ben
-Skardon](https://www.youtube.com/watch?v=QGAV5vdRscY).
+The biggest thing I have to do is stay healthy and uninjured.  If I do that,
+the rest will take care of itself.
