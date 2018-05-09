@@ -152,12 +152,35 @@ and
 [UltraSignup](http://ultrasignup.com/results_participant.aspx?fname=Clifford&lname=Matthews)
 pages should list anything major.
 
-I haven't yet decided when to start Wednesday pack runs post-BMDM 2018.  I'm
-thinking about doing them throughout the year, but I sprained my ankle six
-days after BMDM and haven't run with my pack since.
+### Wednesday pack runs
+
+I sprained my ankle six days after BMDM, so I didn't do another pack
+run until Thursday, April 26th, when I chose to run 8.9 miles at about
+a 130bpm heart rate with a 31.5# pack as part of a plan to slowly get
+back into running on Wednesdays with a 40# pack.
+
+I'm going to go ahead and log all my pack runs as I do them.  In general,
+I'll be doing base building until the beginning of November.  Exactly how
+I'll do that, I haven't figured out.  Initially I'm not wearing my ice hat,
+taking extra caffeine or any calories while I run.  If I'm happy with the
+progress I make, I'll probably stick to that, but it's way too early to
+tell.
+
+### Completed
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
+|Apr 26|8.9|comfort|31.5|from house|1:41:58, 130bpm, 11:28 min/mi|
+|Apr 28|6.6|comfort+|31.5|from Philmont (trail)|1:20:42, 148bpm, 12:15 min/mi|
+|Apr 29|8.1|speed|31.5|from Philmont (road)|1:27:15, 145bpm, 10:45 min/mi|
+|May 9|5.55|race|36.5|from house|53:21, 150bpm, 9:36 min/mi|
+
+### Planned (omits most non-ruck races until August)
+
+|Date|Miles|Pace|Pounds|Where|Notes|
+|----|-----|----|------|-----|-----|
+|May 26|3.1|race|35|Believe in Heros (Los Lunas)|ruck sack race|
+|Jun 2|27|comfort|50|Sandia Crest Trail|13-hour slow hike|
 |Aug 4|31|comfort|0|[Baldy 50k](https://newmexicofa50k.wordpress.com/baldy_50k/)|I'm the race-director, but I'm still hoping to run it this year|
 |Aug 18|50|pace|0|[Leadville Trail 100](http://www.leadvilleraceseries.com/run/leadvilletrail100run/)|Pacing my brother-in-law back from Winfield|
 |Aug 25|27|comfort|50|Sandia Crest Trail|13-hour slow hike|
