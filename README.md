@@ -174,21 +174,25 @@ tell.
 |Apr 28|6.6|comfort+|31.5|from Philmont (trail)|1:20:42, 148bpm, 12:15 min/mi|
 |Apr 29|8.1|speed|31.5|from Philmont (road)|1:27:15, 145bpm, 10:45 min/mi|
 |May 9|5.55|race|36.5|from house|53:21, 150bpm, 9:36 min/mi|
+|May 16|2.24|race|40|from house|19:46, 155bpm, 8:50 min/mi, 5# plate too far forward|
 
-### Planned (omits most non-ruck races until August)
+
+### Planned (includes non-ruck endurance events)
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|May 26|3.1|race|35|Believe in Heros (Los Lunas)|ruck sack race|
-|Jun 2|27|comfort|50|Sandia Crest Trail|13-hour slow hike|
+|May 18|106|comfort|0|[Cruel Jewel 100](http://www.dumassevents.com)|
+|May 26|3.1|race|35|[Believe in Heros (Los Lunas)](https://runsignup.com/Race/NM/LosLunas/7thAnnualBelieveinHeroesMemorialWeekendRun)|ruck sack race|
+|Jun 2|27|comfort|50|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664710/)|13-hour slow hike|
+|Jun 9|31|comfort|0|Chimney Melon 50k|
 |Aug 4|31|comfort|0|[Baldy 50k](https://newmexicofa50k.wordpress.com/baldy_50k/)|I'm the race-director, but I'm still hoping to run it this year|
 |Aug 18|50|pace|0|[Leadville Trail 100](http://www.leadvilleraceseries.com/run/leadvilletrail100run/)|Pacing my brother-in-law back from Winfield|
-|Aug 25|27|comfort|50|Sandia Crest Trail|13-hour slow hike|
+|Aug 25|27|comfort|50|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664922/)|13-hour slow hike|
 |Sep 7|200|comfort|0|[Tahoe 200](http://www.tahoe200.com)|100 hour (max) event|
 |Sep ?|13.1|race|0|Wounded Warrior half marathon|Will do if it's a convenient date|
 |Sep ?|100*|comfort|0|Tour de Cheapskates|*Self-supported 100 mile bike ride|
 |Sep 29|31|comfort|0|[Mt. Taylor 50k](http://www.mttaylor50k.com)||
-|Oct 20|31|comfort|0|[White Mesa Fat Ass 50k](https://newmexicofa50k.wordpress.com)||
+|Oct 20|31|comfort|0|[White Mesa Fat Ass 50k](https://newmexicofa50k.wordpress.com/white_mesa_50k/)||
 |Oct 21|26.2|comfort|0|[Duke City Marathon](https://www.dukecitymarathon.com)|If allowed, I'll be the 5:00 pace group leader|
 |Oct 27|100|comfort|0|[Javelina Jundred](http://www.javelinajundred.com)||
 |Nov 3|53|comfort|0|[Deadman Peaks Trail Run](https://deadmanpeakstrailrun.wordpress.com)||
@@ -208,7 +212,7 @@ tell.
 |Dec 22|18|race|40|Bosque Bike Path||
 |Dec 26|9|speed|40|from house||
 |Dec 29|9.5|mountain|35|La Luz||
-|Jan 1|31|comfort|0|Foothills Fat Ass 50k||
+|Jan 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)||
 |Jan 2|5.6|speed|40|from house||
 |Jan 5|21|race|40|Bosque Bike Path||
 |Jan 9|10|speed|40|from house||
