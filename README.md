@@ -175,13 +175,13 @@ tell.
 |Apr 29|8.1|speed|31.5|from Philmont (road)|1:27:15, 145bpm, 10:45 min/mi|
 |May 9|5.55|race|36.5|from house|53:21, 150bpm, 9:36 min/mi|
 |May 16|2.24|race|40|from house|19:46, 155bpm, 8:50 min/mi, 5# plate too far forward|
+|May 18|106|comfort|0|[Cruel Jewel 100](http://www.dumassevents.com)|[39:12](http://ultrasignup.com/results_event.aspx?did=51178), 116bpm, 22:13 min/mi|
 
 
 ### Planned (includes non-ruck endurance events)
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|May 18|106|comfort|0|[Cruel Jewel 100](http://www.dumassevents.com)|
 |May 26|3.1|race|35|[Believe in Heros (Los Lunas)](https://runsignup.com/Race/NM/LosLunas/7thAnnualBelieveinHeroesMemorialWeekendRun)|ruck sack race|
 |Jun 2|27|comfort|50|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664710/)|13-hour slow hike|
 |Jun 9|31|comfort|0|Chimney Melon 50k|
