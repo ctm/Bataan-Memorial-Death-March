@@ -176,21 +176,22 @@ tell.
 |May 9|5.55|race|36.5|from house|53:21, 150bpm, 9:36 min/mi|
 |May 16|2.24|race|40|from house|19:46, 155bpm, 8:50 min/mi, 5# plate too far forward|
 |May 18|106|comfort|0|[Cruel Jewel 100](http://www.dumassevents.com)|[39:12](http://ultrasignup.com/results_event.aspx?did=51178), 116bpm, 22:13 min/mi|
+|May 26|3.1|race|35|Believe in Heros (Los Lunas)|26:06, 154bpm, 8:26 min/mi|
 
 
 ### Planned (includes non-ruck endurance events)
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|May 26|3.1|race|35|[Believe in Heros (Los Lunas)](https://runsignup.com/Race/NM/LosLunas/7thAnnualBelieveinHeroesMemorialWeekendRun)|ruck sack race|
 |Jun 2|27|comfort|50|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664710/)|13-hour slow hike|
-|Jun 9|31|comfort|0|Chimney Melon 50k|
-|Aug 4|31|comfort|0|[Baldy 50k](https://newmexicofa50k.wordpress.com/baldy_50k/)|I'm the race-director, but I'm still hoping to run it this year|
+|Jun 9|31|comfort|0|Chimney Melon 50k|Not a race, just a fun group training run|
+|Aug 4|31|comfort|0|[Baldy 50k](https://newmexicofa50k.wordpress.com/baldy_50k/)|I'm the race-director, but still hoping to run it|
 |Aug 18|50|pace|0|[Leadville Trail 100](http://www.leadvilleraceseries.com/run/leadvilletrail100run/)|Pacing my brother-in-law back from Winfield|
 |Aug 25|27|comfort|50|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664922/)|13-hour slow hike|
 |Sep 7|200|comfort|0|[Tahoe 200](http://www.tahoe200.com)|100 hour (max) event|
 |Sep ?|13.1|race|0|Wounded Warrior half marathon|Will do if it's a convenient date|
 |Sep ?|100*|comfort|0|Tour de Cheapskates|*Self-supported 100 mile bike ride|
+|Sep 21|33|comfort|0|[AA 50k](https://newmexicofa50k.wordpress.com/aa50k/)||
 |Sep 29|31|comfort|0|[Mt. Taylor 50k](http://www.mttaylor50k.com)||
 |Oct 20|31|comfort|0|[White Mesa Fat Ass 50k](https://newmexicofa50k.wordpress.com/white_mesa_50k/)||
 |Oct 21|26.2|comfort|0|[Duke City Marathon](https://www.dukecitymarathon.com)|If allowed, I'll be the 5:00 pace group leader|
