@@ -90,6 +90,26 @@ drinking.  On the other hand, my son had caught the same bug before I
 did and my wife caught it shortly after.  Friends and relatives caught
 it around the same time, so maybe I'd have fallen sick regardless.
 
+## Weight loss
+
+On March 29th I went down to UNM and was hydrostatically weighed.  My
+body fat percentage was 21.95%.  That was a wake-up call, so I decided
+to experiment with losing weight and trying to not lose power.  I was
+a little nervous that doing so would interfere with my ability to finish
+Cruel Jewel 100, but it was just the opposite.  I finished CJ100 much
+quicker than I expected, in part&mdash;I believe&mdash;due to my weight loss.
+
+My goal is to get my body fat percentage down to 7.3%.  That would be
+approximately 156 pounds.  I have a second hydrostatic weighing coming
+up on June 4th.  I'll probably weigh around 163.5 by then.  If I
+haven't been losing muscle as I've been losing weight, that should be
+around 11.5% body fat.  Once I get to 7.3%, I'll ramp up my
+carbohydrate intake and increase the intensity of some of my training
+days, although I'll be concentrating on building my BMDM base while I
+also do some ultra-specific training so I'll be able to pace my
+brother-in-law at Leadville and then "run" the Tahoe 200 two weeks
+later.
+
 ## Non-pack Days
 
 During the week I do slow runs from my house out to Albuquerque Academy,
@@ -161,10 +181,25 @@ back into running on Wednesdays with a 40# pack.
 
 I'm going to go ahead and log all my pack runs as I do them.  In general,
 I'll be doing base building until the beginning of November.  Exactly how
-I'll do that, I haven't figured out.  Initially I'm not wearing my ice hat,
-taking extra caffeine or any calories while I run.  If I'm happy with the
-progress I make, I'll probably stick to that, but it's way too early to
-tell.
+I'll do that, I'm still refining.
+
+On May 30th, my plan was to run 13.1 miles with a 40 pound pack while
+keeping my heart rate at 130bpm, but with the proviso that if I wasn't
+done two and a half hours in, I could "stop".  Sure enough, I was a
+quarter mile from home when 2:30 rolled around, so I walked to my home
+and only got 12.26 miles in.  I consumed 40 oz. of water with 600
+calories of Tailwind, but I didn't have extra caffeine, nor did I wear
+my ice hat or have breakfast.  I also didn't have any water in my pack,
+so when I was out of water from my handhelds, I was out.
+
+I think the way I'll do Wednesdays for the next few weeks is to have
+some sort of breakfast as soon as I get up and to have additional
+water in my pack (and some dry Tailwind to mix in), and otherwise do
+the same that I did on May 30th.  I expect to be able to finish 13.1
+miles in less than 2:30, even as the temperature continues to rise.  I
+don't anticipate using my ice hat, because I'd like my body to get
+used to the heat, since that's one of the things that hits me hard @
+BMDM.
 
 ### Completed
 
@@ -177,6 +212,7 @@ tell.
 |May 16|2.24|race|40|from house|19:46, 155bpm, 8:50 min/mi, 5# plate too far forward|
 |May 18|106|comfort|0|[Cruel Jewel 100](http://www.dumassevents.com)|[39:12](http://ultrasignup.com/results_event.aspx?did=51178), 116bpm, 22:13 min/mi|
 |May 26|3.1|race|35|Believe in Heros (Los Lunas)|26:06, 154bpm, 8:26 min/mi|
+|May 30|12.26|comfort|40|from house|2:36:46, 128bpm, 12:47 min/mi|
 
 
 ### Planned (includes non-ruck endurance events)
