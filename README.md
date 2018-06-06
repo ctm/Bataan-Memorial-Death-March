@@ -192,14 +192,27 @@ calories of Tailwind, but I didn't have extra caffeine, nor did I wear
 my ice hat or have breakfast.  I also didn't have any water in my pack,
 so when I was out of water from my handhelds, I was out.
 
-I think the way I'll do Wednesdays for the next few weeks is to have
-some sort of breakfast as soon as I get up and to have additional
-water in my pack (and some dry Tailwind to mix in), and otherwise do
-the same that I did on May 30th.  I expect to be able to finish 13.1
-miles in less than 2:30, even as the temperature continues to rise.  I
-don't anticipate using my ice hat, because I'd like my body to get
-used to the heat, since that's one of the things that hits me hard @
-BMDM.
+On June 6th, I had the same plan (13.1 miles, 40#, 130bpm) and I got
+12.52 miles in by 2:30.  My pack was slightly light, because I had put
+it together the day before (or maybe even two days before) and some of
+the weight was water in a 100 oz. bladder that leaked a little.  I
+also used 20 oz. of the water so that instead of consuming 2 handhelds
+with 300 calories each, I consumed 3.  That gave me more oomph at the
+end, although it also meant that I was running with 20 oz. less in my
+pack at the end.
+
+One other thing I did differently this week was I drank a pint of
+water with 3 tablespoons of chia seeds (180 calories) mixed in (ten
+minutes before I drank it) shortly after I got up.  I think that the
+added 180 calories before my workout and the added 300 calories during
+my workout helped keep my pace up at the end.
+
+I think the way I'll do Wednesdays for the next few weeks is what I
+did on June 6th.  Within a few weeks, I expect to be able to finish
+13.1 miles in less than 2:30, even as the temperature continues to
+rise.  I don't anticipate using my ice hat, because I'd like my body
+to get used to the heat, since that's one of the things that hits me
+hard @ BMDM.
 
 ### Completed
 
@@ -213,13 +226,13 @@ BMDM.
 |May 18|106|comfort|0|[Cruel Jewel 100](http://www.dumassevents.com)|[39:12](http://ultrasignup.com/results_event.aspx?did=51178), 116bpm, 22:13 min/mi|
 |May 26|3.1|race|35|Believe in Heros (Los Lunas)|26:06, 154bpm, 8:26 min/mi|
 |May 30|12.26|comfort|40|from house|2:36:46, 128bpm, 12:47 min/mi|
-
+|Jun 2|27|comfort|40|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664710/)|12:31:29, 103bpm, 27:59 min/mi, 2.5 gallon water brick leaked, should have been 50#|
+|Jun 6|12.52|comfort|38|from house|2:30:12, 133bpm, 11:59 min/mi|
 
 ### Planned (includes non-ruck endurance events)
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jun 2|27|comfort|50|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664710/)|13-hour slow hike|
 |Jun 9|31|comfort|0|Chimney Melon 50k|Not a race, just a fun group training run|
 |Aug 4|31|comfort|0|[Baldy 50k](https://newmexicofa50k.wordpress.com/baldy_50k/)|I'm the race-director, but still hoping to run it|
 |Aug 18|50|pace|0|[Leadville Trail 100](http://www.leadvilleraceseries.com/run/leadvilletrail100run/)|Pacing my brother-in-law back from Winfield|
