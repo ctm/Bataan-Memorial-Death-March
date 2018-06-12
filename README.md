@@ -228,12 +228,13 @@ hard @ BMDM.
 |May 30|12.26|comfort|40|from house|2:36:46, 128bpm, 12:47 min/mi|
 |Jun 2|27|comfort|40|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664710/)|12:31:29, 103bpm, 27:59 min/mi, 2.5 gallon water brick leaked, should have been 50#|
 |Jun 6|12.52|comfort|38|from house|2:30:12, 133bpm, 11:59 min/mi|
+|Jun 9|34.34|comfort|0|Chimney Melon 50k|13:29:03, 118bpm, 23:23 min/mi, Not a race, just a fun group training run|
 
 ### Planned (includes non-ruck endurance events)
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jun 9|31|comfort|0|Chimney Melon 50k|Not a race, just a fun group training run|
+|Jun 16|?|race|40|Bosque Bike Path|ruck run before 22 Too Many 5k|
 |Aug 4|31|comfort|0|[Baldy 50k](https://newmexicofa50k.wordpress.com/baldy_50k/)|I'm the race-director, but still hoping to run it|
 |Aug 18|50|pace|0|[Leadville Trail 100](http://www.leadvilleraceseries.com/run/leadvilletrail100run/)|Pacing my brother-in-law back from Winfield|
 |Aug 25|27|comfort|50|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664922/)|13-hour slow hike|
