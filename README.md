@@ -229,6 +229,7 @@ hard @ BMDM.
 |Jun 2|27|comfort|40|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664710/)|12:31:29, 103bpm, 27:59 min/mi, 2.5 gallon water brick leaked, should have been 50#|
 |Jun 6|12.52|comfort|38|from house|2:30:12, 133bpm, 11:59 min/mi|
 |Jun 9|34.34|comfort|0|Chimney Melon 50k|13:29:03, 118bpm, 23:23 min/mi, Not a race, just a fun group training run|
+|Jun 13|13.11|comfort|40|from house|2:35:08, 141bpm, 11:50 min/mi|
 
 ### Planned (includes non-ruck endurance events)
 
