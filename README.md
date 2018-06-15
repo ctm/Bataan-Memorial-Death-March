@@ -99,16 +99,20 @@ a little nervous that doing so would interfere with my ability to finish
 Cruel Jewel 100, but it was just the opposite.  I finished CJ100 much
 quicker than I expected, in part&mdash;I believe&mdash;due to my weight loss.
 
-My goal is to get my body fat percentage down to 7.3%.  That would be
-approximately 156 pounds.  I have a second hydrostatic weighing coming
-up on June 4th.  I'll probably weigh around 163.5 by then.  If I
-haven't been losing muscle as I've been losing weight, that should be
-around 11.5% body fat.  Once I get to 7.3%, I'll ramp up my
-carbohydrate intake and increase the intensity of some of my training
-days, although I'll be concentrating on building my BMDM base while I
-also do some ultra-specific training so I'll be able to pace my
-brother-in-law at Leadville and then "run" the Tahoe 200 two weeks
-later.
+My goal is to get my body fat percentage down to 7.3%.  That would
+have been approximately 156 pounds, except I had a second hydrostatic
+weighing on June 4th.  I weighed 159.6, which was a 25.9 pound loss,
+but 8.5 of that was lean muscle mass.  As such, I'll need to get to
+around 147 to reach 7.3% assuming I don't lose any more muscle mass.
+However, I think it's likely that I will lose some more on the way
+down.  Regardless, I'll get another hydrostatic weighing when I get to
+somewhere around 147.
+
+Once I get to 7.3%, I'll ramp up my carbohydrate intake and increase
+the intensity of some of my training days.  I'll be
+concentrating on building my BMDM base but also do some
+ultra-specific training so I'll be able to pace my brother-in-law at
+Leadville and then "run" the Tahoe 200 three weeks later.
 
 ## Non-pack Days
 
