@@ -235,6 +235,7 @@ hard @ BMDM.
 |Jun 9|34.34|comfort|0|Chimney Melon 50k|13:29:03, 118bpm, 23:23 min/mi, Not a race, just a fun group training run|
 |Jun 13|13.11|comfort|40|from house|2:35:08, 141bpm, 11:50 min/mi|
 |Jun 16|8.65|race|40|Bosque Bike Path|1:25:45, 149bpm, 9:54 min/mi|
+|Jun 20|13.11|comfort|40|from house|2:28:51, 132bpm, 11:21 min/mi|
 
 ### Planned (includes non-ruck endurance events)
 
