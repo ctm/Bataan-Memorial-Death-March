@@ -236,6 +236,7 @@ hard @ BMDM.
 |Jun 13|13.11|comfort|40|from house|2:35:08, 141bpm, 11:50 min/mi|
 |Jun 16|8.65|race|40|Bosque Bike Path|1:25:45, 149bpm, 9:54 min/mi|
 |Jun 20|13.11|comfort|40|from house|2:28:51, 132bpm, 11:21 min/mi|
+|Jun 27|13.10|comfort|40|from house|2:27:40, 132bpm, 11:16 min/mi|
 
 ### Planned (includes non-ruck endurance events)
 
