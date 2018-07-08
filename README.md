@@ -135,6 +135,8 @@ In theory, I try to keep my heart-rate at about 130bpm for my slow
 runs and bike ride, but if it's chilly or I'm rushed or otherwise
 feeling frisky I may run, or bike, a bit faster.
 
+This is what I did up until BMDM 2018
+
 |Day|Activity|Amount|
 |---|--------|------|
 |Sunday|Bike Ride|35 - 70 miles|
@@ -142,6 +144,23 @@ feeling frisky I may run, or bike, a bit faster.
 |Tuesday|Slow Run|3 miles|
 |Thursday|Slow Run|5.6 miles|
 |Friday|Slow Run| 3 miles|
+
+Starting in April 2018, I upped my schedule to:
+
+|Day|Activity|Amount|
+|---|--------|------|
+|Sunday|Bike Ride|35 - 70 miles|
+|Monday|Interval Training|13.1 miles|
+|Tuesday|Slow Run|8.9 miles|
+|Thursday|Slow Run|8.9 miles|
+|Friday|Slow Run|13.1 miles|
+
+I don't yet have a feel for what I'm *really* going to do come
+November.  My guess is that I'll back off some of the mileage in order
+to concentrate more heavily on my pack runs.  In the meantime, I'm
+really enjoying the increased mileage, and I think that will help me
+with the Tahoe 200.
+
 
 ## Pack (and exception) days
 
