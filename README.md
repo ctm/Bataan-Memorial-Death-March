@@ -261,6 +261,10 @@ hard @ BMDM.
 |Jul 11|13.12|comfort|40|from house|2:24:17, 130bpm, 10:59 min/mi|
 |Jul 18|13.11|comfort|40|from house|2:23:35, 130bpm, 10:57 min/mi|
 |Jul 21|13.10|comfort|40|from house|2:19:55, 130bpm, 10:40 min/mi|
+|Jul 25|13.10|comfort|40|from house|2:27:14, < 130bpm*, 10:40 min/mi|
+
+*HRM was giving erratic readings, many of them high, computed average HR was 131, but the graph is implausible and there were many times when I was running with what felt like less than 130bpm effort and the HRM was showing well over 130bpm for a while, then it would drop back down all w/o me changing effort.  This is a known failure mode when the battery runs low.  I'm going to change it.
+
 
 ### Planned (includes non-ruck endurance events)
 
