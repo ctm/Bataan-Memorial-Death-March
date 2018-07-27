@@ -99,20 +99,28 @@ a little nervous that doing so would interfere with my ability to finish
 Cruel Jewel 100, but it was just the opposite.  I finished CJ100 much
 quicker than I expected, in part&mdash;I believe&mdash;due to my weight loss.
 
-My goal is to get my body fat percentage down to 7.3%.  That would
-have been approximately 156 pounds, except I had a second hydrostatic
-weighing on June 4th.  I weighed 159.6, which was a 25.9 pound loss,
-but 8.5 of that was lean muscle mass.  As such, I'll need to get to
-around 147 to reach 7.3% assuming I don't lose any more muscle mass.
-However, I think it's likely that I will lose some more on the way
-down.  Regardless, I'll get another hydrostatic weighing when I get to
-somewhere around 147.
+My goal is to get my body fat percentage down to 7.3%.  Based on my
+first hydrostatic weighing, that would have been approximately 156
+pounds, except I had a second hydrostatic weighing on June 4th.  I
+weighed 159.6, which was a 25.9 pound loss, but 8.5 of that was lean
+muscle mass.
 
-Once I get to 7.3%, I'll ramp up my carbohydrate intake and increase
-the intensity of some of my training days.  I'll be
-concentrating on building my BMDM base but also do some
-ultra-specific training so I'll be able to pace my brother-in-law at
-Leadville and then "run" the Tahoe 200 three weeks later.
+After that weighing, I raised the number of calories and the amount of
+protein I was taking during some of my more lengthy runs.  The change
+was successful.  I had my third weighing on July 26th and I lost 8.6
+pounds of fat and gained .4 pounds of muscle:
+
+|Test Date|Body Weight|Fat Weight|Fat Free Weight|Body Fat %|
+|---------|-----------|----------|---------------|----------|
+|2018-03-29|185.5|40.7|144.8|21.95|
+|2018-06-04|159.6|23.3|136.3|14.61|
+|2018-07-26|151.4|14.7|136.7|9.74|
+
+Once I get to 7.3% (147.5 pounds), I'll ramp up my carbohydrate intake
+and increase the intensity of some of my training days.  I'll be
+concentrating on building my BMDM base but also do some ultra-specific
+training so I'll be able to pace my brother-in-law at Leadville and
+then "run" the Tahoe 200 three weeks later.
 
 ## Non-pack Days
 
