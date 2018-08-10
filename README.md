@@ -270,26 +270,30 @@ hard @ BMDM.
 |Jul 18|13.11|comfort|40|from house|2:23:35, 130bpm, 10:57 min/mi|
 |Jul 21|13.10|comfort|40|from house|2:19:55, 130bpm, 10:40 min/mi|
 |Jul 25|13.10|comfort|40|from house|2:27:14, < 130bpm*, 11:13 min/mi|
+|Aug 4|31|comfort|0|[Baldy 50k](https://newmexicofa50k.wordpress.com/baldy_50k/)|10:56:27, 118bpm, 20:22 min/mi|
 |Aug 8|13.11|comfort|40|from house|2:28:43, < 130bpm**, 11:20 min/mi|
+|Aug 9|5.57|comfort|40|from house|54:58, 131bpm**, 9:52 min/mi|
+|Aug 10|8.89|comfort|40|from house|1:33:31, 130bpm, 10:31 min/mi|
 
 *HRM was giving erratic readings, many of them high, computed average HR was 131, but the graph is implausible and there were many times when I was running with what felt like less than 130bpm effort and the HRM was showing well over 130bpm for a while, then it would drop back down all w/o me changing effort.  This is a known failure mode when the battery runs low.  I'm going to change it.
 
-**After changing the battery two weeks ago, I got better readings, until today.  There's a chance that my performance really has gone down significantly, but my suspicion is that the Sunbeam battery of unknown provenance was weak to begin with.  I'm going to compare it on a battery tester to the other one that came out of the two pack and probably put the other one in and expect to get at least a week out of the new one.
+**After changing the battery two weeks ago, I got better readings, until August 8th.  I suspected the battery was going dead and the battery tester confirmed that. So, I replaced the battery and did a small pack run the following day and was able to run much faster with a lower HR.  Part of that was due to it being before the sun was over the mountains, it being a shorter distance, it being cooler and me having had pizza and beer the night prior (topping up my glycogen), but the difference was still sufficiently dramatic that I'm confident that my August 8th HR readings really were off.
 
 ### Planned (includes non-ruck endurance events)
 
+In this table, all pack runs starting on November 17th are likely to change.  I put them on the calendar before I lost a lot of weight and started doing Wednesday 13.1 mile pack runs.  It now looks like by the time mid November rolls around I'll be able to do three (or more!) pack runs a week.  As such, this year's training will probably be a big departure from what I've been doing in previous years.
+
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Aug 4|31|comfort|0|[Baldy 50k](https://newmexicofa50k.wordpress.com/baldy_50k/)|I'm the race-director, but still hoping to run it|
-|Aug 18|50|pace|0|[Leadville Trail 100](http://www.leadvilleraceseries.com/run/leadvilletrail100run/)|Pacing my brother-in-law back from Winfield|
+|Aug 18|50|pace|0|[Leadville Trail 100](http://www.leadvilleraceseries.com/run/leadvilletrail100run/)|Pacing Jeff, my brother-in-law, the last 50 miles|
 |Aug 25|27|comfort|50|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664922/)|13-hour slow hike|
 |Sep 7|200|comfort|0|[Tahoe 200](http://www.tahoe200.com)|100 hour (max) event|
 |Sep ?|13.1|race|0|Wounded Warrior half marathon|Will do if it's a convenient date|
 |Sep ?|100*|comfort|0|Tour de Cheapskates|*Self-supported 100 mile bike ride|
-|Sep 21|33|comfort|0|[AA 50k](https://newmexicofa50k.wordpress.com/aa50k/)||
+|Sep 21|33|comfort|0|[AA 50k](https://newmexicofa50k.wordpress.com/aa50k/)|I'll be the race director this year|
 |Sep 29|31|comfort|0|[Mt. Taylor 50k](http://www.mttaylor50k.com)||
 |Oct 20|31|comfort|0|[White Mesa Fat Ass 50k](https://newmexicofa50k.wordpress.com/white_mesa_50k/)||
-|Oct 21|26.2|comfort|0|[Duke City Marathon](https://www.dukecitymarathon.com)|If allowed, I'll be the 5:00 pace group leader|
+|Oct 21|26.2|comfort|0|[Duke City Marathon](https://www.dukecitymarathon.com)|I'll be the 5:00 pace group leader again this year|
 |Oct 27|100|comfort|0|[Javelina Jundred](http://www.javelinajundred.com)||
 |Nov 3|53|comfort|0|[Deadman Peaks Trail Run](https://deadmanpeakstrailrun.wordpress.com)||
 |Nov 11|31|comfort|0|[Ghost Town 50k](https://ghosttown50kinvitationals.blogspot.com)||
