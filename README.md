@@ -277,6 +277,8 @@ hard @ BMDM.
 |Aug 11|8.56|race|40|Bosque Bike Path|1:16:15, 143bpm, 8:54 min/mi|
 |Aug 14|2.21|race|40|from house|18:56, 138bpm, 8:33 min/mi|
 |Aug 18|50|pace|0|[Leadville Trail 100](http://www.leadvilleraceseries.com/run/leadvilletrail100run/)|15:26:35, 117bpm, 18:13 min/mi, Paced [Jeff](https://www.athlinks.com/event/33913/results/Event/754080/Course/1274553/Bib/552), my brother-in-law, the last 50 miles|
+|Aug 25|27|comfort|10|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664922/)|9:38:56, 99bpm, 21:30 min/mi, did not wear 50# pack because I'm tapering for Tahoe 200|
+|Aug 29|6.56|comfort|40|from house|1:09:02, 130bpm, 10:31 min/mi|
 
 *HRM was giving erratic readings, many of them high, computed average HR was 131, but the graph is implausible and there were many times when I was running with what felt like less than 130bpm effort and the HRM was showing well over 130bpm for a while, then it would drop back down all w/o me changing effort.  This is a known failure mode when the battery runs low.  I'm going to change it.
 
@@ -288,13 +290,12 @@ In this table, all pack runs starting on November 17th are likely to change.  I 
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Aug 25|27|comfort|50|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664922/)|13-hour slow hike|
 |Sep 7|200|comfort|0|[Tahoe 200](http://www.tahoe200.com)|100 hour (max) event|
 |Sep 16|100*|comfort|0|Tour de Cheapskates|*Self-supported 100 mile bike ride|
-|Sep 21|33|comfort|0|[AA 50k](https://newmexicofa50k.wordpress.com/aa50k/)|I'll be the race director this year|
+|Sep 21|33|comfort|0|[AA 50k](https://newmexicofa50k.wordpress.com/aa50k/)|I'm the race director this year|
 |Sep 29|31|comfort|0|[Mt. Taylor 50k](http://www.mttaylor50k.com)||
 |Oct 20|31|comfort|0|[White Mesa Fat Ass 50k](https://newmexicofa50k.wordpress.com/white_mesa_50k/)||
-|Oct 21|26.2|comfort|0|[Duke City Marathon](https://www.dukecitymarathon.com)|I'll be the 5:00 pace group leader again this year|
+|Oct 21|26.2|comfort|0|[Duke City Marathon](https://www.dukecitymarathon.com)|I'm the 5:00 pace group leader again|
 |Oct 27|100|comfort|0|[Javelina Jundred](http://www.javelinajundred.com)||
 |Nov 3|53|comfort|0|[Deadman Peaks Trail Run](https://deadmanpeakstrailrun.wordpress.com)||
 |Nov 11|31|comfort|0|[Ghost Town 50k](https://ghosttown50kinvitationals.blogspot.com)||
