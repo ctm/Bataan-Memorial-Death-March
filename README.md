@@ -68,11 +68,11 @@ days of the week except Sunday, when I ride my bike.
 
 ## Is this training plan safe?
 
-No.  If you run with a pack, you are at risk of injuring yourself.  I
-have worked up to this training plan over several years.  The overall
-plan of doing two pack runs a week with running and cycling in between
-is probably doable for anyone who has already run a marathon or two,
-although the times, distances and weight should probably be lessened.
+No.  If you run with a pack, you risk injury.  I have worked up to
+this training plan over several years.  The overall plan of doing two
+pack runs a week with running and cycling in between is probably
+doable for anyone who has already run a marathon or two, although the
+times, distances and weight should probably be lessened.
 
 ## Base building
 
@@ -117,10 +117,11 @@ pounds of fat and gained .4 pounds of muscle:
 |2018-07-26|151.4|14.7|136.7|9.74|
 
 Once I get to 7.3% (147.5 pounds), I'll ramp up my carbohydrate intake
-and increase the intensity of some of my training days.  I'll be
-concentrating on building my BMDM base but also do some ultra-specific
-training so I'll be able to pace my brother-in-law at Leadville and
-then "run" the Tahoe 200 three weeks later.
+and increase the intensity of some of my training days.  I'll
+concentrate on building my BMDM base.  So far, I've also done some
+ultra-specific training so I could pace my brother-in-law at
+Leadville (he finished in 27:20) and then "run" the Tahoe 200 three
+weeks later.
 
 ## Non-pack Days
 
@@ -187,11 +188,21 @@ my pace.  My record, in February 2016, was a 14:15 minute/mile pace.  I
 hope to better that this year, but it'll be tough.
 
 `Comfort` means I'll
-keep my HR between below 150bpm during the event.
-I'm out there to have fun and to take a break from training.
+keep my HR between below 150bpm during the training or event.
+I'm out there to have fun.
 
-`Pace` means whatever it takes to be the best pacer possible for my
-brother-in-law as he finishes his first Leadville 100.
+`Pace` meant whatever it took to be the best pacer possible for my
+brother-in-law as he finished his first Leadville 100.  Turns out
+the little bugger was plagued with GI trouble that slowed him down
+for much of the return from Winfield, then&mdash;after that
+subsided&mdash;he wanted to run the final
+seven or eight miles. Fun!
+
+When I run from my house, I typically run over to Albuquerque Academy,
+then run around it some distance before coming back.  As such, I
+typically have to wait at a stoplight a couple of times or more and
+it's hillier than the Bosque Bike path, which has neither stops nor
+hills.
 
 
 ## My plan
@@ -211,8 +222,7 @@ a 130bpm heart rate with a 31.5# pack as part of a plan to slowly get
 back into running on Wednesdays with a 40# pack.
 
 I'm going to go ahead and log all my pack runs as I do them.  In general,
-I'll be doing base building until the beginning of November.  Exactly how
-I'll do that, I'm still refining.
+I'm base building until the beginning of November.
 
 On May 30th, my plan was to run 13.1 miles with a 40 pound pack while
 keeping my heart rate at 130bpm, but with the proviso that if I wasn't
@@ -238,12 +248,11 @@ minutes before I drank it) shortly after I got up.  I think that the
 added 180 calories before my workout and the added 300 calories during
 my workout helped keep my pace up at the end.
 
-I think the way I'll do Wednesdays for the next few weeks is what I
-did on June 6th.  Within a few weeks, I expect to be able to finish
-13.1 miles in less than 2:30, even as the temperature continues to
-rise.  I don't anticipate using my ice hat, because I'd like my body
-to get used to the heat, since that's one of the things that hits me
-hard @ BMDM.
+The way I've done non-taper Wednesdays since has been more or less
+what I did on June 6th.  I now easily finish 13.1 miles in less than
+2:30.  I haven't been using my ice hat, because I'm letting my body
+get used to the heat, since that's one of the things that hits me hard
+@ BMDM.
 
 ### Completed
 
@@ -255,7 +264,7 @@ hard @ BMDM.
 |May 9|5.55|race|36.5|from house|53:21, 150bpm, 9:36 min/mi|
 |May 16|2.24|race|40|from house|19:46, 155bpm, 8:50 min/mi, 5# plate too far forward|
 |May 18|106|comfort|0|[Cruel Jewel 100](http://www.dumassevents.com)|[39:12](http://ultrasignup.com/results_event.aspx?did=51178), 116bpm, 22:13 min/mi|
-|May 26|3.1|race|35|Believe in Heros (Los Lunas)|26:06, 154bpm, 8:26 min/mi|
+|May 26|3.1|race|35|Believe in Heroes (Los Lunas)|26:06, 154bpm, 8:26 min/mi|
 |May 30|12.26|comfort|40|from house|2:36:46, 128bpm, 12:47 min/mi|
 |Jun 2|27|comfort|40|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664710/)|12:31:29, 103bpm, 27:59 min/mi, 2.5 gallon water brick leaked, should have been 50#|
 |Jun 6|12.52|comfort|38|from house|2:30:12, 133bpm, 11:59 min/mi|
@@ -275,10 +284,11 @@ hard @ BMDM.
 |Aug 9|5.57|comfort|40|from house|54:58, 131bpm**, 9:52 min/mi|
 |Aug 10|8.89|comfort|40|from house|1:33:31, 130bpm, 10:31 min/mi|
 |Aug 11|8.56|race|40|Bosque Bike Path|1:16:15, 143bpm, 8:54 min/mi|
-|Aug 14|2.21|race|40|from house|18:56, 138bpm, 8:33 min/mi|
-|Aug 18|50|pace|0|[Leadville Trail 100](http://www.leadvilleraceseries.com/run/leadvilletrail100run/)|15:26:35, 117bpm, 18:13 min/mi, Paced [Jeff](https://www.athlinks.com/event/33913/results/Event/754080/Course/1274553/Bib/552), my brother-in-law, the last 50 miles|
+|Aug 14|2.21|speed|40|from house|18:56, 138bpm, 8:33 min/mi|
+|Aug 18|50|pace|10|[Leadville Trail 100](http://www.leadvilleraceseries.com/run/leadvilletrail100run/)|15:26:35, 117bpm, 18:13 min/mi, Paced [Jeff](https://www.athlinks.com/event/33913/results/Event/754080/Course/1274553/Bib/552), my brother-in-law, the last 50 miles|
 |Aug 25|27|comfort|10|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664922/)|9:38:56, 99bpm, 21:30 min/mi, did not wear 50# pack because I'm tapering for Tahoe 200|
 |Aug 29|6.56|comfort|40|from house|1:09:02, 130bpm, 10:31 min/mi|
+|Aug 31|6.56|speed|40|from house|58:30, 148bpm, 8:55 min/mi|
 
 *HRM was giving erratic readings, many of them high, computed average HR was 131, but the graph is implausible and there were many times when I was running with what felt like less than 130bpm effort and the HRM was showing well over 130bpm for a while, then it would drop back down all w/o me changing effort.  This is a known failure mode when the battery runs low.  I'm going to change it.
 
@@ -286,7 +296,13 @@ hard @ BMDM.
 
 ### Planned (includes non-ruck endurance events)
 
-In this table, all pack runs starting on November 17th are likely to change.  I put them on the calendar before I lost a lot of weight and started doing Wednesday 13.1 mile pack runs.  It now looks like by the time mid November rolls around I'll be able to do three (or more!) pack runs a week.  As such, this year's training will probably be a big departure from what I've been doing in previous years.
+In this table, all pack runs starting on November 17th are likely to
+change.  I put them on the calendar before I lost a lot of weight and
+started doing Wednesday 13.1 mile pack runs.  It's likely that by mid
+November I'll be doing three pack runs a week.  As such, this year's
+training will probably be a big departure from what I've been doing in
+previous years, although I will probably continue to switch between La Luz
+and Bosque Bike Path runs on Saturdays.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
