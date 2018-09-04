@@ -289,6 +289,7 @@ get used to the heat, since that's one of the things that hits me hard
 |Aug 25|27|comfort|10|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664922/)|9:38:56, 99bpm, 21:30 min/mi, did not wear 50# pack because I'm tapering for Tahoe 200|
 |Aug 29|6.56|comfort|40|from house|1:09:02, 130bpm, 10:31 min/mi|
 |Aug 31|6.56|speed|40|from house|58:30, 148bpm, 8:55 min/mi|
+|Sep 4|3.28|comfort|40|from house|32:46, 131bpm, 9:58 min/mi|
 
 *HRM was giving erratic readings, many of them high, computed average HR was 131, but the graph is implausible and there were many times when I was running with what felt like less than 130bpm effort and the HRM was showing well over 130bpm for a while, then it would drop back down all w/o me changing effort.  This is a known failure mode when the battery runs low.  I'm going to change it.
 
