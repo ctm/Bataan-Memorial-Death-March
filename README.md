@@ -118,10 +118,13 @@ pounds of fat and gained .4 pounds of muscle:
 
 Once I get to 7.3% (147.5 pounds), I'll ramp up my carbohydrate intake
 and increase the intensity of some of my training days.  I'll
-concentrate on building my BMDM base.  So far, I've also done some
-ultra-specific training so I could pace my brother-in-law at
-Leadville (he finished in 27:20) and then "run" the Tahoe 200 three
-weeks later.
+concentrate on building my BMDM base.
+
+Initially, I've was doing some ultra-specific training so I could pace
+my brother-in-law at Leadville (he finished in 27:20) and then "run"
+the Tahoe 200 three weeks later.  Now that I've finished T200, I'll
+concentrate more on building my BMDM base, although I have a bunch of
+ultras in the upcoming weekends.
 
 ## Non-pack Days
 
@@ -167,8 +170,8 @@ Starting in April 2018, I upped my schedule to:
 I don't yet have a feel for what I'm *really* going to do come
 November.  My guess is that I'll back off some of the mileage in order
 to concentrate more heavily on my pack runs.  In the meantime, I'm
-really enjoying the increased mileage, and I think that will help me
-with the Tahoe 200.
+really enjoying the increased mileage, and I think that significantly
+helped me finish the Tahoe 200.
 
 
 ## Pack (and exception) days
@@ -290,6 +293,7 @@ get used to the heat, since that's one of the things that hits me hard
 |Aug 29|6.56|comfort|40|from house|1:09:02, 130bpm, 10:31 min/mi|
 |Aug 31|6.56|speed|40|from house|58:30, 148bpm, 8:55 min/mi|
 |Sep 4|3.28|comfort|40|from house|32:46, 131bpm, 9:58 min/mi|
+|Sep 7|200|comfort|15|[Tahoe 200](http://www.tahoe200.com)|< 90 hours, 13 hours sleeping, a few more hours lazing around aid stations|
 
 *HRM was giving erratic readings, many of them high, computed average HR was 131, but the graph is implausible and there were many times when I was running with what felt like less than 130bpm effort and the HRM was showing well over 130bpm for a while, then it would drop back down all w/o me changing effort.  This is a known failure mode when the battery runs low.  I'm going to change it.
 
@@ -307,7 +311,6 @@ and Bosque Bike Path runs on Saturdays.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Sep 7|200|comfort|0|[Tahoe 200](http://www.tahoe200.com)|100 hour (max) event|
 |Sep 16|100*|comfort|0|Tour de Cheapskates|*Self-supported 100 mile bike ride|
 |Sep 21|33|comfort|0|[AA 50k](https://newmexicofa50k.wordpress.com/aa50k/)|I'm the race director this year|
 |Sep 29|31|comfort|0|[Mt. Taylor 50k](http://www.mttaylor50k.com)||
