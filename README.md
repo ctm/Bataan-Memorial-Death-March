@@ -294,6 +294,7 @@ get used to the heat, since that's one of the things that hits me hard
 |Aug 31|6.56|speed|40|from house|58:30, 148bpm, 8:55 min/mi|
 |Sep 4|3.28|comfort|40|from house|32:46, 131bpm, 9:58 min/mi|
 |Sep 7|200|comfort|15|[Tahoe 200](http://www.tahoe200.com)|< 90 hours, 13 hours sleeping, a few more hours lazing around aid stations|
+|Sep 16|100*|comfort|0|Tour de Cheapskates|*Self-supported 100 mile bike ride 6:46:51, 117bpm, 14.7 mph|
 
 *HRM was giving erratic readings, many of them high, computed average HR was 131, but the graph is implausible and there were many times when I was running with what felt like less than 130bpm effort and the HRM was showing well over 130bpm for a while, then it would drop back down all w/o me changing effort.  This is a known failure mode when the battery runs low.  I'm going to change it.
 
@@ -311,7 +312,6 @@ and Bosque Bike Path runs on Saturdays.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Sep 16|100*|comfort|0|Tour de Cheapskates|*Self-supported 100 mile bike ride|
 |Sep 21|33|comfort|0|[AA 50k](https://newmexicofa50k.wordpress.com/aa50k/)|I'm the race director this year|
 |Sep 29|31|comfort|0|[Mt. Taylor 50k](http://www.mttaylor50k.com)||
 |Oct 20|31|comfort|0|[White Mesa Fat Ass 50k](https://newmexicofa50k.wordpress.com/white_mesa_50k/)||
