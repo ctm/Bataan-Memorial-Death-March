@@ -293,7 +293,7 @@ get used to the heat, since that's one of the things that hits me hard
 |Aug 29|6.56|comfort|40|from house|1:09:02, 130bpm, 10:31 min/mi|
 |Aug 31|6.56|speed|40|from house|58:30, 148bpm, 8:55 min/mi|
 |Sep 4|3.28|comfort|40|from house|32:46, 131bpm, 9:58 min/mi|
-|Sep 7|200|comfort|15|[Tahoe 200](http://www.tahoe200.com)|< 90 hours, 13 hours sleeping, a few more hours lazing around aid stations|
+|Sep 7|200|comfort|15|[Tahoe 200](http://www.tahoe200.com)|89:23:05, ~13 hours sleeping, a few more hours lazing around aid stations, no crew or pacers, would have been faster if I hadn't stubbed my toe on the second day|
 |Sep 16|100*|comfort|0|Tour de Cheapskates|*Self-supported 100 mile bike ride 6:46:51, 117bpm, 14.7 mph|
 |Sep 19|6.56|comfort|40|from house|1:17:38, 129bpm, 11:50 min/mi|
 
