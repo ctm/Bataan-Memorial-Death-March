@@ -295,6 +295,8 @@ get used to the heat, since that's one of the things that hits me hard
 |Sep 4|3.28|comfort|40|from house|32:46, 131bpm, 9:58 min/mi|
 |Sep 7|200|comfort|15|[Tahoe 200](http://www.tahoe200.com)|< 90 hours, 13 hours sleeping, a few more hours lazing around aid stations|
 |Sep 16|100*|comfort|0|Tour de Cheapskates|*Self-supported 100 mile bike ride 6:46:51, 117bpm, 14.7 mph|
+|Sep 19|6.56|comfort|40|from house|1:17:38, 129bpm, 11:50 min/mi|
+
 
 *HRM was giving erratic readings, many of them high, computed average HR was 131, but the graph is implausible and there were many times when I was running with what felt like less than 130bpm effort and the HRM was showing well over 130bpm for a while, then it would drop back down all w/o me changing effort.  This is a known failure mode when the battery runs low.  I'm going to change it.
 
