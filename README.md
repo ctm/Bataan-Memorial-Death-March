@@ -296,6 +296,7 @@ get used to the heat, since that's one of the things that hits me hard
 |Sep 7|200|comfort|15|[Tahoe 200](http://www.tahoe200.com)|89:23:05, ~13 hours sleeping, a few more hours lazing around aid stations, no crew or pacers, would have been faster if I hadn't stubbed my toe on the second day|
 |Sep 16|100*|comfort|0|Tour de Cheapskates|*Self-supported 100 mile bike ride 6:46:51, 117bpm, 14.7 mph|
 |Sep 19|6.56|comfort|40|from house|1:17:38, 129bpm, 11:50 min/mi|
+|Sep 21|33|comfort|0|[AA 50k](https://newmexicofa50k.wordpress.com/aa50k/)|7:54:58, 106bpm, 14:10 mim/mi|
 
 
 *HRM was giving erratic readings, many of them high, computed average HR was 131, but the graph is implausible and there were many times when I was running with what felt like less than 130bpm effort and the HRM was showing well over 130bpm for a while, then it would drop back down all w/o me changing effort.  This is a known failure mode when the battery runs low.  I'm going to change it.
@@ -314,7 +315,6 @@ and Bosque Bike Path runs on Saturdays.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Sep 21|33|comfort|0|[AA 50k](https://newmexicofa50k.wordpress.com/aa50k/)|I'm the race director this year|
 |Sep 29|31|comfort|0|[Mt. Taylor 50k](http://www.mttaylor50k.com)||
 |Oct 20|31|comfort|0|[White Mesa Fat Ass 50k](https://newmexicofa50k.wordpress.com/white_mesa_50k/)||
 |Oct 21|26.2|comfort|0|[Duke City Marathon](https://www.dukecitymarathon.com)|I'm the 5:00 pace group leader again|
