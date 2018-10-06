@@ -300,6 +300,7 @@ get used to the heat, since that's one of the things that hits me hard
 |Sep 26|13.10|comfort|40|from house|2:25:49, 130bpm, 11:07 min/mi|
 |Sep 29|31|comfort|0|[Mt. Taylor 50k](http://www.mttaylor50k.com)|[6:13:03](http://ultrasignup.com/results_event.aspx?did=55195), 138bpm, 12:21 min/mi|
 |Oct 3|13.10|comfort|40|from house|2:21:02, 130bpm, 10:45 min/mi|
+|Oct 6|6.05|mountain|40|La Luz|1:31:29, 133bpm, 15:06 min/mi|
 
 *HRM was giving erratic readings, many of them high, computed average HR was 131, but the graph is implausible and there were many times when I was running with what felt like less than 130bpm effort and the HRM was showing well over 130bpm for a while, then it would drop back down all w/o me changing effort.  This is a known failure mode when the battery runs low.  I'm going to change it.
 
