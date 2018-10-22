@@ -303,6 +303,8 @@ get used to the heat, since that's one of the things that hits me hard
 |Oct 6|6.05|mountain|40|La Luz|1:31:29, 133bpm, 15:06 min/mi|
 |Oct 10|5.55|race|40|from house|57:07, 141bpm, 10:17 min/mi|
 |Oct 17|13.11|comfort|40|from house|2:22:44, 130bpm, 10:53 min/mi|
+|Oct 20|31|comfort|0|[White Mesa Fat Ass 50k](https://newmexicofa50k.wordpress.com/white_mesa_50k/)|6:46:54, 130bpm, 12:39 min/mi|
+|Oct 21|26.2|comfort|0|[Duke City Marathon](https://www.dukecitymarathon.com)|5:00:03, 114bpm, 11:27 min/mi|
 
 *HRM was giving erratic readings, many of them high, computed average HR was 131, but the graph is implausible and there were many times when I was running with what felt like less than 130bpm effort and the HRM was showing well over 130bpm for a while, then it would drop back down all w/o me changing effort.  This is a known failure mode when the battery runs low.  I'm going to change it.
 
@@ -320,8 +322,6 @@ and Bosque Bike Path runs on Saturdays.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Oct 20|31|comfort|0|[White Mesa Fat Ass 50k](https://newmexicofa50k.wordpress.com/white_mesa_50k/)||
-|Oct 21|26.2|comfort|0|[Duke City Marathon](https://www.dukecitymarathon.com)|I'm the 5:00 pace group leader again|
 |Oct 27|100|comfort|0|[Javelina Jundred](http://www.javelinajundred.com)||
 |Nov 3|53|comfort|0|[Deadman Peaks Trail Run](https://deadmanpeakstrailrun.wordpress.com)||
 |Nov 11|31|comfort|0|[Ghost Town 50k](https://ghosttown50kinvitationals.blogspot.com)||
