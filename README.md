@@ -313,20 +313,24 @@ get used to the heat, since that's one of the things that hits me hard
 
 ### Planned (includes non-ruck endurance events)
 
-In this table, all pack runs starting on November 17th are likely to
-change.  I put them on the calendar before I lost a lot of weight and
-started doing Wednesday 13.1 mile pack runs.  It's likely that by mid
-November I'll be doing three pack runs a week.  As such, this year's
-training will probably be a big departure from what I've been doing in
-previous years, although I will probably continue to switch between La Luz
-and Bosque Bike Path runs on Saturdays.
+In this table, all pack runs starting on November 14th may change.  I
+put them on the calendar before I lost a lot of weight and started
+doing Wednesday 13.1 mile pack runs.
+
+My current plan is to experiment with three pack runs a week starting
+the week of November 19th.  Initially, I'll try doing my Monday
+interval with a forty pound pack and keep my Wednesday runs the same
+as I've done in previous years.  However, if I like doing the interval
+work with a forty pound pack, but decide the timing is wrong, I might
+switch them to Wednesdays and do my speed runs on Monday.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
 |Nov 3|53|comfort|0|[Deadman Peaks Trail Run](https://deadmanpeakstrailrun.wordpress.com)||
 |Nov 11|31|comfort|0|[Ghost Town 50k](https://ghosttown50kinvitationals.blogspot.com)||
-|Nov 17|9.5|mountain|35|La Luz||
 |Nov 14|6|speed|40|from house||
+|Nov 17|9.5|mountain|35|La Luz||
+|Nov 19|13.1|interval|40|from house|experiment: a Monday interval w/40#|
 |Nov 21|6.5|speed|40|from house||
 |Nov 23|4|speed|0|Black Friday Turkey Trots||
 |Nov 24|31|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=56199)||
@@ -355,7 +359,6 @@ and Bosque Bike Path runs on Saturdays.
 |Feb 9|12|race|40|Bosque Bike Path||
 |Feb 13|5.6|speed|40|from house||
 |Feb 16|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snowshoe|
-|Feb 17|31|comfort|0|[Ghost Town 50k](https://ghosttown50kinvitationals.blogspot.com)||
 |Feb 20|6|speed|40|from house||
 |Feb 23|9.5|mountain|35|La Luz||
 |Feb 27|13|speed|40|from house||
