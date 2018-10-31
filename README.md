@@ -306,6 +306,7 @@ get used to the heat, since that's one of the things that hits me hard
 |Oct 20|31|comfort|0|[White Mesa Fat Ass 50k](https://newmexicofa50k.wordpress.com/white_mesa_50k/)|6:46:54, 130bpm, 12:39 min/mi|
 |Oct 21|26.2|comfort|0|[Duke City Marathon](https://www.dukecitymarathon.com)|5:00:03, 114bpm, 11:27 min/mi|
 |Oct 27|99.9|comfort|0|[Javelina Jundred](http://www.javelinajundred.com)|20:10:40, 117?bpm, 12:07 min/mi|
+|Oct 31|13.11|comfort|40|from house|2:17:04, 131bpm, 10:27 min/mi|
 
 *HRM was giving erratic readings, many of them high, computed average HR was 131, but the graph is implausible and there were many times when I was running with what felt like less than 130bpm effort and the HRM was showing well over 130bpm for a while, then it would drop back down all w/o me changing effort.  This is a known failure mode when the battery runs low.  I'm going to change it.
 
