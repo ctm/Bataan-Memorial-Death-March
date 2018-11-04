@@ -293,20 +293,21 @@ get used to the heat, since that's one of the things that hits me hard
 |Aug 29|6.56|comfort|40|from house|1:09:02, 130bpm, 10:31 min/mi|
 |Aug 31|6.56|speed|40|from house|58:30, 148bpm, 8:55 min/mi|
 |Sep 4|3.28|comfort|40|from house|32:46, 131bpm, 9:58 min/mi|
-|Sep 7|200|comfort|15|[Tahoe 200](http://www.tahoe200.com)|89:23:05, ~13 hours sleeping, a few more hours lazing around aid stations, no crew or pacers, would have been faster if I hadn't stubbed my toe on the second day|
+|Sep 7|205|comfort|15|[Tahoe 200](http://www.tahoe200.com)|[89:23:05](http://ultrasignup.com/results_event.aspx?did=51571), ~13 hours sleeping, a few more hours lazing around aid stations, no crew or pacers, would have been faster if I hadn't stubbed my toe on the second day|
 |Sep 16|100*|comfort|0|Tour de Cheapskates|*Self-supported 100 mile bike ride 6:46:51, 117bpm, 14.7 mph|
 |Sep 19|6.56|comfort|40|from house|1:17:38, 129bpm, 11:50 min/mi|
-|Sep 21|33|comfort|0|[AA 50k](https://newmexicofa50k.wordpress.com/aa50k/)|7:54:58, 106bpm, 14:10 mim/mi|
+|Sep 21|33|comfort|0|[AA 50k](https://newmexicofa50k.wordpress.com/aa50k/)|[7:54:58](https://www.webscorer.com/racedetails?raceid=157239&did=173967), 106bpm, 14:10 mim/mi|
 |Sep 26|13.10|comfort|40|from house|2:25:49, 130bpm, 11:07 min/mi|
 |Sep 29|31|comfort|0|[Mt. Taylor 50k](http://www.mttaylor50k.com)|[6:13:03](http://ultrasignup.com/results_event.aspx?did=55195), 138bpm, 12:21 min/mi|
 |Oct 3|13.10|comfort|40|from house|2:21:02, 130bpm, 10:45 min/mi|
 |Oct 6|6.05|mountain|40|La Luz|1:31:29, 133bpm, 15:06 min/mi|
 |Oct 10|5.55|race|40|from house|57:07, 141bpm, 10:17 min/mi|
 |Oct 17|13.11|comfort|40|from house|2:22:44, 130bpm, 10:53 min/mi|
-|Oct 20|31|comfort|0|[White Mesa Fat Ass 50k](https://newmexicofa50k.wordpress.com/white_mesa_50k/)|6:46:54, 130bpm, 12:39 min/mi|
-|Oct 21|26.2|comfort|0|[Duke City Marathon](https://www.dukecitymarathon.com)|5:00:03, 114bpm, 11:27 min/mi|
-|Oct 27|99.9|comfort|0|[Javelina Jundred](http://www.javelinajundred.com)|20:10:40, 117?bpm, 12:07 min/mi|
+|Oct 20|31|comfort|0|[White Mesa Fat Ass 50k](https://newmexicofa50k.wordpress.com/white_mesa_50k/)|[6:46:54](https://www.webscorer.com/racedetails?raceid=157234&did=173966), 130bpm, 12:39 min/mi|
+|Oct 21|26.2|comfort|0|[Duke City Marathon](https://www.dukecitymarathon.com)|[5:00:03](https://results.rmraces.live/specialized-timing/events/2018/35th-annual-big-5-duke-city-marathon/427/entrant), 114bpm, 11:27 min/mi|
+|Oct 27|99.9|comfort|0|[Javelina Jundred](http://www.javelinajundred.com)|[20:10:40](http://ultrasignup.com/results_event.aspx?did=53326), 117?bpm, 12:07 min/mi|
 |Oct 31|13.11|comfort|40|from house|2:17:04, 131bpm, 10:27 min/mi|
+|Nov 3|53|comfort|0|[Deadman Peaks Trail Run](https://deadmanpeakstrailrun.wordpress.com)|[11:14:48](http://ultrasignup.com/results_event.aspx?did=56551), 127bpm, 12:48 min/mi|
 
 *HRM was giving erratic readings, many of them high, computed average HR was 131, but the graph is implausible and there were many times when I was running with what felt like less than 130bpm effort and the HRM was showing well over 130bpm for a while, then it would drop back down all w/o me changing effort.  This is a known failure mode when the battery runs low.  I'm going to change it.
 
@@ -327,7 +328,6 @@ switch them to Wednesdays and do my speed runs on Monday.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Nov 3|53|comfort|0|[Deadman Peaks Trail Run](https://deadmanpeakstrailrun.wordpress.com)||
 |Nov 11|31|comfort|0|[Ghost Town 50k](https://ghosttown50kinvitationals.blogspot.com)||
 |Nov 14|6|speed|40|from house||
 |Nov 17|9.5|mountain|35|La Luz||
