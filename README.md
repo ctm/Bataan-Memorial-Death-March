@@ -333,7 +333,7 @@ switch them to Wednesdays and do my speed runs on Monday.
 |Nov 17|9.5|mountain|35|La Luz||
 |Nov 19|13.1|interval|40|from house|experiment: a Monday interval w/40#|
 |Nov 21|6.5|speed|40|from house||
-|Nov 23|4|speed|0|Black Friday Turkey Trots||
+|Nov 23|4|speed|0|[Black Friday Turkey Trots](https://www.meetup.com/ABQ-CoEd-Biking-Hiking-Activities-Group/events/255895932/)||
 |Nov 24|31|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=56199)||
 |Nov 28|7|speed|40|from house||
 |Dec 1|12|race|40|Bosque Bike Path||
