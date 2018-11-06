@@ -331,32 +331,32 @@ switch them to Wednesdays and do my speed runs on Monday.
 |Nov 28|7|speed|40|from house||
 |Dec 1|12|race|40|Bosque Bike Path||
 |Dec 5|7.5|speed|40|from house||
-|Dec 8|15|speed|40|from house||
+|Dec 8|9.5|mountain|35|La Luz||
 |Dec 12|8.0|speed|40|from house||
-|Dec 15|9.5|mountain|35|La Luz||
+|Dec 15|15|race|40|Bosque Bike Path||
 |Dec 19|8.5|speed|40|from house||
-|Dec 22|18|race|40|Bosque Bike Path||
+|Dec 22|9.5|mountain|35|La Luz||
 |Dec 26|9|speed|40|from house||
-|Dec 29|9.5|mountain|35|La Luz||
+|Dec 29|18|race|40|Bosque Bike Path||
 |Jan 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)||
 |Jan 2|5.6|speed|40|from house||
-|Jan 5|21|race|40|Bosque Bike Path||
+|Jan 5|9.5|mountain|35|La Luz||
 |Jan 9|10|speed|40|from house||
-|Jan 12|9.5|mountain|35|La Luz||
+|Jan 12|21|race|40|Bosque Bike Path||
 |Jan 16|10.5|speed|40|from house||
 |Jan 19|3.1|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)||
 |Jan 23|11|speed|40|from house||
-|Jan 26|24|race|40|Bosque Bike Path||
+|Jan 26|9.5|mountain|35|La Luz||
 |Jan 30|11.5|speed|40|from house||
-|Feb 2|9.5|mountain|35|La Luz||
+|Feb 2|24|race|40|Bosque Bike Path||
 |Feb 6|12|speed|40|from house||
-|Feb 9|12|race|40|Bosque Bike Path||
+|Feb 9|9.5|mountain|35|La Luz||
 |Feb 13|5.6|speed|40|from house||
 |Feb 16|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snowshoe|
 |Feb 20|6|speed|40|from house||
-|Feb 23|9.5|mountain|35|La Luz||
+|Feb 23|24|race|40|Bosque Bike Path||
 |Feb 27|13|speed|40|from house||
-|Mar 2|24|race|40|Bosque Bike Path||
+|Mar 2|9.5|mountain|35|La Luz||
 |Mar 6|6.5|speed|40|from house||
 |Mar 9|4.75|mountain|35|La Luz||
 |Mar 13|3.25|speed|40|from house||
