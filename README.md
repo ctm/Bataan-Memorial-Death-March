@@ -9,15 +9,16 @@ similar to what I did for [2017](2017.md) and [2018](2018.md).
 The Bataan Memorial Death March is a tribute to the men and women who
 defended the Philippines at the onset of World War II.  They suffered
 greatly and many perished either during the defense, after they were
-surrendered and forced to march on quarter rations, at the inhumane
-prison camps, the hell-ships that carried them to Japan or in the
-forced labor thereafter.
+surrendered and were forced to march (having subsisted on quarter
+rations prior to the start of the march), at the inhumane prison
+camps, the hell-ships that carried them to Japan or in the forced
+labor thereafter.
 
 Some of those men and women, now in their nineties, are still alive.  In
 1989, members of the Army ROTC Department at New Mexico State University
 started an annual march to honor these veterans.  The march has grown
 considerably since then and although it was initially open only to
-military members, it has been opened up to civilians.  These days
+military members, it was open to civilians early on.  These days,
 participation is about half and half.
 
 ## Why do I do it?
@@ -40,28 +41,28 @@ SAR missions.
 
 I was totally unprepared my first year.  I did only four practice
 hikes, each with a 35 pound pack, each with an increasing distance.
-The terrain was sandy (because I had read about the sand pits) and I
-wore hiking boots.  That was not a heavy enough pack to train with;
-that wasn't enough training days, and the surface was too soft.  So,
-when I attended my first BMDM, my feet hurt quite a bit by mile six.
-I could barely walk the last several miles.
+My hikes were in sandy terrain, because I had read about the sand
+pits, and I wore hiking boots.  That was not a heavy enough pack to
+train with; that wasn't enough training days, and the surface was too
+soft.  So, when I attended my first BMDM, my feet hurt quite a bit by
+mile six.  I could barely walk the last several miles.
 
-In the last few years I started training in November, but in 2017 I
-started doing weekly pack runs in late August.  In my non-training
+Somewhere around 2014, I started training in November. Then, in 2017,
+I started doing weekly pack runs in late August.  In my non-training
 months I've tried to do _something_ with my pack at least once a month
-between BMDM and when I start training.  Often that is a search and
-rescue mission or two, but&mdash;assuming I'm healthy&mdash;I'll go
-out and do a big hike with a fifty pound pack on a month with no
-significant missions.
+between BMDM and when I start my seriou training.  Often that is a
+search and rescue mission or two, but if we get a dry spell and no
+missions for a month I might go out and do a big hike with a fifty
+pound pack.
 
 During training, starting in November, I run with my pack on
 Wednesdays and on Saturdays.  My Wednesday runs are done as quickly as
 I can and start from and end at my house.  Typically I increase the
 distance by a half mile each week.  My Saturday runs alternate between
 a level run at race pace and a run five miles up and five miles down
-the local mountain.  My level run distance typically increases by
-three miles.  My mountain run stays the same distance, but I try to do
-it faster each time.
+La Luz Trail (i.e., the local mountain).  My level run distance
+typically increases by three miles.  My mountain run stays the same
+distance, but I try to do it faster each time.
 
 In addition to my pack runs, I also run without my pack the remaining
 days of the week except Sunday, when I ride my bike.
@@ -92,7 +93,7 @@ it around the same time, so maybe I'd have fallen sick regardless.
 
 ## Weight loss
 
-On March 29th I went down to UNM and was hydrostatically weighed.  My
+On March 29th, 2018 I went down to UNM and was hydrostatically weighed.  My
 body fat percentage was 21.95%.  That was a wake-up call, so I decided
 to experiment with losing weight and trying to not lose power.  I was
 a little nervous that doing so would interfere with my ability to finish
@@ -116,15 +117,19 @@ pounds of fat and gained .4 pounds of muscle:
 |2018-06-04|159.6|23.3|136.3|14.61|
 |2018-07-26|151.4|14.7|136.7|9.74|
 
-Once I get to 7.3% (147.5 pounds), I'll ramp up my carbohydrate intake
-and increase the intensity of some of my training days.  I'll
-concentrate on building my BMDM base.
+My plan had been to get to 7.3% (147.5 pounds), then ramp up my
+carbohydrate intake and increase the intensity of some of my training
+days.  However, it's been a while since I've been hydrostatically
+weighed, so I'll probably go in soon and see where I am and then
+figure out what to do.  It may make more sense to put body fat loss on
+hold and concentrate on BMDM training since it's clear that I've
+already made sufficient progress to make my 2019 BMDM goal.
 
 Initially, I've was doing some ultra-specific training so I could pace
 my brother-in-law at Leadville (he finished in 27:20) and then "run"
-the Tahoe 200 three weeks later.  Now that I've finished T200, I'll
-concentrate more on building my BMDM base, although I have a bunch of
-ultras in the upcoming weekends.
+the Tahoe 200 three weeks later.  Once I finished T200, I've
+concentrated more on building my BMDM base, but I've also completed a
+bunch of ultras at a comfortable pace.
 
 ## Non-pack Days
 
@@ -136,12 +141,11 @@ how beat up I am from my Saturday activity. I usually ride my bike between 35 an
 miles the day after a La Luz pack run and 35 miles the day after a Bosque
 Bike Path pack run.
 
-On Mondays I run from my house to Albuquerque Academy, run two laps
-around AA and back. However there are eight places during that run where
-I run as fast as I can for a set amount of time.  In mid November that
-amount of time is seventy five seconds.  I may increase it if I seem
-to plateau.  However, if I do increase it and my Wednesday pace suffers,
-I'll back off.
+On Mondays I run from my house to Albuquerque Academy, run three laps
+around AA, back to my house and then do another .9 miles to bring the
+total up to 13.1 miles. However, during that half marathon, I do twelve
+all-outs of seventy-five seconds with only thirty seconds of rest in
+between.
 
 In theory, I try to keep my heart-rate at about 130bpm for my slow
 runs and bike ride, but if it's chilly or I'm rushed or otherwise
@@ -167,13 +171,6 @@ Starting in April 2018, I upped my schedule to:
 |Thursday|Slow Run|8.9 miles|
 |Friday|Slow Run|13.1 miles|
 
-I don't yet have a feel for what I'm *really* going to do come
-November.  My guess is that I'll back off some of the mileage in order
-to concentrate more heavily on my pack runs.  In the meantime, I'm
-really enjoying the increased mileage, and I think that significantly
-helped me finish the Tahoe 200.
-
-
 ## Pack (and exception) days
 
 In the following table, `speed` means as quickly as I can to minimize
@@ -188,7 +185,7 @@ Quadrathlon) varies greatly.
 up and down a mountain and trying to minimize my time.  I run the same
 mountain course every other weekend.  As my fitness increases, so does
 my pace.  My record, in February 2016, was a 14:15 minute/mile pace.  I
-hope to better that this year, but it'll be tough.
+should be able to better this year.
 
 `Comfort` means I'll
 keep my HR between below 150bpm during the training or event.
@@ -245,7 +242,7 @@ with 300 calories each, I consumed 3.  That gave me more oomph at the
 end, although it also meant that I was running with 20 oz. less in my
 pack at the end.
 
-One other thing I did differently this week was I drank a pint of
+One other thing I did differently that week was I drank a pint of
 water with 3 tablespoons of chia seeds (180 calories) mixed in (ten
 minutes before I drank it) shortly after I got up.  I think that the
 added 180 calories before my workout and the added 300 calories during
@@ -266,7 +263,7 @@ get used to the heat, since that's one of the things that hits me hard
 |Apr 29|8.1|speed|31.5|from Philmont (road)|1:27:15, 145bpm, 10:45 min/mi|
 |May 9|5.55|race|36.5|from house|53:21, 150bpm, 9:36 min/mi|
 |May 16|2.24|race|40|from house|19:46, 155bpm, 8:50 min/mi, 5# plate too far forward|
-|May 18|106|comfort|0|[Cruel Jewel 100](http://www.dumassevents.com)|[39:12](http://ultrasignup.com/results_event.aspx?did=51178), 116bpm, 22:13 min/mi|
+|May 18|106|comfort|0|[Cruel Jewel 100](http://www.dumassevents.com)|[39:12](http://ultrasignup.com/results_event.aspx?did=51178#id220546), 116bpm, 22:13 min/mi|
 |May 26|3.1|race|35|Believe in Heroes (Los Lunas)|26:06, 154bpm, 8:26 min/mi|
 |May 30|12.26|comfort|40|from house|2:36:46, 128bpm, 12:47 min/mi|
 |Jun 2|27|comfort|40|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664710/)|12:31:29, 103bpm, 27:59 min/mi, 2.5 gallon water brick leaked, should have been 50#|
@@ -281,9 +278,9 @@ get used to the heat, since that's one of the things that hits me hard
 |Jul 11|13.12|comfort|40|from house|2:24:17, 130bpm, 10:59 min/mi|
 |Jul 18|13.11|comfort|40|from house|2:23:35, 130bpm, 10:57 min/mi|
 |Jul 21|13.10|comfort|40|from house|2:19:55, 130bpm, 10:40 min/mi|
-|Jul 25|13.10|comfort|40|from house|2:27:14, < 130bpm*, 11:13 min/mi|
+|Jul 25|13.10|comfort|40|from house|2:27:14, < 130bpm, 11:13 min/mi|
 |Aug 4|31|comfort|0|[Baldy 50k](https://newmexicofa50k.wordpress.com/baldy_50k/)|10:56:27, 118bpm, 20:22 min/mi|
-|Aug 8|13.11|comfort|40|from house|2:28:43, < 130bpm**, 11:20 min/mi|
+|Aug 8|13.11|comfort|40|from house|2:28:43, < 130bpm, 11:20 min/mi|
 |Aug 9|5.57|comfort|40|from house|54:58, 131bpm**, 9:52 min/mi|
 |Aug 10|8.89|comfort|40|from house|1:33:31, 130bpm, 10:31 min/mi|
 |Aug 11|8.56|race|40|Bosque Bike Path|1:16:15, 143bpm, 8:54 min/mi|
@@ -293,37 +290,33 @@ get used to the heat, since that's one of the things that hits me hard
 |Aug 29|6.56|comfort|40|from house|1:09:02, 130bpm, 10:31 min/mi|
 |Aug 31|6.56|speed|40|from house|58:30, 148bpm, 8:55 min/mi|
 |Sep 4|3.28|comfort|40|from house|32:46, 131bpm, 9:58 min/mi|
-|Sep 7|205|comfort|15|[Tahoe 200](http://www.tahoe200.com)|[89:23:05](http://ultrasignup.com/results_event.aspx?did=51571), ~13 hours sleeping, a few more hours lazing around aid stations, no crew or pacers, would have been faster if I hadn't stubbed my toe on the second day|
+|Sep 7|205|comfort|15|[Tahoe 200](http://www.tahoe200.com)|[89:23:05](http://ultrasignup.com/results_event.aspx?did=51571#id220546), ~13 hours sleeping, a few more hours lazing around aid stations, no crew or pacers, would have been faster if I hadn't stubbed my toe on the second day|
 |Sep 16|100*|comfort|0|Tour de Cheapskates|*Self-supported 100 mile bike ride 6:46:51, 117bpm, 14.7 mph|
 |Sep 19|6.56|comfort|40|from house|1:17:38, 129bpm, 11:50 min/mi|
 |Sep 21|33|comfort|0|[AA 50k](https://newmexicofa50k.wordpress.com/aa50k/)|[7:54:58](https://www.webscorer.com/racedetails?raceid=157239&did=173967), 106bpm, 14:10 mim/mi|
 |Sep 26|13.10|comfort|40|from house|2:25:49, 130bpm, 11:07 min/mi|
-|Sep 29|31|comfort|0|[Mt. Taylor 50k](http://www.mttaylor50k.com)|[6:13:03](http://ultrasignup.com/results_event.aspx?did=55195), 138bpm, 12:21 min/mi|
+|Sep 29|31|comfort|0|[Mt. Taylor 50k](http://www.mttaylor50k.com)|[6:13:03](http://ultrasignup.com/results_event.aspx?did=55195#id220546), 138bpm, 12:21 min/mi|
 |Oct 3|13.10|comfort|40|from house|2:21:02, 130bpm, 10:45 min/mi|
 |Oct 6|6.05|mountain|40|La Luz|1:31:29, 133bpm, 15:06 min/mi|
 |Oct 10|5.55|race|40|from house|57:07, 141bpm, 10:17 min/mi|
 |Oct 17|13.11|comfort|40|from house|2:22:44, 130bpm, 10:53 min/mi|
 |Oct 20|31|comfort|0|[White Mesa Fat Ass 50k](https://newmexicofa50k.wordpress.com/white_mesa_50k/)|[6:46:54](https://www.webscorer.com/racedetails?raceid=157234&did=173966), 130bpm, 12:39 min/mi|
 |Oct 21|26.2|comfort|0|[Duke City Marathon](https://www.dukecitymarathon.com)|[5:00:03](https://results.rmraces.live/specialized-timing/events/2018/35th-annual-big-5-duke-city-marathon/427/entrant), 114bpm, 11:27 min/mi|
-|Oct 27|99.9|comfort|0|[Javelina Jundred](http://www.javelinajundred.com)|[20:10:40](http://ultrasignup.com/results_event.aspx?did=53326), 117?bpm, 12:07 min/mi|
+|Oct 27|99.9|comfort|0|[Javelina Jundred](http://www.javelinajundred.com)|[20:10:40](http://ultrasignup.com/results_event.aspx?did=53326#id220546), 117?bpm, 12:07 min/mi|
 |Oct 31|13.11|comfort|40|from house|2:17:04, 131bpm, 10:27 min/mi|
-|Nov 3|53|comfort|0|[Deadman Peaks Trail Run](https://deadmanpeakstrailrun.wordpress.com)|[11:14:48](http://ultrasignup.com/results_event.aspx?did=56551), 127bpm, 12:48 min/mi|
-
-*HRM was giving erratic readings, many of them high, computed average HR was 131, but the graph is implausible and there were many times when I was running with what felt like less than 130bpm effort and the HRM was showing well over 130bpm for a while, then it would drop back down all w/o me changing effort.  This is a known failure mode when the battery runs low.  I'm going to change it.
-
-**After changing the battery two weeks ago, I got better readings, until August 8th.  I suspected the battery was going dead and the battery tester confirmed that. So, I replaced the battery and did a small pack run the following day and was able to run much faster with a lower HR.  Part of that was due to it being before the sun was over the mountains, it being a shorter distance, it being cooler and me having had pizza and beer the night prior (topping up my glycogen), but the difference was still sufficiently dramatic that I'm confident that my August 8th HR readings really were off.
+|Nov 3|53|comfort|0|[Deadman Peaks Trail Run](https://deadmanpeakstrailrun.wordpress.com)|[11:14:48](http://ultrasignup.com/results_event.aspx?did=56551#id220546), 127bpm, 12:48 min/mi|
 
 ### Planned (includes non-ruck endurance events)
 
-In this table, all pack runs starting on November 14th may change.  I
-put them on the calendar before I lost a lot of weight and started
-doing Wednesday 13.1 mile pack runs.
+In this table, all pack runs may change.  I put them on my calendar
+before I lost a lot of weight and started doing Wednesday 13.1 mile
+pack runs.
 
-My current plan is to experiment with three pack runs a week starting
-the week of November 19th.  Initially, I'll try doing my Monday
-interval with a forty pound pack and keep my Wednesday runs the same
-as I've done in previous years.  However, if I like doing the interval
-work with a forty pound pack, but decide the timing is wrong, I might
+Beginning the week of November 19th, I'm going to experiment with
+three pack runs a week.  Initially, I'll try doing my Monday interval
+with a forty pound pack and keep my Wednesday runs the same as I've
+done in previous years.  However, if I like doing the interval work
+with a forty pound pack, but decide the timing is wrong, I might
 switch them to Wednesdays and do my speed runs on Monday.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
