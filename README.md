@@ -305,6 +305,7 @@ get used to the heat, since that's one of the things that hits me hard
 |Oct 27|99.9|comfort|0|[Javelina Jundred](http://www.javelinajundred.com)|[20:10:40](http://ultrasignup.com/results_event.aspx?did=53326#id220546), 117?bpm, 12:07 min/mi|
 |Oct 31|13.11|comfort|40|from house|2:17:04, 131bpm, 10:27 min/mi|
 |Nov 3|53|comfort|0|[Deadman Peaks Trail Run](https://deadmanpeakstrailrun.wordpress.com)|[11:14:48](http://ultrasignup.com/results_event.aspx?did=56551#id220546), 127bpm, 12:48 min/mi|
+|Nov 7|13.11|comfort|40|from house|2:14:37, 130bpm, 10:16 min/mi|
 
 ### Planned (includes non-ruck endurance events)
 
