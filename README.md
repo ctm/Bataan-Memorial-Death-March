@@ -327,27 +327,29 @@ switch them to Wednesdays and do my speed runs on Monday.
 |Nov 17|9.5|mountain|35|La Luz||
 |Nov 19|13.1|interval|40|from house|experiment: a Monday interval w/40#|
 |Nov 21|6.5|speed|40|from house||
-|Nov 23|4|speed|0|[Black Friday Turkey Trots](https://www.meetup.com/ABQ-CoEd-Biking-Hiking-Activities-Group/events/255895932/)||
+|Nov 23|4|speed|0|Tractor Brewing|[Black Friday Turkey Trots](https://www.facebook.com/events/883595441844362/)|
 |Nov 24|31|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=56199)||
 |Nov 28|7|speed|40|from house||
-|Dec 1|12|race|40|Bosque Bike Path||
+|Dec 1|15|race|40|Bosque Bike Path||
 |Dec 5|7.5|speed|40|from house||
 |Dec 8|9.5|mountain|35|La Luz||
 |Dec 12|8.0|speed|40|from house||
-|Dec 15|15|race|40|Bosque Bike Path||
+|Dec 15|18|race|40|Bosque Bike Path||
 |Dec 19|8.5|speed|40|from house||
 |Dec 22|9.5|mountain|35|La Luz||
 |Dec 26|9|speed|40|from house||
 |Dec 29|18|race|40|Bosque Bike Path||
+|Dec 29|3|race|0|Blue Grasshopper Taproom|[The Grinch Lunch](https://www.facebook.com/events/951407541729229/)|
 |Jan 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)||
 |Jan 2|5.6|speed|40|from house||
 |Jan 5|9.5|mountain|35|La Luz||
 |Jan 9|10|speed|40|from house||
 |Jan 12|21|race|40|Bosque Bike Path||
+|Jan 12|4|race|0|Bombs Away Beer Company|[Resolutions Stink!](https://www.facebook.com/events/2410444822305258/)|
 |Jan 16|10.5|speed|40|from house||
-|Jan 19|3.1|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)||
+|Jan 19|9.5|mountain|35|La Luz||
 |Jan 23|11|speed|40|from house||
-|Jan 26|9.5|mountain|35|La Luz||
+|Jan 26|3.1|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)||
 |Jan 30|11.5|speed|40|from house||
 |Feb 2|24|race|40|Bosque Bike Path||
 |Feb 6|12|speed|40|from house||
@@ -356,10 +358,12 @@ switch them to Wednesdays and do my speed runs on Monday.
 |Feb 16|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snowshoe|
 |Feb 20|6|speed|40|from house||
 |Feb 23|24|race|40|Bosque Bike Path||
+|Feb 23|3|race|0|Canteen Taproom|[V Day Run](https://www.facebook.com/events/1034959723353175/), _may not do_|
 |Feb 27|13|speed|40|from house||
 |Mar 2|9.5|mountain|35|La Luz||
 |Mar 6|6.5|speed|40|from house||
 |Mar 9|4.75|mountain|35|La Luz||
+|Mar 10|3|race|0|Santa Fe Brewing at Green Jeans Farmery|[Burque Brewery Tour Crowning](https://www.facebook.com/events/508202319663128/)|
 |Mar 13|3.25|speed|40|from house||
 |Mar 17|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
 
