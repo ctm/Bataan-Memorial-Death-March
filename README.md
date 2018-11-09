@@ -70,10 +70,11 @@ days of the week except Sunday, when I ride my bike.
 ## Is this training plan safe?
 
 No.  If you run with a pack, you risk injury.  I have worked up to
-this training plan over several years.  The overall plan of doing two
-pack runs a week with running and cycling in between is probably
-doable for anyone who has already run a marathon or two, although the
-times, distances and weight should probably be lessened.
+this training plan over several years.  A plan of doing two pack runs
+a week with running and cycling in between is probably doable for
+anyone who has already run a marathon or two, although the times,
+distances and weight should probably be lessened.  Three pack runs a
+week is probably a bad idea for almost everyone.
 
 ## Base building
 
@@ -100,7 +101,7 @@ a little nervous that doing so would interfere with my ability to finish
 Cruel Jewel 100, but it was just the opposite.  I finished CJ100 much
 quicker than I expected, in part&mdash;I believe&mdash;due to my weight loss.
 
-My goal is to get my body fat percentage down to 7.3%.  Based on my
+My goal was to get my body fat percentage down to 7.3%.  Based on my
 first hydrostatic weighing, that would have been approximately 156
 pounds, except I had a second hydrostatic weighing on June 4th.  I
 weighed 159.6, which was a 25.9 pound loss, but 8.5 of that was lean
@@ -109,27 +110,19 @@ muscle mass.
 After that weighing, I raised the number of calories and the amount of
 protein I was taking during some of my more lengthy runs.  The change
 was successful.  I had my third weighing on July 26th and I lost 8.6
-pounds of fat and gained .4 pounds of muscle:
+pounds of fat and gained .4 pounds of muscle.  Similarly, I had
+my fourth on November 8th and lost only .7 pounds of fat, but gained
+1.9 pounds of muscle.
 
 |Test Date|Body Weight|Fat Weight|Fat Free Weight|Body Fat %|
 |---------|-----------|----------|---------------|----------|
 |2018-03-29|185.5|40.7|144.8|21.95|
 |2018-06-04|159.6|23.3|136.3|14.61|
 |2018-07-26|151.4|14.7|136.7|9.74|
+|2018-11-08|152.6|14.0|138.6|9.15|
 
-My plan had been to get to 7.3% (147.5 pounds), then ramp up my
-carbohydrate intake and increase the intensity of some of my training
-days.  However, it's been a while since I've been hydrostatically
-weighed, so I'll probably go in soon and see where I am and then
-figure out what to do.  It may make more sense to put body fat loss on
-hold and concentrate on BMDM training since it's clear that I've
-already made sufficient progress to make my 2019 BMDM goal.
-
-Initially, I've was doing some ultra-specific training so I could pace
-my brother-in-law at Leadville (he finished in 27:20) and then "run"
-the Tahoe 200 three weeks later.  Once I finished T200, I've
-concentrated more on building my BMDM base, but I've also completed a
-bunch of ultras at a comfortable pace.
+Even though I'm not at 7.3%, I'm now going to ramp up my carbohydrate
+intake and increase the intensity of some of my training days.
 
 ## Non-pack Days
 
@@ -221,38 +214,9 @@ run until Thursday, April 26th, when I chose to run 8.9 miles at about
 a 130bpm heart rate with a 31.5# pack as part of a plan to slowly get
 back into running on Wednesdays with a 40# pack.
 
-I'm going to go ahead and log all my pack runs as I do them.  In general,
-I'm base building until the beginning of November.
+I've logged all my pack runs since then, building my base.
+On November 14th my _serious_ training starts.
 
-On May 30th, my plan was to run 13.1 miles with a 40 pound pack while
-keeping my heart rate at 130bpm, but with the proviso that if I wasn't
-done two and a half hours in, I could "stop".  Sure enough, I was a
-quarter mile from home when 2:30 rolled around, so I walked to my home
-and only got 12.26 miles in.  I consumed 40 oz. of water with 600
-calories of Tailwind, but I didn't have extra caffeine, nor did I wear
-my ice hat or have breakfast.  I also didn't have any water in my pack,
-so when I was out of water from my handhelds, I was out.
-
-On June 6th, I had the same plan (13.1 miles, 40#, 130bpm) and I got
-12.52 miles in by 2:30.  My pack was slightly light, because I had put
-it together the day before (or maybe even two days before) and some of
-the weight was water in a 100 oz. bladder that leaked a little.  I
-also used 20 oz. of the water so that instead of consuming 2 handhelds
-with 300 calories each, I consumed 3.  That gave me more oomph at the
-end, although it also meant that I was running with 20 oz. less in my
-pack at the end.
-
-One other thing I did differently that week was I drank a pint of
-water with 3 tablespoons of chia seeds (180 calories) mixed in (ten
-minutes before I drank it) shortly after I got up.  I think that the
-added 180 calories before my workout and the added 300 calories during
-my workout helped keep my pace up at the end.
-
-The way I've done non-taper Wednesdays since has been more or less
-what I did on June 6th.  I now easily finish 13.1 miles in less than
-2:30.  I haven't been using my ice hat, because I'm letting my body
-get used to the heat, since that's one of the things that hits me hard
-@ BMDM.
 
 ### Completed
 
@@ -309,10 +273,6 @@ get used to the heat, since that's one of the things that hits me hard
 
 ### Planned (includes non-ruck endurance events)
 
-In this table, all pack runs may change.  I put them on my calendar
-before I lost a lot of weight and started doing Wednesday 13.1 mile
-pack runs.
-
 Beginning the week of November 19th, I'm going to experiment with
 three pack runs a week.  Initially, I'll try doing my Monday interval
 with a forty pound pack and keep my Wednesday runs the same as I've
@@ -367,5 +327,6 @@ switch them to Wednesdays and do my speed runs on Monday.
 |Mar 13|3.25|speed|40|from house||
 |Mar 17|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
 
-The biggest thing I have to do is stay healthy and uninjured.  If I do that,
-the rest will take care of itself.
+I'm currently sufficiently "pack fit" that the biggest thing I have to
+do is stay healthy and uninjured.  If I do that, the rest will take
+care of itself.
