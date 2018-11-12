@@ -270,6 +270,8 @@ On November 14th my _serious_ training starts.
 |Oct 31|13.11|comfort|40|from house|2:17:04, 131bpm, 10:27 min/mi|
 |Nov 3|53|comfort|0|[Deadman Peaks Trail Run](https://deadmanpeakstrailrun.wordpress.com)|[11:14:48](http://ultrasignup.com/results_event.aspx?did=56551#id220546), 127bpm, 12:48 min/mi|
 |Nov 7|13.11|comfort|40|from house|2:14:37, 130bpm, 10:16 min/mi|
+|Nov 11|30.63|comfort|0|[Ghost Town 50k](https://ghosttown50kinvitationals.blogspot.com)|5:45:33, 139bpm, 11:16 min/mi|
+
 
 ### Planned (includes non-ruck endurance events)
 
@@ -282,7 +284,6 @@ switch them to Wednesdays and do my speed runs on Monday.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Nov 11|31|comfort|0|[Ghost Town 50k](https://ghosttown50kinvitationals.blogspot.com)||
 |Nov 14|6|speed|40|from house||
 |Nov 17|9.5|mountain|35|La Luz||
 |Nov 19|13.1|interval|40|from house|experiment: a Monday interval w/40#|
