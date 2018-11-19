@@ -48,21 +48,24 @@ soft.  So, when I attended my first BMDM, my feet hurt quite a bit by
 mile six.  I could barely walk the last several miles.
 
 Somewhere around 2014, I started training in November. Then, in 2017,
-I started doing weekly pack runs in late August.  In my non-training
-months I've tried to do _something_ with my pack at least once a month
-between BMDM and when I start my seriou training.  Often that is a
-search and rescue mission or two, but if we get a dry spell and no
-missions for a month I might go out and do a big hike with a fifty
-pound pack.
+I started doing weekly pack runs in late August.  From 2014 until last
+yer, In my non-training months I tried to do _something_ with my pack
+at least once a month between BMDM and whenever I started my weekly
+pack runs. Often that was a search and rescue mission or two, but when
+we got dry spells and no missions for a month I did something like a
+big hike with a fifty pound pack.
 
-During training, starting in November, I run with my pack on
-Wednesdays and on Saturdays.  My Wednesday runs are done as quickly as
-I can and start from and end at my house.  Typically I increase the
-distance by a half mile each week.  My Saturday runs alternate between
-a level run at race pace and a run five miles up and five miles down
-La Luz Trail (i.e., the local mountain).  My level run distance
-typically increases by three miles.  My mountain run stays the same
-distance, but I try to do it faster each time.
+Since 2014, I've been ramping up my training starting in November.
+Until this year, I'd run with my pack on Wednesdays and on Saturdays.
+This year I'm doing that but also running with my pack on Mondays. My
+Wednesday runs are done as quickly as I can and start from and end at
+my house.  Typically I increase the distance by a half mile each week.
+My Saturday runs alternate between a level run at race pace and a run
+five miles up and five miles down La Luz Trail (i.e., the local
+mountain).  My level run distance typically increases by three miles.
+My mountain run stays the same distance, but I try to do it faster
+each time.  My Monday run is always 13.1 miles, but incorporates
+12 75 second all-out intervals in the middle.
 
 In addition to my pack runs, I also run without my pack the remaining
 days of the week except Sunday, when I ride my bike.
@@ -121,8 +124,10 @@ my fourth on November 8th and lost only .7 pounds of fat, but gained
 |2018-07-26|151.4|14.7|136.7|9.74|
 |2018-11-08|152.6|14.0|138.6|9.15|
 
-Even though I'm not at 7.3%, I'm now going to ramp up my carbohydrate
-intake and increase the intensity of some of my training days.
+Even though I didn't hit 7.3%, I've ramped up my carbohydrate intake
+and increased the intensity of some of my training days.  I'm still doing
+some of my diet protocol and expect to stabilize at near 7.3% by mid
+December.
 
 ## Non-pack Days
 
@@ -164,6 +169,10 @@ Starting in April 2018, I upped my schedule to:
 |Thursday|Slow Run|8.9 miles|
 |Friday|Slow Run|13.1 miles|
 
+Starting on November 19th, 2018, I started doing my interval trainig with
+my packs, so Monday is no longer a non-pack day, but the rest of my non-pack
+days remain the same as in the above table.
+
 ## Pack (and exception) days
 
 In the following table, `speed` means as quickly as I can to minimize
@@ -183,6 +192,15 @@ should be able to better this year.
 `Comfort` means I'll
 keep my HR between below 150bpm during the training or event.
 I'm out there to have fun.
+
+`Interval` Beginning Novemver 19th, I began doing interval training with my
+forty pound pack, wrapped with enough low heart rate running on either end
+to be a total of 13.1 miles with an average heart rate of 130bpm.  The
+intervals themselves are 12 all-outs of 75 seconds each, with 30 seconds
+of light runnning as rest in between.
+
+Prior to Novemver 19th, I had done interval trainings on Monday, but
+without the pack.
 
 `Pace` meant whatever it took to be the best pacer possible for my
 brother-in-law as he finished his first Leadville 100.  Turns out
@@ -214,9 +232,8 @@ run until Thursday, April 26th, when I chose to run 8.9 miles at about
 a 130bpm heart rate with a 31.5# pack as part of a plan to slowly get
 back into running on Wednesdays with a 40# pack.
 
-I've logged all my pack runs since then, building my base.
-On November 14th my _serious_ training starts.
-
+I've logged _all_ my pack runs (and some other activities) since then,
+and built a formidable base.  On November 14th I started my _serious_ training.
 
 ### Completed
 
@@ -273,20 +290,13 @@ On November 14th my _serious_ training starts.
 |Nov 11|30.63|comfort|0|[Ghost Town 50k](https://ghosttown50kinvitationals.blogspot.com)|5:45:33, 139bpm, 11:16 min/mi|
 |Nov 14|6|speed|40|from house|53:05, 145bpm, 8:50 min/mi|
 |Nov 17|9.86|mountain|35|La Luz|2:19:50, 131bpm, 14:10, alternate trailhead|
+|Nov 19|13.1|interval|40|from house|2:09:37, 130bpm, 9:53 min/mi|
 
 
-### Planned (includes non-ruck endurance events)
-
-Beginning the week of November 19th, I'm going to experiment with
-three pack runs a week.  Initially, I'll try doing my Monday interval
-with a forty pound pack and keep my Wednesday runs the same as I've
-done in previous years.  However, if I like doing the interval work
-with a forty pound pack, but decide the timing is wrong, I might
-switch them to Wednesdays and do my speed runs on Monday.
+### Upcoming (includes non-ruck endurance events and races)
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Nov 19|13.1|interval|40|from house|experiment: a Monday interval w/40#|
 |Nov 21|6.5|speed|40|from house||
 |Nov 23|4|speed|0|Tractor Brewing|[Black Friday Turkey Trots](https://www.facebook.com/events/883595441844362/)|
 |Nov 24|31|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=56199)||
