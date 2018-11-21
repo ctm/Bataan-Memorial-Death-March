@@ -294,6 +294,7 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Nov 21|6.5|speed|40|from house|56:07, 147bpm, 8:40 min/mi|
 
 ### Upcoming (includes non-ruck endurance events and races)
+#### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
