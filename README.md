@@ -295,13 +295,13 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Nov 23|4|speed|0|[Black Friday Turkey Trots](https://www.facebook.com/events/883595441844362/)|[28:20](https://www.webscorer.com/race?raceid=162436), 156bpm, 7:00 min/mi|
 |Nov 24|32.57|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=56199)|[4:59:29](http://ultrasignup.com/results_event.aspx?did=56026#id220546), 135bpm, 9:11 min/mi|
 |Nov 26|13.1|interval|40|from house|2:15:56, 126bpm, 10:22 min/mi|
+|Nov 28|7|speed|40|from house|1:01:53, 146bpm, 8:49 min/mi|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Nov 28|7|speed|40|from house||
 |Dec 1|15|race|40|Bosque Bike Path||
 |Dec 5|7.5|speed|40|from house||
 |Dec 8|9.5|mountain|35|La Luz||
