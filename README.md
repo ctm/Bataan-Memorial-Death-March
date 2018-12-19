@@ -304,13 +304,13 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Dec 12|8.0|speed|40|from house|1:10:34, 150bpm, 8:48 min/mi|
 |Dec 15|18.01|race|40|Bosque Bike Path|2:51:19, 139bpm, 9:30 min/mi|
 |Dec 17|13.11|interval|40|from house|2:09:34, 143bpm, 9:53 min/mi|
+|Dec 19|8.5|speed|40|from house|1:14:16, 153bpm, 8:43 min/mi|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Dec 19|8.5|speed|40|from house||
 |Dec 22|9.5|mountain|35|La Luz||
 |Dec 26|9|speed|40|from house||
 |Dec 29|18|race|40|Bosque Bike Path||
