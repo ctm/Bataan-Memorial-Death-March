@@ -310,6 +310,7 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Dec 26|9|speed|40|from house|1:18:21, 149bpm, 8:41 min/mi|
 |Dec 29|18|race|40|Bosque Bike Path|2:49:44, 137bpm, 9:22 min/mi|
 |Dec 29|3|race|0|[The Grinch Lunch](https://www.facebook.com/events/951407541729229/)|[24:48.2](https://www.webscorer.com/race?raceid=165148), 149bpm, 7:59 min/mi|
+|Dec 31|13.11|interval|40|from house|2:18:13, 135bpm, 10:32 min/mi|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
