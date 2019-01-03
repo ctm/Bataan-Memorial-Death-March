@@ -311,14 +311,14 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Dec 29|18|race|40|Bosque Bike Path|2:49:44, 137bpm, 9:22 min/mi|
 |Dec 29|3|race|0|[The Grinch Lunch](https://www.facebook.com/events/951407541729229/)|[24:48.2](https://www.webscorer.com/race?raceid=165148), 149bpm, 7:59 min/mi|
 |Dec 31|13.11|interval|40|from house|2:18:13, 135bpm, 10:32 min/mi|
-|Jan 1|11.11|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|3:05:51, 118bpm, 16:44 min/mi, blizzard wiped 50k|
+|Jan 1|11.11|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|[3:05:51](https://www.webscorer.com/racedetails?raceid=165337&did=179854), 118bpm, 16:44 min/mi, blizzard wiped 50k|
+|Jan 3|5.6|speed|40|from house|50:36, 149bpm, 9:08 min/mi, day late due to weather, tiredness|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 2|5.6|speed|40|from house||
 |Jan 5|9.5|mountain|35|La Luz||
 |Jan 9|10|speed|40|from house||
 |Jan 12|21|race|40|Bosque Bike Path||
