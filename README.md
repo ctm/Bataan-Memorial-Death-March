@@ -313,13 +313,13 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Dec 31|13.11|interval|40|from house|2:18:13, 135bpm, 10:32 min/mi|
 |Jan 1|11.11|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|[3:05:51](https://www.webscorer.com/racedetails?raceid=165337&did=179854), 118bpm, 16:44 min/mi, blizzard wiped 50k|
 |Jan 3|5.6|speed|40|from house|50:36, 149bpm, 9:08 min/mi, day late due to weather, tiredness|
+|Jan 5|7.97|mountain|35|La Luz|2:43:39, 127bpm, 20:32 min/mi, dangerous snow|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 5|9.5|mountain|35|La Luz||
 |Jan 9|10|speed|40|from house||
 |Jan 12|21|race|40|Bosque Bike Path||
 |Jan 12|4|race|0|Bombs Away Beer Company|[Resolutions Stink!](https://www.facebook.com/events/2410444822305258/)|
