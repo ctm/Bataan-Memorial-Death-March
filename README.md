@@ -314,6 +314,7 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Jan 1|11.11|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|[3:05:51](https://www.webscorer.com/racedetails?raceid=165337&did=179854), 118bpm, 16:44 min/mi, blizzard wiped 50k|
 |Jan 3|5.6|speed|40|from house|50:36, 149bpm, 9:08 min/mi, day late due to weather, tiredness|
 |Jan 5|7.97|mountain|35|La Luz|2:43:39, 127bpm, 20:32 min/mi, dangerous snow|
+|Jan 7|13.12|interval|40|from house|2:10:56, 138bpm, 9:58 min/mi|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
