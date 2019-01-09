@@ -315,13 +315,13 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Jan 3|5.6|speed|40|from house|50:36, 149bpm, 9:08 min/mi, day late due to weather, tiredness|
 |Jan 5|7.97|mountain|35|La Luz|2:43:39, 127bpm, 20:32 min/mi, dangerous snow|
 |Jan 7|13.12|interval|40|from house|2:10:56, 138bpm, 9:58 min/mi|
+|Jan 9|10|speed|40|from house|1:26:07, 148bpm, 8:35 min/mi|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 9|10|speed|40|from house||
 |Jan 12|21|race|40|Bosque Bike Path||
 |Jan 12|4|race|0|Bombs Away Beer Company|[Resolutions Stink!](https://www.facebook.com/events/2410444822305258/)|
 |Jan 16|10.5|speed|40|from house||
