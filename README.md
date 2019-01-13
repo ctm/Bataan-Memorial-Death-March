@@ -169,9 +169,11 @@ Starting in April 2018, I upped my schedule to:
 |Thursday|Slow Run|8.9 miles|
 |Friday|Slow Run|13.1 miles|
 
-Starting on November 19th, 2018, I started doing my interval trainig with
-my packs, so Monday is no longer a non-pack day, but the rest of my non-pack
-days remain the same as in the above table.
+On November 19th, 2018, I started doing my interval training with
+my pack, so Monday is no longer a non-pack day.
+
+Starting Friday, January 11th, I've decided to take Fridays completely
+off from running so I can run harder on Saturdays.
 
 ## Pack (and exception) days
 
@@ -316,14 +318,21 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Jan 5|7.97|mountain|35|La Luz|2:43:39, 127bpm, 20:32 min/mi, dangerous snow|
 |Jan 7|13.12|interval|40|from house|2:10:56, 138bpm, 9:58 min/mi|
 |Jan 9|10|speed|40|from house|1:26:07, 148bpm, 8:35 min/mi|
+|Jan 12|21|race|40|Bosque Bike Path|3:15:40, 141bpm, 9:18 min/mi|
+|Jan 12|3.76|race|0|[Resolutions Stink!](https://www.facebook.com/events/2410444822305258/)|28:24, 155bpm, 7:32 min/mi|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
 
+I may do my second 24 mile Bosque Bike Path run on Friday, February
+22nd rather than Saturday, February 23rd (it'll probably come down to
+whether it interferes with work) so that I'll be able to run the V Day
+Run w/o getting up ridiculously early.  OTOH, that's only 6 days after
+the Mt. Taylor Quadrathlon, so there's a chance I'll still be
+recovering from that.
+
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 12|21|race|40|Bosque Bike Path||
-|Jan 12|4|race|0|Bombs Away Beer Company|[Resolutions Stink!](https://www.facebook.com/events/2410444822305258/)|
 |Jan 16|10.5|speed|40|from house||
 |Jan 19|9.5|mountain|35|La Luz||
 |Jan 23|11|speed|40|from house||
@@ -335,7 +344,7 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Feb 13|5.6|speed|40|from house||
 |Feb 16|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snowshoe|
 |Feb 20|6|speed|40|from house||
-|Feb 23|24|race|40|Bosque Bike Path||
+|Feb 22?|24|race|40|Bosque Bike Path||
 |Feb 23|3|race|0|Canteen Taproom|[V Day Run](https://www.facebook.com/events/1034959723353175/), _may not do_|
 |Feb 27|13|speed|40|from house||
 |Mar 2|9.5|mountain|35|La Luz||
