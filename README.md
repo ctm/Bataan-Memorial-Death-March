@@ -319,7 +319,8 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Jan 7|13.12|interval|40|from house|2:10:56, 138bpm, 9:58 min/mi|
 |Jan 9|10|speed|40|from house|1:26:07, 148bpm, 8:35 min/mi|
 |Jan 12|21|race|40|Bosque Bike Path|3:15:40, 141bpm, 9:18 min/mi|
-|Jan 12|3.76|race|0|[Resolutions Stink!](https://www.facebook.com/events/2410444822305258/)|28:24, 155bpm, 7:32 min/mi|
+|Jan 12|3.76|race|0|[Resolutions Stink!](https://www.facebook.com/events/2410444822305258/)|[28:21](https://www.webscorer.com/racedetails?raceid=166439&did=181178), 155bpm, 7:32 min/mi|
+|Jan 14|13.11|interval|40|from house|2:09:16, 139bpm, 9:51 min/mi|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
