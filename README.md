@@ -322,6 +322,7 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Jan 12|3.76|race|0|[Resolutions Stink!](https://www.facebook.com/events/2410444822305258/)|[28:21](https://www.webscorer.com/racedetails?raceid=166439&did=181178), 155bpm, 7:32 min/mi|
 |Jan 14|13.11|interval|40|from house|2:09:16, 139bpm, 9:51 min/mi|
 |Jan 16|10.5|speed|40|from house|1:31:53, 151bpm, 8:44 min/mi|
+|Jan 19|7.72|mountain|35|La Luz|2:30:25, 130bpm, 19:28 min/mi|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
@@ -335,7 +336,6 @@ recovering from that.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 19|9.5|mountain|35|La Luz||
 |Jan 23|11|speed|40|from house||
 |Jan 26|3.1|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)||
 |Jan 30|11.5|speed|40|from house||
