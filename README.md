@@ -327,6 +327,7 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Jan 23|11|speed|40|from house|1:36:16, 149bpm, 8:44 min/mi|
 |Jan 26|2.71|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)|[29:27](http://sandiasnowshoe.com/wp-content/uploads/2019/01/2019_Sandia-SnowShoe_ByAgeGrp.pdf), ?157 bpm?, 10:55 min/mi|
 |Jan 28|13.11|interval|40|from house|2:10:14, 140bpm, 9:56 min/mi|
+|Jan 30|11.51|speed|43|from house|1:42:58, 148bpm, 8:56 min/mi|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
@@ -340,7 +341,6 @@ recovering from that.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 30|11.5|speed|40|from house||
 |Feb 2|24|race|40|Bosque Bike Path||
 |Feb 6|12|speed|40|from house||
 |Feb 9|9.5|mountain|35|La Luz||
