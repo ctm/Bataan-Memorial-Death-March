@@ -328,20 +328,19 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Jan 26|2.71|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)|[29:27](http://sandiasnowshoe.com/wp-content/uploads/2019/01/2019_Sandia-SnowShoe_ByAgeGrp.pdf), ?157 bpm?, 10:55 min/mi|
 |Jan 28|13.11|interval|40|from house|2:10:14, 140bpm, 9:56 min/mi|
 |Jan 30|11.51|speed|43|from house|1:42:58, 148bpm, 8:56 min/mi|
+|Feb 2|24.01|race|40|Bosque Bike Path|3:44:23, 142bpm, 9;20 min/mi|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
 
-I may do my second 24 mile Bosque Bike Path run on Friday, February
-22nd rather than Saturday, February 23rd (it'll probably come down to
-whether it interferes with work) so that I'll be able to run the V Day
-Run w/o getting up ridiculously early.  OTOH, that's only 6 days after
-the Mt. Taylor Quadrathlon, so there's a chance I'll still be
-recovering from that.
+I plan on doing my second 24 mile Bosque Bike Path run on Friday,
+February 22nd rather than Saturday, February 23rd so that I'll be able
+to run the V Day Run w/o getting up ridiculously early.  OTOH, that's
+only 6 days after the Mt. Taylor Quadrathlon, so there's a chance I'll
+still be recovering from that.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 2|24|race|40|Bosque Bike Path||
 |Feb 6|12|speed|40|from house||
 |Feb 9|9.5|mountain|35|La Luz||
 |Feb 13|5.6|speed|40|from house||
