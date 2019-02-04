@@ -325,7 +325,7 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Jan 19|7.72|mountain|35|La Luz|2:30:25, 130bpm, 19:28 min/mi|
 |Jan 21|13.10|interval|40|from house|2:07:58, 143bpm, 9:45 min/mi|
 |Jan 23|11|speed|40|from house|1:36:16, 149bpm, 8:44 min/mi|
-|Jan 26|2.71|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)|[29:27](http://sandiasnowshoe.com/wp-content/uploads/2019/01/2019_Sandia-SnowShoe_ByAgeGrp.pdf), ?157 bpm?, 10:55 min/mi|
+|Jan 26|2.71|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)|[29:27](http://sandiasnowshoe.com/wp-content/uploads/2019/01/2019_Sandia-SnowShoe_ByAgeGrp.pdf), 157 bpm, 10:55 min/mi|
 |Jan 28|13.11|interval|40|from house|2:10:14, 140bpm, 9:56 min/mi|
 |Jan 30|11.51|speed|43|from house|1:42:58, 148bpm, 8:56 min/mi|
 |Feb 2|24.01|race|40|Bosque Bike Path|3:44:23, 142bpm, 9;20 min/mi|
@@ -338,7 +338,7 @@ I plan on doing my second 24 mile Bosque Bike Path run on Friday,
 February 22nd rather than Saturday, February 23rd so that I'll be able
 to run the V Day Run w/o getting up ridiculously early.  OTOH, that's
 only 6 days after the Mt. Taylor Quadrathlon, so there's a chance I'll
-still be recovering from that.
+change my mind if I feel insufficiently recovered.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
@@ -347,8 +347,8 @@ still be recovering from that.
 |Feb 13|5.6|speed|40|from house||
 |Feb 16|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snowshoe|
 |Feb 20|6|speed|40|from house||
-|Feb 22?|24|race|40|Bosque Bike Path||
-|Feb 23|3|race|0|Canteen Taproom|[V Day Run](https://www.facebook.com/events/1034959723353175/), _may not do_|
+|Feb 22|24|race|40|Bosque Bike Path||
+|Feb 23|3|race|0|Canteen Taproom|[V Day Run](https://www.facebook.com/events/1034959723353175/)|
 |Feb 27|13|speed|40|from house||
 |Mar 2|9.5|mountain|35|La Luz||
 |Mar 6|6.5|speed|40|from house||
