@@ -331,6 +331,7 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Feb 2|24.01|race|40|Bosque Bike Path|3:44:23, 142bpm, 9;20 min/mi|
 |Feb 4|13.11|interval|40|from house|2:09:36, 141bpm, 9:53 min/mi|
 |Feb 6|12.01|speed|40|from house|1:48:23, 150bpm, 9:01 min/mi|
+|Feb 9|9.91|mountain|35|La Luz|2:45:42, 131bpm, 16:42 min/mi|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
@@ -343,7 +344,6 @@ change my mind if I feel insufficiently recovered.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 9|9.5|mountain|35|La Luz||
 |Feb 13|5.6|speed|40|from house||
 |Feb 16|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snowshoe|
 |Feb 20|6|speed|40|from house||
