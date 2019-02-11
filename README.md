@@ -332,6 +332,7 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Feb 4|13.11|interval|40|from house|2:09:36, 141bpm, 9:53 min/mi|
 |Feb 6|12.01|speed|40|from house|1:48:23, 150bpm, 9:01 min/mi|
 |Feb 9|9.91|mountain|35|La Luz|2:45:42, 131bpm, 16:42 min/mi|
+|Feb 11|6.56|interval|40|from house|1:03:39, 139bpm, 9:41 min/mi|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
