@@ -328,12 +328,13 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Jan 26|2.71|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)|[29:27](http://sandiasnowshoe.com/wp-content/uploads/2019/01/2019_Sandia-SnowShoe_ByAgeGrp.pdf), 157 bpm, 10:55 min/mi|
 |Jan 28|13.11|interval|40|from house|2:10:14, 140bpm, 9:56 min/mi|
 |Jan 30|11.51|speed|43|from house|1:42:58, 148bpm, 8:56 min/mi|
-|Feb 2|24.01|race|40|Bosque Bike Path|3:44:23, 142bpm, 9;20 min/mi|
+|Feb 2|24.01|race|40|Bosque Bike Path|3:44:23, 142bpm, 9:20 min/mi|
 |Feb 4|13.11|interval|40|from house|2:09:36, 141bpm, 9:53 min/mi|
 |Feb 6|12.01|speed|40|from house|1:48:23, 150bpm, 9:01 min/mi|
 |Feb 9|9.91|mountain|35|La Luz|2:45:42, 131bpm, 16:42 min/mi|
 |Feb 11|6.56|interval|40|from house|1:03:39, 139bpm, 9:41 min/mi|
 |Feb 13|5.54|speed|40|from house|46:01, 154bpm, 8:18 min/mi|
+|Feb 16|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snowshoe [5:55:22](http://ccrtiming.com/events-results/2019-results/mt-taylor.htm) 140bpm|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
@@ -346,7 +347,6 @@ change my mind if I feel insufficiently recovered.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 16|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snowshoe|
 |Feb 20|6|speed|40|from house||
 |Feb 22|24|race|40|Bosque Bike Path||
 |Feb 23|3|race|0|Canteen Taproom|[V Day Run](https://www.facebook.com/events/1034959723353175/)|
