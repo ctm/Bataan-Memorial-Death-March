@@ -335,6 +335,7 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Feb 11|6.56|interval|40|from house|1:03:39, 139bpm, 9:41 min/mi|
 |Feb 13|5.54|speed|40|from house|46:01, 154bpm, 8:18 min/mi|
 |Feb 16|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snowshoe [5:55:22](http://ccrtiming.com/events-results/2019-results/mt-taylor.htm) 140bpm|
+|Feb 18|6.56|interval|40|from house|1:04:22.3, 139bpm, 9:48 min/mi|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
