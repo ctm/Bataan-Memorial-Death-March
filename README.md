@@ -354,7 +354,7 @@ change my mind if I feel insufficiently recovered.
 |Feb 27|13|speed|40|from house||
 |Mar 2|9.5|mountain|35|La Luz||
 |Mar 6|6.5|speed|40|from house||
-|Mar 9|4.75|mountain|35|La Luz||
+|Mar 9|6.2|race|35|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)||
 |Mar 10|3|race|0|Santa Fe Brewing at Green Jeans Farmery|[Burque Brewery Tour Crowning](https://www.facebook.com/events/508202319663128/)|
 |Mar 13|3.25|speed|40|from house||
 |Mar 17|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
