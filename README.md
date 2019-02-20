@@ -336,6 +336,7 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Feb 13|5.54|speed|40|from house|46:01, 154bpm, 8:18 min/mi|
 |Feb 16|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snowshoe [5:55:22](http://ccrtiming.com/events-results/2019-results/mt-taylor.htm) 140bpm|
 |Feb 18|6.56|interval|40|from house|1:04:22.3, 139bpm, 9:48 min/mi|
+|Feb 20|6.21|speed|40|from house|53:32, 151bpm, 8:37 min/mi|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
@@ -348,7 +349,6 @@ change my mind if I feel insufficiently recovered.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 20|6|speed|40|from house||
 |Feb 22|24|race|40|Bosque Bike Path||
 |Feb 23|3|race|0|Canteen Taproom|[V Day Run](https://www.facebook.com/events/1034959723353175/)|
 |Feb 27|13|speed|40|from house||
@@ -357,7 +357,7 @@ change my mind if I feel insufficiently recovered.
 |Mar 9|6.2|race|35|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)||
 |Mar 10|3|race|0|Santa Fe Brewing at Green Jeans Farmery|[Burque Brewery Tour Crowning](https://www.facebook.com/events/508202319663128/)|
 |Mar 13|3.25|speed|40|from house||
-|Mar 17|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
+|Mar 17|26.2|race|30|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
 
 I'm currently sufficiently "pack fit" that the biggest thing I have to
 do is stay healthy and uninjured.  If I do that, the rest will take
