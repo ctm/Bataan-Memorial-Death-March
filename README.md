@@ -342,12 +342,6 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
 
-I plan on doing my second 24 mile Bosque Bike Path run on Friday,
-February 22nd rather than Saturday, February 23rd so that I'll be able
-to run the V Day Run w/o getting up ridiculously early.  OTOH, that's
-only 6 days after the Mt. Taylor Quadrathlon, so there's a chance I'll
-change my mind if I feel insufficiently recovered.
-
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
 |Feb 23|3|race|0|Canteen Taproom|[V Day Run](https://www.facebook.com/events/1034959723353175/)|
