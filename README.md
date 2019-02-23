@@ -172,8 +172,10 @@ Starting in April 2018, I upped my schedule to:
 On November 19th, 2018, I started doing my interval training with
 my pack, so Monday is no longer a non-pack day.
 
-Starting Friday, January 11th, I've decided to take Fridays completely
-off from running so I can run harder on Saturdays.
+Starting Friday, January 11th, I wound up taking four of the following
+seven Fridays completely off from running so I could run harder on
+Saturdays.
+
 
 ## Pack (and exception) days
 
