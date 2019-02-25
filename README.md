@@ -341,6 +341,7 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Feb 20|6.21|speed|40|from house|53:32, 151bpm, 8:37 min/mi|
 |Feb 22|24.01|race|40|Bosque Bike Path|3:43:27, 143bpm, 9:18 min/mi|
 |Feb 23|3|race|0|[V Day Run](https://www.facebook.com/events/1034959723353175/)|[18:58](https://www.webscorer.com/race?raceid=170504), 147bpm, 7:53 min/mi|
+|Feb 25|13.11|interval|40|from house|2:12:20, 143bpm, 10:06 min/mi|
 
 ### Upcoming (includes non-ruck endurance events and races)
 #### Does not include Mondays, which are all 13.1 mi, 40#, w/intervals (see above)
@@ -348,7 +349,7 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
 |Feb 27|13|speed|40|from house||
-|Mar 2|9.5|mountain|35|La Luz||
+|Mar 2|4.75|mountain|35|La Luz||
 |Mar 6|6.5|speed|40|from house||
 |Mar 9|6.2|race|35|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)||
 |Mar 10|3|race|0|Santa Fe Brewing at Green Jeans Farmery|[Burque Brewery Tour Crowning](https://www.facebook.com/events/508202319663128/)|
