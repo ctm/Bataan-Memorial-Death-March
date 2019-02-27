@@ -342,12 +342,12 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Feb 22|24.01|race|40|Bosque Bike Path|3:43:27, 143bpm, 9:18 min/mi|
 |Feb 23|3|race|0|[V Day Run](https://www.facebook.com/events/1034959723353175/)|[18:58](https://www.webscorer.com/race?raceid=170504), 147bpm, 7:53 min/mi|
 |Feb 25|13.11|interval|40|from house|2:12:20, 143bpm, 10:06 min/mi|
+|Feb 27|13.11|speed|40|from house|2:02:12, 149bpm, 9:19 min/mi|
 
 ### Remaining
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 27|13|speed|40|from house||
 |Mar 2|4.75|mountain|35|La Luz||
 |Mar 4|6.55|interval(6)|40|from house||
 |Mar 6|6.5|speed|40|from house||
