@@ -345,17 +345,17 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Feb 27|13.11|speed|40|from house|2:02:12, 149bpm, 9:19 min/mi|
 |Mar 2|5.02|mountain|35|La Luz|1:05:44, 146bpm, 13:05 min/mi|
 |Mar 4|6.55|interval(6)|40|from house|1:04:08, 144bpm, 9:47 min/mi|
+|Mar 6|6.56|speed|40|from house|56:11, 154bpm, 8:34 min/mi|
 
 ### Remaining
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Mar 6|6.55|speed|40|from house||
-|Mar 9|6.2|race|35|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)||
+|Mar 9|6.2|race|30|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)||
 |Mar 10|3|race|0|Santa Fe Brewing at Green Jeans Farmery|[Burque Brewery Tour Crowning](https://www.facebook.com/events/508202319663128/) (I got lucky!)|
 |Mar 11|3.27|interval(3)|40|from house||
 |Mar 13|3.27|speed|40|from house||
-|Mar 17|26.2|race|30|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
+|Mar 17|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
 
 I'm currently sufficiently "pack fit" that the biggest thing I have to
 do is stay healthy and uninjured.  If I do that, the rest will take
