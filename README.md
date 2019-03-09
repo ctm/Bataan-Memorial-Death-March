@@ -346,12 +346,12 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Mar 2|5.02|mountain|35|La Luz|1:05:44, 146bpm, 13:05 min/mi|
 |Mar 4|6.55|interval(6)|40|from house|1:04:08, 144bpm, 9:47 min/mi|
 |Mar 6|6.56|speed|40|from house|56:11, 154bpm, 8:34 min/mi|
+|Mar 9|6.17|race|32|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)|[57:38](https://www.athlinks.com/event/166931/results/Event/822589/Course/1459931/Results), 153bpm, 9:17 min/mi|
 
 ### Remaining
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Mar 9|6.2|race|30|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)||
 |Mar 10|3|race|0|Santa Fe Brewing at Green Jeans Farmery|[Burque Brewery Tour Crowning](https://www.facebook.com/events/508202319663128/) (I got lucky!)|
 |Mar 11|3.27|interval(3)|40|from house||
 |Mar 13|3.27|speed|40|from house||
