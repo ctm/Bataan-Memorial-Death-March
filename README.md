@@ -347,12 +347,12 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Mar 4|6.55|interval(6)|40|from house|1:04:08, 144bpm, 9:47 min/mi|
 |Mar 6|6.56|speed|40|from house|56:11, 154bpm, 8:34 min/mi|
 |Mar 9|6.17|race|32|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)|[57:38](https://www.athlinks.com/event/166931/results/Event/822589/Course/1459931/Results), 153bpm, 9:17 min/mi|
+|Mar 10|3.51*|race|0|[BBT Crowning](https://www.facebook.com/events/508202319663128/)|28:10, 137bpm, 8:00 min/mi *I missed a turn and did .42 bonus miles|
 
 ### Remaining
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Mar 10|3|race|0|Santa Fe Brewing at Green Jeans Farmery|[Burque Brewery Tour Crowning](https://www.facebook.com/events/508202319663128/) (I got lucky!)|
 |Mar 11|3.27|interval(3)|40|from house||
 |Mar 13|3.27|speed|40|from house||
 |Mar 17|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
