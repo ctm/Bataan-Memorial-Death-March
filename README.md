@@ -1,6 +1,6 @@
 # Bataan Memorial Death March training
 
-Cliff Matthews's training plan for the 2019 [Bataan
+My (Cliff Matthews) training log (formerly plan) for the 2019 [Bataan
 Memorial Death March](http://bataanmarch.com) (civilian heavy),
 similar to what I did for [2017](2017.md) and [2018](2018.md).
 
@@ -14,12 +14,14 @@ rations prior to the start of the march), at the inhumane prison
 camps, the hell-ships that carried them to Japan or in the forced
 labor thereafter.
 
-Some of those men and women, now in their nineties, are still alive.  In
-1989, members of the Army ROTC Department at New Mexico State University
-started an annual march to honor these veterans.  The march has grown
-considerably since then and although it was initially open only to
-military members, it was open to civilians early on.  These days,
-participation is about half and half.
+Some of those men and women, now in their nineties (or more!), are
+still alive.  In 1989, members of the Army ROTC Department at New
+Mexico State University started an annual march to honor these
+veterans.  The march has grown considerably since then and although it
+was initially open only to military members, they began allowing
+civilians early on.  These days, participation is about half and half.
+For the record, I am a civilian, although my father was in the Air
+Force and there's a good chance one of my daughters will serve.
 
 ## Why do I do it?
 
@@ -48,36 +50,47 @@ soft.  So, when I attended my first BMDM, my feet hurt quite a bit by
 mile six.  I could barely walk the last several miles.
 
 Somewhere around 2014, I started training in November. Then, in 2017,
-I started doing weekly pack runs in late August.  From 2014 until last
-yer, In my non-training months I tried to do _something_ with my pack
-at least once a month between BMDM and whenever I started my weekly
-pack runs. Often that was a search and rescue mission or two, but when
-we got dry spells and no missions for a month I did something like a
-big hike with a fifty pound pack.
+I started doing weekly pack runs in late August.  From 2014 until
+2018, in my non-training months I tried to do _something_ with my pack
+at least once a month in my "off season" (i.e., between BMDM and
+whenever I started my weekly pack runs). Often that was a search and
+rescue mission or two, but when my SAR team had no missions for a
+month I did something like a big hike with a fifty pound pack.
 
 Since 2014, I've been ramping up my training starting in November.
-Until this year, I'd run with my pack on Wednesdays and on Saturdays.
-This year I'm doing that but also running with my pack on Mondays. My
-Wednesday runs are done as quickly as I can and start from and end at
-my house.  Typically I increase the distance by a half mile each week.
-My Saturday runs alternate between a level run at race pace and a run
-five miles up and five miles down La Luz Trail (i.e., the local
-mountain).  My level run distance typically increases by three miles.
-My mountain run stays the same distance, but I try to do it faster
-each time.  My Monday run is always 13.1 miles, but incorporates
-12 75 second all-out intervals in the middle.
+Until 2018, I'd run with my pack on Wednesdays and on Saturdays.
+Starting in 2018 I did that but also ran with my pack on Mondays. My
+Wednesday runs were done as quickly as I could and started from and
+ended at my house.  Typically I increased the distance by a half mile
+each week.  My Saturday runs alternated between a level run at race
+pace and a run five miles up and five miles down La Luz Trail (i.e.,
+the local mountain).  My level run distance typically increased by
+three miles.  My mountain run stayed the same distance, but in theory
+I tried to do it faster each time.  In reality, we had so much snow
+this year that I was more concerned with avoiding injury than I was in
+improving my time.  My Monday run was 13.1 miles, but incorporated 12
+75 second all-out intervals in the middle.
 
-In addition to my pack runs, I also run without my pack the remaining
-days of the week except Sunday, when I ride my bike.
+In addition to my pack runs, I also ran without my pack the remaining
+days of the week except Sunday, when in theory I rode my bike.  In
+reality, I only rode my bike seven times (not counting The Quad)
+between November 1st 2018 and March 23rd, mostly due to weather.
 
 ## Is this training plan safe?
 
 No.  If you run with a pack, you risk injury.  I have worked up to
-this training plan over several years.  A plan of doing two pack runs
+this training plan over several years.  A plan of doing _two_ pack runs
 a week with running and cycling in between is probably doable for
 anyone who has already run a marathon or two, although the times,
 distances and weight should probably be lessened.  Three pack runs a
-week is probably a bad idea for almost everyone.
+week is probably a bad idea for almost everyone.  In fact, I think
+three pack runs a week for me in my 2018-2019 training cycle was slightly
+excessive.  For one thing, the abrasions on my back never completely
+healed, but additionally my resting heart rate crept up slowly.  I
+haven't figured out the specifics yet, but for 2019-2020, I'll probably
+do more than two, but less than three pack runs a week, perhaps it'll
+be as easy as strictly alternating between three pack run and two pack
+run weeks.
 
 ## Base building
 
@@ -88,12 +101,26 @@ tapering and taking recovery days after my August through November
 races.
 
 I did fine without the taper or recovery days for all of my races
-until the Tucson marathon.  I caught a pretty bad cold (or maybe it
-was the flu) a week after Tucson that I _may_ have avoided had I
-either spent a little time recovering or not done as much celebratory
-drinking.  On the other hand, my son had caught the same bug before I
-did and my wife caught it shortly after.  Friends and relatives caught
-it around the same time, so maybe I'd have fallen sick regardless.
+until the Tucson marathon (December 2017).  I caught a pretty bad cold
+(or maybe it was the flu) a week after Tucson that I _may_ have
+avoided had I either spent a little time recovering or not done as
+much celebratory drinking.  On the other hand, my son had caught the
+same bug before I did and my wife caught it shortly after.  Friends
+and relatives caught it around the same time, so maybe I'd have fallen
+sick regardless.
+
+During my 2018-2019 training season I have only missed a few days due
+to sickness and I'm not sure, but I may not have missed a single pack
+run for that reason, although there have been some search-and-rescue
+missions that I've not attended due to sickness.  I'm much more
+willing to push myself training when under the weather than go on a
+SAR mission, because I don't have to worry about infecting others or
+letting people down if I can't follow through.
+
+Back to base building, my post 2019 BMDM tentative plan is to do a
+pack run a week, probably on Wednesdays, probably 13.1 miles and
+probably for speed.  The rest of my training will be more tuned to
+ultra running than BMDM, at least until November.
 
 ## Weight loss
 
@@ -124,12 +151,27 @@ my fourth on November 8th and lost only .7 pounds of fat, but gained
 |2018-07-26|151.4|14.7|136.7|9.74|
 |2018-11-08|152.6|14.0|138.6|9.15|
 
-Even though I didn't hit 7.3%, I've ramped up my carbohydrate intake
-and increased the intensity of some of my training days.  I'm still doing
-some of my diet protocol and expect to stabilize at near 7.3% by mid
-December.
+Even though I didn't hit 7.3%, I ramped up my carbohydrate intake and
+increased the intensity of some of my training days.  I'm still did
+some of my diet protocol, but chose not to have another hydrostatic
+weighing during my BMDM training, since I don't think I'd have changed
+anything based on the numbers.
+
+After BMDM, close to March 29th, I'll have another hydrostatic
+weighing and then figure out what to do as I train for the [Hardrock
+100](https://www.hardrock100.com).  My guess is I'll return to trying
+for 7.3%.
 
 ## Non-pack Days
+
+The remainder of this document uses the present tense rather than
+past, but really it documents what I did up until BMDM 2019.  I'm
+running the Boston Marathon in April and am likely to do very short
+runs for a week or two after BMDM 2019 until my resting HR is back in
+the mid forties (it was 51 on March 13th).  I'm also planning on doing
+a two week taper for Boston, so basically I'll be on a very reduced
+training schedule for about a month and after Boston I'll be training
+for HR100.
 
 During the week I do slow runs from my house out to Albuquerque Academy,
 some distance around Albuquerque Academy and back to my house.  On Sundays
@@ -176,7 +218,6 @@ Starting Friday, January 11th, I wound up taking four of the following
 seven Fridays completely off from running so I could run harder on
 Saturdays.
 
-
 ## Pack (and exception) days
 
 In the following table, `speed` means as quickly as I can to minimize
@@ -197,13 +238,13 @@ should be able to better this year.
 keep my HR between below 150bpm during the training or event.
 I'm out there to have fun.
 
-`Interval` Beginning Novemver 19th, I began doing interval training with my
+`Interval` Beginning November 19th, I began doing interval training with my
 forty pound pack, wrapped with enough low heart rate running on either end
 to be a total of 13.1 miles with an average heart rate of 130bpm.  The
 intervals themselves are 12 all-outs of 75 seconds each, with 30 seconds
-of light runnning as rest in between.
+of light running as rest in between.
 
-Prior to Novemver 19th, I had done interval trainings on Monday, but
+Prior to November 19th, I had done interval trainings on Monday, but
 without the pack.
 
 `Pace` meant whatever it took to be the best pacer possible for my
@@ -218,26 +259,6 @@ then run around it some distance before coming back.  As such, I
 typically have to wait at a stoplight a couple of times or more and
 it's hillier than the Bosque Bike path, which has neither stops nor
 hills.
-
-
-## My plan
-
-In addition to the runs in the following table, I may do others.  My
-[Marathon
-Maniacs](http://www.marathonmaniacsdb.com/Maniacs/MyRaces?ManiacId=4395)
-and
-[UltraSignup](http://ultrasignup.com/results_participant.aspx?fname=Clifford&lname=Matthews)
-pages should list anything major.
-
-### Wednesday pack runs
-
-I sprained my ankle six days after BMDM, so I didn't do another pack
-run until Thursday, April 26th, when I chose to run 8.9 miles at about
-a 130bpm heart rate with a 31.5# pack as part of a plan to slowly get
-back into running on Wednesdays with a 40# pack.
-
-I've logged _all_ my pack runs (and some other activities) since then,
-and built a formidable base.  On November 14th I started my _serious_ training.
 
 ### Completed
 
@@ -278,7 +299,7 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Sep 7|205|comfort|15|[Tahoe 200](http://www.tahoe200.com)|[89:23:05](http://ultrasignup.com/results_event.aspx?did=51571#id220546), ~13 hours sleeping, a few more hours lazing around aid stations, no crew or pacers, would have been faster if I hadn't stubbed my toe on the second day|
 |Sep 16|100*|comfort|0|Tour de Cheapskates|*Self-supported 100 mile bike ride 6:46:51, 117bpm, 14.7 mph|
 |Sep 19|6.56|comfort|40|from house|1:17:38, 129bpm, 11:50 min/mi|
-|Sep 21|33|comfort|0|[AA 50k](https://newmexicofa50k.wordpress.com/aa50k/)|[7:54:58](https://www.webscorer.com/racedetails?raceid=157239&did=173967), 106bpm, 14:10 mim/mi|
+|Sep 21|33|comfort|0|[AA 50k](https://newmexicofa50k.wordpress.com/aa50k/)|[7:54:58](https://www.webscorer.com/racedetails?raceid=157239&did=173967), 106bpm, 14:10 min/mi|
 |Sep 26|13.10|comfort|40|from house|2:25:49, 130bpm, 11:07 min/mi|
 |Sep 29|31|comfort|0|[Mt. Taylor 50k](http://www.mttaylor50k.com)|[6:13:03](http://ultrasignup.com/results_event.aspx?did=55195#id220546), 138bpm, 12:21 min/mi|
 |Oct 3|13.10|comfort|40|from house|2:21:02, 130bpm, 10:45 min/mi|
@@ -347,14 +368,14 @@ and built a formidable base.  On November 14th I started my _serious_ training.
 |Mar 4|6.55|interval(6)|40|from house|1:04:08, 144bpm, 9:47 min/mi|
 |Mar 6|6.56|speed|40|from house|56:11, 154bpm, 8:34 min/mi|
 |Mar 9|6.17|race|32|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)|[57:38](https://www.athlinks.com/event/166931/results/Event/822589/Course/1459931/Results), 153bpm, 9:17 min/mi|
-|Mar 10|3.51*|race|0|[BBT Crowning](https://www.facebook.com/events/508202319663128/)|28:10, 137bpm, 8:00 min/mi *I missed a turn and did .42 bonus miles|
+|Mar 10|3.51*|race|0|[BBT Crowning](https://www.facebook.com/events/508202319663128/)|[31:32](https://www.webscorer.com/race?raceid=172363), 137bpm, 8:00 min/mi *I missed a turn and did .42 bonus miles|
 |Mar 11|3.28|interval(3)|40|from house|32:06, 140bpm, 9:47 min/mi|
+|Mar 13|3.28|speed|40|from house|26:50, 153bpm, 8:11 min/mi|
 
 ### Remaining
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Mar 13|3.27|speed|40|from house||
 |Mar 17|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
 
 I'm currently sufficiently "pack fit" that the biggest thing I have to
