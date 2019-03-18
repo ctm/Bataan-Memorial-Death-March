@@ -371,13 +371,21 @@ hills.
 |Mar 10|3.51*|race|0|[BBT Crowning](https://www.facebook.com/events/508202319663128/)|[31:32](https://www.webscorer.com/race?raceid=172363), 137bpm, 8:00 min/mi *I missed a turn and did .42 bonus miles|
 |Mar 11|3.28|interval(3)|40|from house|32:06, 140bpm, 9:47 min/mi|
 |Mar 13|3.28|speed|40|from house|26:50, 153bpm, 8:11 min/mi|
+|Mar 17|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)|(4:45:48)[https://www.itsyourrace.com/Results/6574/2019/79297/4613], 150bpm, 10:54 min/mi|
 
-### Remaining
+I was in first place for the first two checkpoints, but I fell apart
+after the descent down the asphalt portion of mineral hill.  I
+*normally* fall apart around then, but there's also a chance that my
+[pack frame broke](broken_frame.jpg) as I did an 8:27 minute mile.
+I'll never know whether that's when my pack broke or if that is what
+caused the huge amount of hip/lower-back discomfort I felt, but I do
+know that when I looked at my pack the morning after my run the
+upright tube that supports the stay that holds the pack open was
+indeed broken in half and the stay and pin were free floating.
+There's a chance that happened after the race, although I don't recall
+mistreating my pack.
 
-|Date|Miles|Pace|Pounds|Where|Notes|
-|----|-----|----|------|-----|-----|
-|Mar 17|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
-
-I'm currently sufficiently "pack fit" that the biggest thing I have to
-do is stay healthy and uninjured.  If I do that, the rest will take
-care of itself.
+I've been debating using a different pack for a while (and even
+briefly experimented with an internal frame pack a few years ago), but
+this most recent break is the final straw.  I'll almost definitely be
+running with a different style pack next year.
