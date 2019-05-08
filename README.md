@@ -2,7 +2,9 @@
 
 My (Cliff Matthews) training log (formerly plan) for the 2019 [Bataan
 Memorial Death March](http://bataanmarch.com) (civilian heavy),
-similar to what I did for [2017](2017.md) and [2018](2018.md).
+similar to what I did for [2017](2017.md) and [2018](2018.md).  FWIW,
+I've begun logging a little information for [2020](2020.md), but I
+haven't yet redone this page.
 
 ## What is the BMDM?
 
