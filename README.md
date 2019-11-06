@@ -1,10 +1,8 @@
 # Bataan Memorial Death March training
 
-My (Cliff Matthews) training log (formerly plan) for the 2019 [Bataan
-Memorial Death March](http://bataanmarch.com) (civilian heavy),
-similar to what I did for [2017](2017.md) and [2018](2018.md).  FWIW,
-I've begun logging a little information for [2020](2020.md), but I
-haven't yet redone this page.
+My (Cliff Matthews) training plan for the 2020 [Bataan Memorial Death
+March](http://bataanmarch.com) (civilian heavy), similar to what I did
+for [2017](2017.md), [2018](2018.md) and [2019](2019.md).
 
 ## What is the BMDM?
 
@@ -23,7 +21,8 @@ veterans.  The march has grown considerably since then and although it
 was initially open only to military members, they began allowing
 civilians early on.  These days, participation is about half and half.
 For the record, I am a civilian, although my father was in the Air
-Force and there's a good chance one of my daughters will serve.
+Force and there's a good chance at least one of my daughters will
+serve.
 
 ## Why do I do it?
 
@@ -32,7 +31,7 @@ good cause, but it wasn't until I heard the vets tell their histories
 that I was hooked.
 
 Although that first march took me seven and a half hours and beat the
-hell out of me, I decided to return each year as long as the original
+heck out of me, I decided to return each year as long as the original
 vets were still coming out.  I also decided to volunteer for search
 and rescue (SAR) since I realized I met the physical requirements and
 knew that SAR was a tiny way I could say thanks with more than a word
@@ -68,31 +67,36 @@ each week.  My Saturday runs alternated between a level run at race
 pace and a run five miles up and five miles down La Luz Trail (i.e.,
 the local mountain).  My level run distance typically increased by
 three miles.  My mountain run stayed the same distance, but in theory
-I tried to do it faster each time.  In reality, we had so much snow
-this year that I was more concerned with avoiding injury than I was in
-improving my time.  My Monday run was 13.1 miles, but incorporated 12
-75 second all-out intervals in the middle.
+I tried to do it faster each time.  In reality, we had so much snow in
+the 2018-2019 training season that I was more concerned with avoiding
+injury than I was in improving my time.  My Monday run was 13.1 miles,
+but incorporated 12 75 second all-out intervals in the middle.
 
 In addition to my pack runs, I also ran without my pack the remaining
 days of the week except Sunday, when in theory I rode my bike.  In
 reality, I only rode my bike seven times (not counting The Quad)
 between November 1st 2018 and March 23rd, mostly due to weather.
 
+During the 2919 BMDM, my pack broke and I wound up with considerable
+hip pain in the final miles of the event.  I tried switching to a new
+pack in June, but that did not go well and I wound up injured to some
+extent for much of the summer and early autumn of 2019 and I eventually
+completely stopped doing pack runs until November 6th.
+
 ## Is this training plan safe?
 
 No.  If you run with a pack, you risk injury.  I have worked up to
-this training plan over several years.  A plan of doing _two_ pack runs
-a week with running and cycling in between is probably doable for
+this training plan over several years.  A plan of doing _two_ pack
+runs a week with running and cycling in between is probably doable for
 anyone who has already run a marathon or two, although the times,
 distances and weight should probably be lessened.  Three pack runs a
 week is probably a bad idea for almost everyone.  In fact, I think
-three pack runs a week for me in my 2018-2019 training cycle was slightly
-excessive.  For one thing, the abrasions on my back never completely
-healed, but additionally my resting heart rate crept up slowly.  I
-haven't figured out the specifics yet, but for 2019-2020, I'll probably
-do more than two, but less than three pack runs a week, perhaps it'll
-be as easy as strictly alternating between three pack run and two pack
-run weeks.
+three pack runs a week for me in my 2018-2019 training cycle was
+slightly excessive.  For one thing, the abrasions on my back never
+completely healed, but additionally my resting heart rate crept up
+slowly.  Due to this, for 2019-2020, I'm going to start out doing more
+than two, but less than three pack runs a week by strictly alternating
+between three pack run and two pack run weeks.
 
 ## Base building
 
@@ -102,123 +106,61 @@ started doing Wednesday pack runs in late August.  I also stopped
 tapering and taking recovery days after my August through November
 races.
 
-I did fine without the taper or recovery days for all of my races
-until the Tucson marathon (December 2017).  I caught a pretty bad cold
-(or maybe it was the flu) a week after Tucson that I _may_ have
-avoided had I either spent a little time recovering or not done as
-much celebratory drinking.  On the other hand, my son had caught the
-same bug before I did and my wife caught it shortly after.  Friends
-and relatives caught it around the same time, so maybe I'd have fallen
-sick regardless.
-
-During my 2018-2019 training season I have only missed a few days due
-to sickness and I'm not sure, but I may not have missed a single pack
-run for that reason, although there have been some search-and-rescue
-missions that I've not attended due to sickness.  I'm much more
-willing to push myself training when under the weather than go on a
-SAR mission, because I don't have to worry about infecting others or
-letting people down if I can't follow through.
-
-Back to base building, my post 2019 BMDM tentative plan is to do a
-pack run a week, probably on Wednesdays, probably 13.1 miles and
-probably for speed.  The rest of my training will be more tuned to
-ultra running than BMDM, at least until November.
-
-## Weight loss
-
-On March 29th, 2018 I went down to UNM and was hydrostatically weighed.  My
-body fat percentage was 21.95%.  That was a wake-up call, so I decided
-to experiment with losing weight and trying to not lose power.  I was
-a little nervous that doing so would interfere with my ability to finish
-Cruel Jewel 100, but it was just the opposite.  I finished CJ100 much
-quicker than I expected, in part&mdash;I believe&mdash;due to my weight loss.
-
-My goal was to get my body fat percentage down to 7.3%.  Based on my
-first hydrostatic weighing, that would have been approximately 156
-pounds, except I had a second hydrostatic weighing on June 4th.  I
-weighed 159.6, which was a 25.9 pound loss, but 8.5 of that was lean
-muscle mass.
-
-After that weighing, I raised the number of calories and the amount of
-protein I was taking during some of my more lengthy runs.  The change
-was successful.  I had my third weighing on July 26th and I lost 8.6
-pounds of fat and gained .4 pounds of muscle.  Similarly, I had
-my fourth on November 8th and lost only .7 pounds of fat, but gained
-1.9 pounds of muscle.
-
-|Test Date|Body Weight|Fat Weight|Fat Free Weight|Body Fat %|
-|---------|-----------|----------|---------------|----------|
-|2018-03-29|185.5|40.7|144.8|21.95|
-|2018-06-04|159.6|23.3|136.3|14.61|
-|2018-07-26|151.4|14.7|136.7|9.74|
-|2018-11-08|152.6|14.0|138.6|9.15|
-
-Even though I didn't hit 7.3%, I ramped up my carbohydrate intake and
-increased the intensity of some of my training days.  I'm still did
-some of my diet protocol, but chose not to have another hydrostatic
-weighing during my BMDM training, since I don't think I'd have changed
-anything based on the numbers.
-
-After BMDM, close to March 29th, I'll have another hydrostatic
-weighing and then figure out what to do as I train for the [Hardrock
-100](https://www.hardrock100.com).  My guess is I'll return to trying
-for 7.3%.
+Due to my 2018 injuries, I'm slowly ramping up my pack training, as
+is reflected in my plan below.  I am in better fitness than I was at
+the beginning of my 2017-2018 season but much less fit than I was at
+the beginning of my 2018-2019 training.  It will be hard to get back
+to where I was.
 
 ## Non-pack Days
 
-The remainder of this document uses the present tense rather than
-past, but really it documents what I did up until BMDM 2019.  I'm
-running the Boston Marathon in April and am likely to do very short
-runs for a week or two after BMDM 2019 until my resting HR is back in
-the mid forties (it was 51 on March 13th).  I'm also planning on doing
-a two week taper for Boston, so basically I'll be on a very reduced
-training schedule for about a month and after Boston I'll be training
-for HR100.
+During the week I do slow runs from my house out to Albuquerque
+Academy, some distance around Albuquerque Academy and back to my
+house.  On Sundays I ride my bike.  How far I ride is dependent on
+weather, mood, how much time I want to be out and to a lesser extent
+how beat up I am from my Saturday activity. I usually ride my bike
+between an hour to an hour and a half the day after a La Luz pack run
+and an hour the day after a Bosque Bike Path pack run.
 
-During the week I do slow runs from my house out to Albuquerque Academy,
-some distance around Albuquerque Academy and back to my house.  On Sundays
-I ride my bike along the Bosque Bike trail.  How far I ride is dependent
-on weather, mood, how much time I want to be out and to a lesser extent
-how beat up I am from my Saturday activity. I usually ride my bike between 35 and 50
-miles the day after a La Luz pack run and 35 miles the day after a Bosque
-Bike Path pack run.
+In previous years all my bike riding has been on the Bosque Bike Path.
+At the start of this years training season, I'm without a vehicle with
+a bike rack, so I'm going to experiment with riding my bike up to the
+La Luz Trailhead.  That may help me with the quad, but it may also be
+too taxing for a rest day.  I won't know until I try it.
 
 On Mondays I run from my house to Albuquerque Academy, run three laps
 around AA, back to my house and then do another .9 miles to bring the
-total up to 13.1 miles. However, during that half marathon, I do twelve
-all-outs of seventy-five seconds with only thirty seconds of rest in
-between.
+total up to 13.1 miles. However, during that half marathon, I do
+twelve all-outs of seventy-five seconds with only thirty seconds of
+rest in between.  I alternate between doing my Monday run with a 40
+pound pack and without a pack.  During my 2018-2019 training season I
+was doing my Monday runs with a pack every week and I think that was
+too much, so I'm experimenting with every other Monday being with the
+pack.
 
 In theory, I try to keep my heart-rate at about 130bpm for my slow
 runs and bike ride, but if it's chilly or I'm rushed or otherwise
 feeling frisky I may run, or bike, a bit faster.
 
-This is what I did up until BMDM 2018
+So, for the 2019-2020 training season, here are my non-pack days:
 
 |Day|Activity|Amount|
 |---|--------|------|
-|Sunday|Bike Ride|35 - 70 miles|
-|Monday|Interval Training|8.9 miles|
-|Tuesday|Slow Run|3 miles|
-|Thursday|Slow Run|5.6 miles|
-|Friday|Slow Run| 3 miles|
-
-Starting in April 2018, I upped my schedule to:
-
-|Day|Activity|Amount|
-|---|--------|------|
-|Sunday|Bike Ride|35 - 70 miles|
-|Monday|Interval Training|13.1 miles|
+|Sunday|Bike Ride|hour to hour and a half|
+|every other Monday|Interval Training|13.1 miles|
 |Tuesday|Slow Run|8.9 miles|
 |Thursday|Slow Run|8.9 miles|
 |Friday|Slow Run|13.1 miles|
 
-On November 19th, 2018, I started doing my interval training with
-my pack, so Monday is no longer a non-pack day.
-
-Starting Friday, January 11th, I wound up taking four of the following
-seven Fridays completely off from running so I could run harder on
-Saturdays.
+Last year I took many Fridays off so I could run harder on Saturday.
+I'm not convinced that was the right thing to do.  I already take my
+resting heart-rate early in the morning.  My plan is to cut back some
+of my rest days (including possibly taking a Friday off) if it creeps
+up.  I'll also be monitoring my performance on my pack days and may
+reduce the activity on my rest days if I am not happy with my
+performance.  This is going to be a tricky balancing act, since I'm
+starting the training season with less fitness than last year (but
+more fitness than any other year).
 
 ## Pack (and exception) days
 
@@ -230,31 +172,19 @@ Quadrathlon) varies greatly.
 
 `Race` is my race goal of 10:18 minute/mile.
 
-`Mountain` means I'm running
-up and down a mountain and trying to minimize my time.  I run the same
-mountain course every other weekend.  As my fitness increases, so does
-my pace.  My record, in February 2016, was a 14:15 minute/mile pace.  I
-should be able to better this year.
+`Mountain`: I'm running up and down a mountain and trying to minimize
+my time.  I run the same mountain course every other weekend.  As my
+fitness increases, so does my pace.  My record, in February 2016, was
+a 14:15 minute/mile pace.  I should be able to better this year.
 
-`Comfort` means I'll
-keep my HR between below 150bpm during the training or event.
-I'm out there to have fun.
+`Comfort`: I'll keep my HR between below 150bpm during the training or
+event.  I'm out there to have fun.
 
-`Interval` Beginning November 19th, I began doing interval training with my
-forty pound pack, wrapped with enough low heart rate running on either end
-to be a total of 13.1 miles with an average heart rate of 130bpm.  The
-intervals themselves are 12 all-outs of 75 seconds each, with 30 seconds
-of light running as rest in between.
-
-Prior to November 19th, I had done interval trainings on Monday, but
-without the pack.
-
-`Pace` meant whatever it took to be the best pacer possible for my
-brother-in-law as he finished his first Leadville 100.  Turns out
-the little bugger was plagued with GI trouble that slowed him down
-for much of the return from Winfield, then&mdash;after that
-subsided&mdash;he wanted to run the final
-seven or eight miles. Fun!
+`Interval`: Interval training with my forty pound pack, wrapped with
+enough low heart rate running on either end to be a total of 13.1
+miles with an average heart rate of 130bpm.  The intervals themselves
+are 12 all-outs of 75 seconds each, with 30 seconds of light running
+as rest in between.
 
 When I run from my house, I typically run over to Albuquerque Academy,
 then run around it some distance before coming back.  As such, I
@@ -266,149 +196,124 @@ hills.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Apr 26|8.9|comfort|31.5|from house|1:41:58, 130bpm, 11:28 min/mi|
-|Apr 28|6.6|comfort+|31.5|from Philmont (trail)|1:20:42, 148bpm, 12:15 min/mi|
-|Apr 29|8.1|speed|31.5|from Philmont (road)|1:27:15, 145bpm, 10:45 min/mi|
-|May 9|5.55|race|36.5|from house|53:21, 150bpm, 9:36 min/mi|
-|May 16|2.24|race|40|from house|19:46, 155bpm, 8:50 min/mi, 5# plate too far forward|
-|May 18|106|comfort|0|[Cruel Jewel 100](http://www.dumassevents.com)|[39:12](http://ultrasignup.com/results_event.aspx?did=51178#id220546), 116bpm, 22:13 min/mi|
-|May 26|3.1|race|35|Believe in Heroes (Los Lunas)|26:06, 154bpm, 8:26 min/mi|
-|May 30|12.26|comfort|40|from house|2:36:46, 128bpm, 12:47 min/mi|
-|Jun 2|27|comfort|40|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664710/)|12:31:29, 103bpm, 27:59 min/mi, 2.5 gallon water brick leaked, should have been 50#|
-|Jun 6|12.52|comfort|38|from house|2:30:12, 133bpm, 11:59 min/mi|
-|Jun 9|34.34|comfort|0|Chimney Melon 50k|13:29:03, 118bpm, 23:23 min/mi, Not a race, just a fun group training run|
-|Jun 13|13.11|comfort|40|from house|2:35:08, 141bpm, 11:50 min/mi|
-|Jun 16|8.65|race|40|Bosque Bike Path|1:25:45, 149bpm, 9:54 min/mi|
-|Jun 20|13.11|comfort|40|from house|2:28:51, 132bpm, 11:21 min/mi|
-|Jun 27|13.10|comfort|40|from house|2:27:40, 132bpm, 11:16 min/mi|
-|Jun 30|18|race|40|Bosque Bike Path|3:09:21, 142?bpm, 10:31 min/mi|
-|Jul 4|13.11|comfort|40|from house|2:24:45, 128bpm, 11:02 min/mi|
-|Jul 11|13.12|comfort|40|from house|2:24:17, 130bpm, 10:59 min/mi|
-|Jul 18|13.11|comfort|40|from house|2:23:35, 130bpm, 10:57 min/mi|
-|Jul 21|13.10|comfort|40|from house|2:19:55, 130bpm, 10:40 min/mi|
-|Jul 25|13.10|comfort|40|from house|2:27:14, < 130bpm, 11:13 min/mi|
-|Aug 4|31|comfort|0|[Baldy 50k](https://newmexicofa50k.wordpress.com/baldy_50k/)|10:56:27, 118bpm, 20:22 min/mi|
-|Aug 8|13.11|comfort|40|from house|2:28:43, < 130bpm, 11:20 min/mi|
-|Aug 9|5.57|comfort|40|from house|54:58, 131bpm**, 9:52 min/mi|
-|Aug 10|8.89|comfort|40|from house|1:33:31, 130bpm, 10:31 min/mi|
-|Aug 11|8.56|race|40|Bosque Bike Path|1:16:15, 143bpm, 8:54 min/mi|
-|Aug 14|2.21|speed|40|from house|18:56, 138bpm, 8:33 min/mi|
-|Aug 18|50|pace|10|[Leadville Trail 100](http://www.leadvilleraceseries.com/run/leadvilletrail100run/)|15:26:35, 117bpm, 18:13 min/mi, Paced [Jeff](https://www.athlinks.com/event/33913/results/Event/754080/Course/1274553/Bib/552), my brother-in-law, the last 50 miles|
-|Aug 25|27|comfort|10|[Sandia Crest Trail](https://www.meetup.com/hiking-204/events/250664922/)|9:38:56, 99bpm, 21:30 min/mi, did not wear 50# pack because I'm tapering for Tahoe 200|
-|Aug 29|6.56|comfort|40|from house|1:09:02, 130bpm, 10:31 min/mi|
-|Aug 31|6.56|speed|40|from house|58:30, 148bpm, 8:55 min/mi|
-|Sep 4|3.28|comfort|40|from house|32:46, 131bpm, 9:58 min/mi|
-|Sep 7|205|comfort|15|[Tahoe 200](http://www.tahoe200.com)|[89:23:05](http://ultrasignup.com/results_event.aspx?did=51571#id220546), ~13 hours sleeping, a few more hours lazing around aid stations, no crew or pacers, would have been faster if I hadn't stubbed my toe on the second day|
-|Sep 16|100*|comfort|0|Tour de Cheapskates|*Self-supported 100 mile bike ride 6:46:51, 117bpm, 14.7 mph|
-|Sep 19|6.56|comfort|40|from house|1:17:38, 129bpm, 11:50 min/mi|
-|Sep 21|33|comfort|0|[AA 50k](https://newmexicofa50k.wordpress.com/aa50k/)|[7:54:58](https://www.webscorer.com/racedetails?raceid=157239&did=173967), 106bpm, 14:10 min/mi|
-|Sep 26|13.10|comfort|40|from house|2:25:49, 130bpm, 11:07 min/mi|
-|Sep 29|31|comfort|0|[Mt. Taylor 50k](http://www.mttaylor50k.com)|[6:13:03](http://ultrasignup.com/results_event.aspx?did=55195#id220546), 138bpm, 12:21 min/mi|
-|Oct 3|13.10|comfort|40|from house|2:21:02, 130bpm, 10:45 min/mi|
-|Oct 6|6.05|mountain|40|La Luz|1:31:29, 133bpm, 15:06 min/mi|
-|Oct 10|5.55|race|40|from house|57:07, 141bpm, 10:17 min/mi|
-|Oct 17|13.11|comfort|40|from house|2:22:44, 130bpm, 10:53 min/mi|
-|Oct 20|31|comfort|0|[White Mesa Fat Ass 50k](https://newmexicofa50k.wordpress.com/white_mesa_50k/)|[6:46:54](https://www.webscorer.com/racedetails?raceid=157234&did=173966), 130bpm, 12:39 min/mi|
-|Oct 21|26.2|comfort|0|[Duke City Marathon](https://www.dukecitymarathon.com)|[5:00:03](https://results.rmraces.live/specialized-timing/events/2018/35th-annual-big-5-duke-city-marathon/427/entrant), 114bpm, 11:27 min/mi|
-|Oct 27|99.9|comfort|0|[Javelina Jundred](http://www.javelinajundred.com)|[20:10:40](http://ultrasignup.com/results_event.aspx?did=53326#id220546), 117?bpm, 12:07 min/mi|
-|Oct 31|13.11|comfort|40|from house|2:17:04, 131bpm, 10:27 min/mi|
-|Nov 3|53|comfort|0|[Deadman Peaks Trail Run](https://deadmanpeakstrailrun.wordpress.com)|[11:14:48](http://ultrasignup.com/results_event.aspx?did=56551#id220546), 127bpm, 12:48 min/mi|
-|Nov 7|13.11|comfort|40|from house|2:14:37, 130bpm, 10:16 min/mi|
-|Nov 11|30.63|comfort|0|[Ghost Town 50k](https://ghosttown50kinvitationals.blogspot.com)|[5:45:30](http://ghosttown50kinvitationals.blogspot.com), 139bpm, 11:16 min/mi|
-|Nov 14|6|speed|40|from house|53:05, 145bpm, 8:50 min/mi|
-|Nov 17|9.86|mountain|35|La Luz|2:19:50, 131bpm, 14:10, alternate trailhead|
-|Nov 19|13.1|interval|40|from house|2:09:37, 130bpm, 9:53 min/mi|
-|Nov 21|6.5|speed|40|from house|56:07, 147bpm, 8:40 min/mi|
-|Nov 23|4|speed|0|[Black Friday Turkey Trots](https://www.facebook.com/events/883595441844362/)|[28:20](https://www.webscorer.com/race?raceid=162436), 156bpm, 7:00 min/mi|
-|Nov 24|32.57|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=56199)|[4:59:29](http://ultrasignup.com/results_event.aspx?did=56026#id220546), 135bpm, 9:11 min/mi|
-|Nov 26|13.1|interval|40|from house|2:15:56, 126bpm, 10:22 min/mi|
-|Nov 28|7|speed|40|from house|1:01:53, 146bpm, 8:49 min/mi|
-|Dec 1|15|race|40|Bosque Bike Path|2:22:11, 136bpm, 9:28 min/mi|
-|Dec 3|13.11|interval|40|from house|2:14:11, 134bpm, 10:13 min/mi|
-|Dec 5|7.5|speed|40|from house|1:07:18, 145bpm, 8:50 min/mi|
-|Dec 8|9.88|mountain|35|La Luz|2:19:27, 141bpm, 14:07 min/mi|
-|Dec 10|13.1|interval|40|from house|2:25:36, 132bpm, 11:06 min/mi|
-|Dec 12|8.0|speed|40|from house|1:10:34, 150bpm, 8:48 min/mi|
-|Dec 15|18.01|race|40|Bosque Bike Path|2:51:19, 139bpm, 9:30 min/mi|
-|Dec 17|13.11|interval|40|from house|2:09:34, 143bpm, 9:53 min/mi|
-|Dec 19|8.5|speed|40|from house|1:14:16, 153bpm, 8:43 min/mi|
-|Dec 22|9.5|mountain|35|La Luz|2:27:47, 133bpm, 14:56 min/mi|
-|Dec 24|13.11|interval|40|from house|2:18:52, 133bpm, 10:36 min/mi|
-|Dec 26|9|speed|40|from house|1:18:21, 149bpm, 8:41 min/mi|
-|Dec 29|18|race|40|Bosque Bike Path|2:49:44, 137bpm, 9:22 min/mi|
-|Dec 29|3|race|0|[The Grinch Lunch](https://www.facebook.com/events/951407541729229/)|[24:48.2](https://www.webscorer.com/race?raceid=165148), 149bpm, 7:59 min/mi|
-|Dec 31|13.11|interval|40|from house|2:18:13, 135bpm, 10:32 min/mi|
-|Jan 1|11.11|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|[3:05:51](https://www.webscorer.com/racedetails?raceid=165337&did=179854), 118bpm, 16:44 min/mi, blizzard wiped 50k|
-|Jan 3|5.6|speed|40|from house|50:36, 149bpm, 9:08 min/mi, day late due to weather, tiredness|
-|Jan 5|7.97|mountain|35|La Luz|2:43:39, 127bpm, 20:32 min/mi, dangerous snow|
-|Jan 7|13.12|interval|40|from house|2:10:56, 138bpm, 9:58 min/mi|
-|Jan 9|10|speed|40|from house|1:26:07, 148bpm, 8:35 min/mi|
-|Jan 12|21|race|40|Bosque Bike Path|3:15:40, 141bpm, 9:18 min/mi|
-|Jan 12|3.76|race|0|[Resolutions Stink!](https://www.facebook.com/events/2410444822305258/)|[28:21](https://www.webscorer.com/racedetails?raceid=166439&did=181178), 155bpm, 7:32 min/mi|
-|Jan 14|13.11|interval|40|from house|2:09:16, 139bpm, 9:51 min/mi|
-|Jan 16|10.5|speed|40|from house|1:31:53, 151bpm, 8:44 min/mi|
-|Jan 19|7.72|mountain|35|La Luz|2:30:25, 130bpm, 19:28 min/mi|
-|Jan 21|13.10|interval|40|from house|2:07:58, 143bpm, 9:45 min/mi|
-|Jan 23|11|speed|40|from house|1:36:16, 149bpm, 8:44 min/mi|
-|Jan 26|2.71|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)|[29:27](http://sandiasnowshoe.com/wp-content/uploads/2019/01/2019_Sandia-SnowShoe_ByAgeGrp.pdf), 157 bpm, 10:55 min/mi|
-|Jan 28|13.11|interval|40|from house|2:10:14, 140bpm, 9:56 min/mi|
-|Jan 30|11.51|speed|43|from house|1:42:58, 148bpm, 8:56 min/mi|
-|Feb 2|24.01|race|40|Bosque Bike Path|3:44:23, 142bpm, 9:20 min/mi|
-|Feb 4|13.11|interval|40|from house|2:09:36, 141bpm, 9:53 min/mi|
-|Feb 6|12.01|speed|40|from house|1:48:23, 150bpm, 9:01 min/mi|
-|Feb 9|9.91|mountain|35|La Luz|2:45:42, 131bpm, 16:42 min/mi|
-|Feb 11|6.56|interval|40|from house|1:03:39, 139bpm, 9:41 min/mi|
-|Feb 13|5.54|speed|40|from house|46:01, 154bpm, 8:18 min/mi|
-|Feb 16|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)|*bike/run/ski/snowshoe [5:55:22](http://ccrtiming.com/events-results/2019-results/mt-taylor.htm) 140bpm|
-|Feb 18|6.56|interval|40|from house|1:04:22.3, 139bpm, 9:48 min/mi|
-|Feb 20|6.21|speed|40|from house|53:32, 151bpm, 8:37 min/mi|
-|Feb 22|24.01|race|40|Bosque Bike Path|3:43:27, 143bpm, 9:18 min/mi|
-|Feb 23|3|race|0|[V Day Run](https://www.facebook.com/events/1034959723353175/)|[18:58](https://www.webscorer.com/race?raceid=170504), 147bpm, 7:53 min/mi|
-|Feb 25|13.11|interval|40|from house|2:12:20, 143bpm, 10:06 min/mi|
-|Feb 27|13.11|speed|40|from house|2:02:12, 149bpm, 9:19 min/mi|
-|Mar 2|5.02|mountain|35|La Luz|1:05:44, 146bpm, 13:05 min/mi|
-|Mar 4|6.55|interval(6)|40|from house|1:04:08, 144bpm, 9:47 min/mi|
-|Mar 6|6.56|speed|40|from house|56:11, 154bpm, 8:34 min/mi|
-|Mar 9|6.17|race|32|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)|[57:38](https://www.athlinks.com/event/166931/results/Event/822589/Course/1459931/Results), 153bpm, 9:17 min/mi|
-|Mar 10|3.51*|race|0|[BBT Crowning](https://www.facebook.com/events/508202319663128/)|[31:32](https://www.webscorer.com/race?raceid=172363), 137bpm, 8:00 min/mi *I missed a turn and did .42 bonus miles|
-|Mar 11|3.28|interval(3)|40|from house|32:06, 140bpm, 9:47 min/mi|
-|Mar 13|3.28|speed|40|from house|26:50, 153bpm, 8:11 min/mi|
-|Mar 17|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)|[4:45:48](https://www.itsyourrace.com/Results/6574/2019/79297/4613), 150bpm, 10:54 min/mi|
+|Apr 5|6.56|comfort|32.5|from house|1:14:09, 130bpm, 11:18 min/mi, Goruck test|
+|Apr 6|6.63|race|0|[Berta Run](https://www.abqroadrunners.com/2019-berta-run.html)|1:00:24, 148bpm, 9:06 min/mi, [1st overall](https://www.abqroadrunners.com/fun-runs-freeforall.html)|
+|Apr 7|6.00|race|0|[Forever Young](https://www.abqroadrunners.com/forever-young1.html)|48:05, 158bpm, 8:00 min/mi, [1st Grandmaster](http://www.abqroadrunners.com/uploads/6/7/7/6/6776981/2019_forever_young_results_by_age_group_men_rev.pdf)|
+|Apr 15|26.2|race|0|[Boston Marathon](https://www.baa.org/races/boston-marathon)|[3:45:08](https://registration.baa.org/2019/cf/Public/iframe_ResultsSearch.cfm?mode=entry&FirstName=clifford&LastName=matthews), 153bpm, 8:30 min/mi|
+|Apr 27|32.21|race|0|[Cedro Peak 50k](https://cedropeaktrailevent.wordpress.com/)|[6:03:51](http://ultrasignup.com/results_event.aspx?did=60031#id220546), 153bpm, 8:30 min/mi, 1st M50-59|
+|Apr 28|104.64*|comfort|0|[Tour of the Rio Grande](http://www.touroftheriogrande.com/)|6:25:26, 126bpm, 16.3 mph, *[bike ride](https://www.facebook.com/touroftheriogrande) w/train interruption & detour|
+|May 5|13.1|race|0|[Run for the Zoo half marathon](http://runforthezoo.org/)|1:37:35, 155bpm, 7:25 min/mi, [1st M55-59](https://www.athlinks.com/event/34346/results/Event/729962/Course/1205623/Division/1074219/Results)|
+|May 8|15.50|comfort|40|from house|2:55:07, 129bpm, 11:17 min/mi|
+|May 15|15.51|comfort|40|from house|2:57:43, 130bpm, 11:27 min/mi|
+|May 19|101.02*|comfort|0|[Santa Fe Century](http://santafecentury.com/)|6:18:58, 134bpm, 16.0 mph, *[bike ride](https://s3.amazonaws.com/photostockplus/users/77045/ph/fc7bfb22f65a0a16b38709e7b6a8705d_l.jpg)|
+|May 22|12.21|comfort|40|from house|2:15:03, 127bpm, 11:03 min/mi|
+|May 25|51.62|race|0|[Jemez Mountain Trail 50 mi](https://www.jemezmountaintrailruns.org/course)|[13:03:18](http://ultrasignup.com/results_event.aspx?did=58666#id220546), 132bpm, 15:10 min/mi, 3rd M50-59|
+|May 29|3.1|speed|40|from house|27:56, 149bpm, 8:59 min/mi|
+|May 31|5.57|interval|35|from house|54:25, 135bpm, 9:47 min/mi|
+|Jun 1|3.10|race|37|[Believe in Heroes 5k ruck](https://loslunasvets.com/)|24:27, 161bpm, 7:53 min/mi, 1st ruck, 4th overall (i.e. only 3 5kers, all without packs, finished sooner)|
+|Jun 2|2.89|walk|33.5|Alameda Open Space|1:01:06, 94bpm, 21:07 min/mi|
+|Jun 5|15.60|comfort|42.5-40.0|from house|3:09:23, 121bpm, 12:08 min/mi|
+|Jun 8|34.57|comfort|0|Chimney-Melon 50k|12:33:06, 114bpm, 21:47 min/mi|
+|Jun 9|5.74|comfort|40|Alameda Open Space|1:00:12, 125bpm, 10:29 min/mi|
+|Jun 12|15.51|comfort|42.5-40.0|from house|3:23:24, 128bpm, 12:24 min/mi|
+|Jun 15|19.32|hike|50-45|Crest Trail (cut short)|11:14:06, 105bpm, 34:53 min/mi|
+|Jun 16|3.31|race|44|Alameda Open Space|32:13, 138bpm, 9:44 min/mi|
+|Jun 16|3.11|walk|44|from house, with dog|1:01:35, 93bpm, 19:49 min/mi|
+|Jun 19|12.22|comfort|42|from house|2:32:53, 127bpm, 12:24 min/mi|
+|Jun 22|43.53|comfort|0|[Double Crossing w/shortcuts](https://fastestknowntime.com/route/crest-trail-130-sandia-mtns-nm)|14:49:09, 122bpm, 20:24 min/mi|
+|Jun 23|3.1|race|0|[Cherry Garcia 5k](https://www.irunfit.org/run-fit-events/cherry-garcia-run)|[22:12.0](http://irunfit.org/results/CHERRY%20GARCIA%205K%20OVERALL%20RESULTS%202019.htm), 153bpm, 7:10 min/mi|
+|Jun 26|5.50|> comfort|40|from house|51:43, 145bpm, 9:23 min/mi|
+|Jun 30|5.98|race|40|Alameda Open Space|1:00:55, 150bpm, 10:11 min/mi|
+|Jul 3|15.53|comfort|44.3-40.0|from house|3:12:29, 129bpm, 12:23 min/mi|
+|Jul 4|4.19|< comfort|43|around Albuquerque Academy|1:12:16, 115bpm, 17:14 min/mi|
+|Jul 7|5.01|race|40|Alameda Open Space|45:16, 152bpm, 9:02 min/mi|
+|Jul 10|13.11|> comfort|41|from house|2:23:59, 143bpm, 10:59 min/mi|
+|Jul 14|6.2|race|0|[Chunky Monkey 10k](https://www.irunfit.org/run-fit-events/chunky-monkey-run)|[47:39](http://irunfit.org/results/CHUNKY%20MONKEY%20RUN%2010K%20OVERALL%20RESULTS%202019.htm), 158bpm, 7:38 min/mi|
+|Jul 17|13.10|> comfort|41|from house|2:34:40, 137bpm, 11:48 min/mi|
+|Jul 24|12.25|< comfort|41|from house|2:30:31, ???bpm, 12:17 min/mi HRM trouble|
+|Jul 28|3.18|< comfort|41|Alameda Open Space|42:38, 114bpm, 13:23 min/mi|
+|Jul 30|6.07|walk|40|Downtown Las Vegas|3:06:49, 92pm, 31:34 min/mi|
+|Jul 31|5.03|> comfort|44|AirBnB to Green Valley Ranch|58:20, 144bpm, 11:35 min/mi|
+|Jul 31|5.04|> comfort|43?|Green Valley Ranch to AirBnB|1:00:25, 139bpm, 11:59 min/mi|
+|Aug 3|5.03|> comfort|17|AirBnB to Green Valley Ranch|43:44, 148bpm, 8:42 min/mi|
+|Aug 3|5.05|comfort|17?|Green Valley Ranch to AirBnB|58:19, 130bpm, 11:33 min/mi|
+|Aug 7|3.46|race|34.5|From Affordable Automotive to home|35:20, 144bpm, 10:13 min/mi|
+|Aug 7|3.46|race|34.5|From home to Affordable Automotive|31:42, 135bpm, 9:10 min/mi|
+|Aug 10|31.79|race|0|[Baldy 50k](https://newmexicofa50k.wordpress.com/baldy_50k/)|[10:32:58](https://www.webscorer.com/racedetails?raceid=190800&did=211829), 134bpm, 19:54 min/mi|
+|Aug 18|3.18|race|30|Alameda Open Space|32:30, 136bpm, 10:11 min/mi|
+|Aug 18|3?|slow walk, much standing|30|Foothills SAR evaluations|2:49:00, 118bpm?, N/A|
+|Sep 6|33.57|race|0|[AA 50k](https://newmexicofa50k.wordpress.com/aa50k/)|[7:34:22](https://www.webscorer.com/racedetails?raceid=194034&did=215793), 129bpm, 13:32 min/mi|
+|Sep 14|26.2|race|0|[Revel Big Cottonwood Marathon](https://www.runrevel.com/bcm)|[3:29:44](https://www.runrevel.com/bcm/results?pk=1579538), 158bpm, 8:00 min/mi|
+|Sep 28|30.43|race|0|[Mt. Taylor 50k](http://www.mttaylor50k.com/)|[6:52:16](http://ultrasignup.com/results_event.aspx?did=63455#id220546), 141bpm, 13:33 min/mi|
+|Oct 19|26.39|race|0|Sandia Crossing Marathon|7:24:41, 134bpm, 16:51 min/mi|
+|Oct 20|26.2|pace|0|[Duke City Marathon](https://www.dukecitymarathon.com/)|[5:00:19](https://results.rmraces.live/sve-socal/events/2019/36th-annual-big-5-duke-city-marathon/330/entrant?share=1), 127bpm, 11:27 min/mi|
+|Oct 26|99.9|race|0|[Javelina Jundred](https://aravaiparunning.com/network/javelinajundred/)|[22:34:18](http://ultrasignup.com/results_event.aspx?did=63015#id220546), 130? bpm, min/mi (battery ran out)|
+|Nov 2|53|race|0|[Deadman Peaks Trail Run](https://deadmanpeakstrailrun.wordpress.com/)|[12:07:24](https://ultrasignup.com/results_event.aspx?did=65070#id220546), 131 bpm, 13:50 min/mi|
+|Nov 6|13.11|race|40|from house|2:13:49, 142bpm, 10:12 min/mi|
 
-# Excuses, Excuses
+### Planned
 
-## Wah! Wah! Wah! My Pack Broke!
+|Date|Miles|Pace|Pounds|Where|Notes|
+|----|-----|----|------|-----|-----|
+|Nov 9|32|comfort|0|Dragon's Back training run||
+|Nov 13|6|speed|40|from house||
+|Nov 16|9.86|mountain|35|La Luz||
+|Nov 20|6.5|speed|40|from house||
+|Nov 23|15|race|40|Bosque Bike Path||
+|Nov 25|13.1|interval|40|from house||
+|Nov 27|7|speed|40|from house||
+|Nov 29|4|speed|0|[Black Friday Turkey Trots](https://m.facebook.com/events/483889035551289?ref=page_internal&_rdr)||
+|Nov 30|32.57|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=67798)||
+|Dec 4|7.5|speed|40|from house||
+|Dec 7|9.88|mountain|35|La Luz||
+|Dec 9|13.1|interval|40|from house||
+|Dec 11|8.0|speed|40|from house||
+|Dec 14|18.01|race|40|Bosque Bike Path||
+|Dec 18|8.5|speed|40|from house||
+|Dec 21|9.5|mountain|35|La Luz||
+|Dec 21|3|race|0|[The Grinch Lunch](https://www.facebook.com/events/477996732790130/)||
+|Dec 23|13.11|interval|40|from house||
+|Dec 25|9|speed|40|from house||
+|Dec 28|18|race|40|Bosque Bike Path||
+|Jan 1|11.11|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)||
+|Jan 4|7.97|mountain|35|La Luz||
+|Jan 6|13.12|interval|40|from house||
+|Jan 8|10|speed|40|from house||
+|Jan 11|21|race|40|Bosque Bike Path||
+|Jan 15|10.5|speed|40|from house||
+|Jan 18|7.72|mountain|35|La Luz||
+|Jan 20|13.10|interval|40|from house||
+|Jan 22|11|speed|40|from house||
+|Jan 25|4.0|race|0|[Resolutions Stink!](https://www.facebook.com/events/2360150457583355/)|*Can't do if it conflicts w/Sandia Snowshoe*|
+|Jan 25|2.71|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)||
+|Jan 29|11.51|speed|43|from house||
+|Feb 1|24.01|race|40|Bosque Bike Path||
+|Feb 3|13.11|interval|40|from house||
+|Feb 5|12.01|speed|40|from house||
+|Feb 8|9.91|mountain|35|La Luz||
+|Feb 10|13.11|interval|40|from house||
+|Feb 12|5.54|speed|40|from house||
+|Feb 15|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)||
+|Feb 19|6.21|speed|40|from house||
+|Feb 21|24.01|race|40|Bosque Bike Path||
+|Feb 22|3|race|0|[V Day Run](https://www.facebook.com/events/2494537367250957/)||
+|Feb 24|13.11|interval|40|from house||
+|Feb 26|13.11|speed|40|from house||
+|Feb 29|5.02|mountain|35|La Luz||
+|Mar 4|6.56|speed|40|from house||
+|Mar 7|12|race|40|Bosque Bike Path|*might do King of the Hill instead*|
+|Mar 7|12|race|35|King of the Hill|*Not announced yet, may not do*|
+|Mar 9|3.28|interval(3)|40|from house||
+|Mar 11|3.28|speed|40|from house||
+|Mar 15|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
+|Mar 28|3|race|0|[BBT Crowning](https://www.abqroadrunners.com/burque-brewery-tour.html)||
+|Apr 19|26.2|race|35|[Tough Ruck](http://www.toughruck.org/)||
+|Apr 20|26.2|comforte|0|[Boston Marathon](https://www.baa.org/races/boston-marathon)||
 
-I was in first place for the first two checkpoints, but the timing
-info shows Jason Stuck having passed me on the third leg, during which
-I required a porta-potty break, probably due to my having had too
-large of a high fiber lunch the day before.
+### Packs
 
-I really fell apart though after the descent down the asphalt portion
-of mineral hill.  I *normally* start to have trouble around then.
-However, it's likely that my [pack frame broke](broken_frame.jpg) as I
-did an 8:27 minute mile.
-
-I'll never know for sure that my pack broke then. Nor will I know if
-that is what caused the huge amount of hip/lower-back discomfort I
-felt, but I do know that when I looked at my pack the morning after my
-run the upright tube that supports the stay that holds the pack open
-was indeed broken in half and the stay and pin were free floating.
-
-Although there's a tiny chance that the break happened after the race,
-I've seen my finishing line photos and my pack looks pretty skewed.
-Additionally, although during the race, and even the day after, my pain
-felt uniformly spread around my hips, that changed.  My left side healed
-much faster than my right.  In retrospect, I think that is another sign
-that the pack break put undue stress on one side and eventually the
-discomfort was so severe that it overwhelmed everything.
-
-Even prior to this year's run, I had been debating using a different
-pack for a while (and even briefly experimented with an internal frame
-pack a few years ago).  This most recent break was the final straw.
-For 2020, I'll train and run with a different style pack.  Joseph
-Altobello: if you're out there, please [send me email](mailto:ctm@devctm.com).
-I value your opinion and would like to discuss pack options with you.
-FWIW, I'm interested in hearing from others, too, it's just that Joseph and
-I have talked after the race a few times and I've forgotten to get his email
-address (or I got it and misplaced it).
+I'm currently training with my Osprey search-and-rescue pack.  I have not
+yet sent my Goruck 20L back for repair, but I will do that soon.  It may
+take some time to get a replacement, but I need to get fit again before
+I try again to transition to my Goruck 20L.  This time I'll try without
+the hip belt which I think was counter-productive.
