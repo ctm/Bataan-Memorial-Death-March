@@ -250,12 +250,12 @@ hills.
 |Oct 26|99.9|race|0|[Javelina Jundred](https://aravaiparunning.com/network/javelinajundred/)|[22:34:18](http://ultrasignup.com/results_event.aspx?did=63015#id220546), 130? bpm, min/mi (battery ran out)|
 |Nov 2|53|race|0|[Deadman Peaks Trail Run](https://deadmanpeakstrailrun.wordpress.com/)|[12:07:24](https://ultrasignup.com/results_event.aspx?did=65070#id220546), 131 bpm, 13:50 min/mi|
 |Nov 6|13.11|race|40|from house|2:13:49, 142bpm, 10:12 min/mi|
+|Nov 9|32|comfort|0|White Mesa Fat Ass 50k|[6:49:51](https://www.webscorer.com/racedetails?raceid=202637&did=225454), 130bpm, 12:42 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Nov 9|32|comfort|0|Dragon's Back training run||
 |Nov 13|6|speed|40|from house||
 |Nov 16|9.86|mountain|35|La Luz||
 |Nov 20|6.5|speed|40|from house||
