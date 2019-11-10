@@ -1,8 +1,10 @@
-# Bataan Memorial Death March training
+# Bataan Memorial Death March and Tough Ruck training
 
 My (Cliff Matthews) training plan for the 2020 [Bataan Memorial Death
 March](http://bataanmarch.com) (civilian heavy), similar to what I did
-for [2017](2017.md), [2018](2018.md) and [2019](2019.md).
+for [2017](2017.md), [2018](2018.md) and [2019](2019.md).  In addition
+to BMDM 2020, I've registered for the [Tough
+Ruck](http://www.toughruck.org/).
 
 ## What is the BMDM?
 
@@ -318,3 +320,14 @@ yet sent my Goruck 20L back for repair, but I will do that soon.  It may
 take some time to get a replacement, but I need to get fit again before
 I try again to transition to my Goruck 20L.  This time I'll try without
 the hip belt which I think was counter-productive.
+
+
+### Tough Ruck Campaign
+
+[My Tough Ruck
+Campaign](https://charity.gofundme.com/o/en/campaign-manager/edit/cliffmatthews/gratitude-higher-than-my-expectations/campaign)
+is named "Gratitude higher than my expectations" which is a phrase
+that comes from Ray Wylie Hubbard's ["Mother
+Blue's"](https://www.youtube.com/watch?v=rIQVG0Bcu6w).  I have no
+association with RWH, other than as an anonymous fan, but I am very
+grateful and honored.
