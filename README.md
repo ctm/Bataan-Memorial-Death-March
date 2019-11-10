@@ -251,6 +251,7 @@ hills.
 |Nov 2|53|race|0|[Deadman Peaks Trail Run](https://deadmanpeakstrailrun.wordpress.com/)|[12:07:24](https://ultrasignup.com/results_event.aspx?did=65070#id220546), 131 bpm, 13:50 min/mi|
 |Nov 6|13.11|race|40|from house|2:13:49, 142bpm, 10:12 min/mi|
 |Nov 9|32|comfort|0|White Mesa Fat Ass 50k|[6:49:51](https://www.webscorer.com/racedetails?raceid=202637&did=225454), 130bpm, 12:42 min/mi|
+|Nov 10|3.96|comfort|40|[Team RWB Dark & Early Donut Run](https://www.teamrwb.org/event/albuquerque-dark-early-donut-run-3/)|41:39, 130bpm, 10:30 min/mi|
 
 ### Planned
 
