@@ -271,18 +271,18 @@ hills.
 |Dec 7|9.88|mountain|35|La Luz||
 |Dec 9|13.1|interval|40|from house||
 |Dec 11|8.0|speed|40|from house||
-|Dec 14|18.01|race|40|Bosque Bike Path||
+|Dec 14|18|race|40|Bosque Bike Path||
 |Dec 18|8.5|speed|40|from house||
 |Dec 21|9.5|mountain|35|La Luz||
 |Dec 21|3|race|0|[The Grinch Lunch](https://www.facebook.com/events/477996732790130/)||
 |Dec 23|13.11|interval|40|from house||
 |Dec 25|9|speed|40|from house||
-|Dec 28|18|race|40|Bosque Bike Path||
-|Jan 1|11.11|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)||
+|Dec 28|18 or 21|race|40|Bosque Bike Path||
+|Jan 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)||
 |Jan 4|7.97|mountain|35|La Luz||
 |Jan 6|13.12|interval|40|from house||
 |Jan 8|10|speed|40|from house||
-|Jan 11|21|race|40|Bosque Bike Path||
+|Jan 11|21 or 24|race|40|Bosque Bike Path||
 |Jan 15|10.5|speed|40|from house||
 |Jan 18|7.72|mountain|35|La Luz||
 |Jan 20|13.10|interval|40|from house||
@@ -302,16 +302,15 @@ hills.
 |Feb 22|3|race|0|[V Day Run](https://www.facebook.com/events/2494537367250957/)||
 |Feb 24|13.11|interval|40|from house||
 |Feb 26|13.11|speed|40|from house||
-|Feb 29|5.02|mountain|35|La Luz||
+|Feb 29|12|race|35|King of the Hill||
 |Mar 4|6.56|speed|40|from house||
-|Mar 7|12|race|40|Bosque Bike Path|*might do King of the Hill instead*|
-|Mar 7|12|race|35|King of the Hill|*Not announced yet, may not do*|
+|Mar 7|6|race|40|Bosque Bike Path||
 |Mar 9|3.28|interval(3)|40|from house||
 |Mar 11|3.28|speed|40|from house||
 |Mar 15|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
 |Mar 28|3|race|0|[BBT Crowning](https://www.abqroadrunners.com/burque-brewery-tour.html)||
 |Apr 19|26.2|race|35|[Tough Ruck](http://www.toughruck.org/)||
-|Apr 20|26.2|comforte|0|[Boston Marathon](https://www.baa.org/races/boston-marathon)||
+|Apr 20|26.2|comfort|0|[Boston Marathon](https://www.baa.org/races/boston-marathon)||
 
 ### Packs
 
