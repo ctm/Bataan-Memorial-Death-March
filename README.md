@@ -254,12 +254,12 @@ hills.
 |Nov 6|13.11|race|40|from house|2:13:49, 142bpm, 10:12 min/mi|
 |Nov 9|32|comfort|0|White Mesa Fat Ass 50k|[6:49:51](https://www.webscorer.com/racedetails?raceid=202637&did=225454), 130bpm, 12:42 min/mi|
 |Nov 10|3.96|comfort|40|[Team RWB Dark & Early Donut Run](https://www.teamrwb.org/event/albuquerque-dark-early-donut-run-3/)|41:39, 130bpm, 10:30 min/mi|
+|Nov 13|6.01|speed|40|from house|54:47, 147bpm, 9:06 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Nov 13|6|speed|40|from house||
 |Nov 16|9.86|mountain|35|La Luz||
 |Nov 20|6.5|speed|40|from house||
 |Nov 23|15|race|40|Bosque Bike Path||
