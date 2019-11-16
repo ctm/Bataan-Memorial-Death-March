@@ -255,15 +255,15 @@ hills.
 |Nov 9|32|comfort|0|White Mesa Fat Ass 50k|[6:49:51](https://www.webscorer.com/racedetails?raceid=202637&did=225454), 130bpm, 12:42 min/mi|
 |Nov 10|3.96|comfort|40|[Team RWB Dark & Early Donut Run](https://www.teamrwb.org/event/albuquerque-dark-early-donut-run-3/)|41:39, 130bpm, 10:30 min/mi|
 |Nov 13|6.01|speed|40|from house|54:47, 147bpm, 9:06 min/mi|
+|Nov 16|9.43|mountain|35|La Luz|2:22:04, 138bpm, 15:03 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Nov 16|9.86|mountain|35|La Luz||
+|Nov 18|13.1|interval|40|from house||
 |Nov 20|6.5|speed|40|from house||
 |Nov 23|15|race|40|Bosque Bike Path||
-|Nov 25|13.1|interval|40|from house||
 |Nov 27|7|speed|40|from house||
 |Nov 29|4|speed|0|[Black Friday Turkey Trots](https://m.facebook.com/events/483889035551289?ref=page_internal&_rdr)||
 |Nov 30|32.57|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=67798)||
