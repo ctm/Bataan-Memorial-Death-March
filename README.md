@@ -270,7 +270,7 @@ hills.
 |Nov 29|4|speed|0|[Black Friday Turkey Trots](https://m.facebook.com/events/483889035551289?ref=page_internal&_rdr)||
 |Nov 30|32.57|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=67798)||
 |Dec 4|7.5|speed|40|from house||
-|Dec 7|9.88|mountain|35|La Luz||
+|Dec 6|9.88|mountain|35|La Luz|*Friday* _not_ Saturday, due to CSAR litter eval conflict|
 |Dec 9|13.1|interval|40|from house||
 |Dec 11|8.0|speed|40|from house||
 |Dec 14|18|race|40|Bosque Bike Path||
