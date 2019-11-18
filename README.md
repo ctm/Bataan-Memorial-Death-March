@@ -256,6 +256,8 @@ hills.
 |Nov 10|3.96|comfort|40|[Team RWB Dark & Early Donut Run](https://www.teamrwb.org/event/albuquerque-dark-early-donut-run-3/)|41:39, 130bpm, 10:30 min/mi|
 |Nov 13|6.01|speed|40|from house|54:47, 147bpm, 9:06 min/mi|
 |Nov 16|9.43|mountain|35|La Luz|2:22:04, 138bpm, 15:03 min/mi|
+|Nov 17|3.2|comfort|40|Alameda Open Space|34:52, 129bpm, 10:53 min/mi|
+|Nov 17|0.58|walk|40|Cedro Peak Group Campground (litter training)|2:30:42, 65bpm, 260:58 min/mi|
 
 ### Planned
 
