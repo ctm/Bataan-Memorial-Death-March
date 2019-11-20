@@ -97,8 +97,8 @@ three pack runs a week for me in my 2018-2019 training cycle was
 slightly excessive.  For one thing, the abrasions on my back never
 completely healed, but additionally my resting heart rate crept up
 slowly.  Due to this, for 2019-2020, I'm going to start out doing more
-than two, but less than three pack runs a week by strictly alternating
-between three pack run and two pack run weeks.
+than two, but less than three pack runs a week by alternating between
+three pack run and two pack run weeks.
 
 ## Base building
 
@@ -271,6 +271,9 @@ hills.
 |Nov 30|32.57|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=67798)||
 |Dec 4|7.5|speed|40|from house||
 |Dec 6|9.88|mountain|35|La Luz|*Friday* _not_ Saturday, due to CSAR litter eval conflict|
+|Dec 8|13.1|comfort|0|Mars Court|Gail's (in my case vegan: V) Turkey Carcass|
+|Dec 8|6.2|comfort|0|Mars Court|Gail's (V) Turkey Breast|
+|Dec 8|3.1|comfort|0|Mars Court|Gail's (V) Turkey Drumstick|
 |Dec 9|13.1|interval|40|from house||
 |Dec 11|8.0|speed|40|from house||
 |Dec 14|18|race|40|Bosque Bike Path||
@@ -289,8 +292,7 @@ hills.
 |Jan 18|7.72|mountain|35|La Luz||
 |Jan 20|13.10|interval|40|from house||
 |Jan 22|11|speed|40|from house||
-|Jan 25|4.0|race|0|[Resolutions Stink!](https://www.facebook.com/events/2360150457583355/)|*Can't do if it conflicts w/Sandia Snowshoe*|
-|Jan 25|2.71|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)||
+|Jan 25|3.1|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)||
 |Jan 29|11.51|speed|43|from house||
 |Feb 1|24.01|race|40|Bosque Bike Path||
 |Feb 3|13.11|interval|40|from house||
