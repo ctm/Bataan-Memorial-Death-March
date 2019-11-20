@@ -259,12 +259,12 @@ hills.
 |Nov 17|3.2|comfort|40|Alameda Open Space|34:52, 129bpm, 10:53 min/mi|
 |Nov 17|0.58|walk|40|Cedro Peak Group Campground (litter training)|2:30:42, 65bpm, 260:58 min/mi|
 |Nov 18|13.11|interval|40|from house|2:36:00, 135bpm, 11:54 min/mi|
+|Nov 20|6.5|speed|39|from house|59:19, 151bpm, 9:07 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Nov 20|6.5|speed|40|from house||
 |Nov 23|15|race|40|Bosque Bike Path||
 |Nov 27|7|speed|40|from house||
 |Nov 29|4|speed|0|[Black Friday Turkey Trots](https://m.facebook.com/events/483889035551289?ref=page_internal&_rdr)||
