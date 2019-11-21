@@ -270,13 +270,13 @@ hills.
 |Nov 29|4|speed|0|[Black Friday Turkey Trots](https://m.facebook.com/events/483889035551289?ref=page_internal&_rdr)||
 |Nov 30|32.57|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=67798)||
 |Dec 4|7.5|speed|40|from house||
-|Dec 6|9.88|mountain|35|La Luz|*Friday* _not_ Saturday, due to CSAR litter eval conflict|
+|Dec 6|9.88|mountain|35|La Luz|*Friday* _not_ Saturday, due to CiSAR DF Class|
 |Dec 8|13.1|comfort|0|Mars Court|Gail's (in my case vegan: V) Turkey Carcass|
 |Dec 8|6.2|comfort|0|Mars Court|Gail's (V) Turkey Breast|
 |Dec 8|3.1|comfort|0|Mars Court|Gail's (V) Turkey Drumstick|
 |Dec 9|13.1|interval|40|from house||
 |Dec 11|8.0|speed|40|from house||
-|Dec 14|18|race|40|Bosque Bike Path||
+|Dec 13|18|race|40|Bosque Bike Path|*Friday* _not_ Saturday, due to CSAR litter eval conflict|
 |Dec 18|8.5|speed|40|from house||
 |Dec 21|9.5|mountain|35|La Luz||
 |Dec 21|3|race|0|[The Grinch Lunch](https://www.facebook.com/events/477996732790130/)||
