@@ -262,12 +262,12 @@ hills.
 |Nov 20|6.5|speed|39|from house|59:19, 151bpm, 9:07 min/mi|
 |Nov 23|15|race|40|Bosque Bike Path|2:32:29, 10:09 min/mi, 135bpm|
 |Nov 24|3.17|comfort|40|Bosque Bike Path|36:37, 11:33 min/mi, 119bpm|
+|Nov 27|7.01|speed|40|from house|1:04:20, 9:10 min/mi, 148bpm|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Nov 27|7|speed|40|from house||
 |Nov 28|8.9|comfort|40|from house|w/Team RWB|
 |Nov 29|4|speed|0|[Black Friday Turkey Trots](https://m.facebook.com/events/483889035551289?ref=page_internal&_rdr)||
 |Nov 30|32.57|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=67798)||
