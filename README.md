@@ -260,15 +260,15 @@ hills.
 |Nov 17|0.58|walk|40|Cedro Peak Group Campground (litter training)|2:30:42, 65bpm, 260:58 min/mi|
 |Nov 18|13.11|interval|40|from house|2:36:00, 135bpm, 11:54 min/mi|
 |Nov 20|6.5|speed|39|from house|59:19, 151bpm, 9:07 min/mi|
-|Nov 23|15|race|40|Bosque Bike Path|2:32:29, 10:09 min/mi, 135bpm|
-|Nov 24|3.17|comfort|40|Bosque Bike Path|36:37, 11:33 min/mi, 119bpm|
-|Nov 27|7.01|speed|40|from house|1:04:20, 9:10 min/mi, 148bpm|
+|Nov 23|15|race|40|Bosque Bike Path|2:32:29, 135bpm, 10:09 min/mi|
+|Nov 24|3.17|comfort|40|Bosque Bike Path|36:37, 119bpm, 11:33 min/mi|
+|Nov 27|7.01|speed|40|from house|1:04:20, 148bpm, 9:10 min/mi|
+|Nov 28|7.27|walk|40|from house w/Team RWB in snow|2:13:07, 109bm, 18:19 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Nov 28|8.9|comfort|40|from house|w/Team RWB|
 |Nov 29|4|speed|0|[Black Friday Turkey Trots](https://m.facebook.com/events/483889035551289?ref=page_internal&_rdr)||
 |Nov 30|32.57|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=67798)||
 |Dec 4|7.5|speed|40|from house||
