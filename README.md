@@ -272,7 +272,7 @@ hills.
 |Nov 29|4|speed|0|[Black Friday Turkey Trots](https://m.facebook.com/events/483889035551289?ref=page_internal&_rdr)||
 |Nov 30|32.57|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=67798)||
 |Dec 4|7.5|speed|40|from house||
-|Dec 6|9.88|mountain|35|La Luz|*Friday* _not_ Saturday, due to CiSAR DF Class|
+|Dec 6|9.5|mountain|35|La Luz|*Friday* _not_ Saturday, due to CiSAR DF Class|
 |Dec 8|13.1|comfort|0|Mars Court|Gail's (in my case vegan: V) Turkey Carcass|
 |Dec 8|6.2|comfort|0|Mars Court|Gail's (V) Turkey Breast|
 |Dec 8|3.1|comfort|0|Mars Court|Gail's (V) Turkey Drumstick|
@@ -286,12 +286,12 @@ hills.
 |Dec 25|9|speed|40|from house||
 |Dec 28|18 or 21|race|40|Bosque Bike Path||
 |Jan 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)||
-|Jan 4|7.97|mountain|35|La Luz||
+|Jan 4|9.5|mountain|35|La Luz||
 |Jan 6|13.12|interval|40|from house||
 |Jan 8|10|speed|40|from house||
 |Jan 11|21 or 24|race|40|Bosque Bike Path||
 |Jan 15|10.5|speed|40|from house||
-|Jan 18|7.72|mountain|35|La Luz||
+|Jan 18|9.5|mountain|35|La Luz||
 |Jan 20|13.10|interval|40|from house||
 |Jan 22|11|speed|40|from house||
 |Jan 25|3.1|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)||
@@ -299,7 +299,7 @@ hills.
 |Feb 1|24.01|race|40|Bosque Bike Path||
 |Feb 3|13.11|interval|40|from house||
 |Feb 5|12.01|speed|40|from house||
-|Feb 8|9.91|mountain|35|La Luz||
+|Feb 8|9.5|mountain|35|La Luz||
 |Feb 10|13.11|interval|40|from house||
 |Feb 12|5.54|speed|40|from house||
 |Feb 15|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)||
@@ -308,9 +308,9 @@ hills.
 |Feb 22|3|race|0|[V Day Run](https://www.facebook.com/events/2494537367250957/)||
 |Feb 24|13.11|interval|40|from house||
 |Feb 26|13.11|speed|40|from house||
-|Feb 29|12|race|35|King of the Hill||
+|Feb 29|9.5|mountain|35|La Luz||
 |Mar 4|6.56|speed|40|from house||
-|Mar 7|6|race|40|Bosque Bike Path||
+|Mar 7|6|race|35|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)||
 |Mar 9|3.28|interval(3)|40|from house||
 |Mar 11|3.28|speed|40|from house||
 |Mar 15|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
