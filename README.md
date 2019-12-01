@@ -265,12 +265,13 @@ hills.
 |Nov 27|7.01|speed|40|from house|1:04:20, 148bpm, 9:10 min/mi|
 |Nov 28|7.27|walk|40|from house w/Team RWB in snow|2:13:07, 109bm, 18:19 min/mi|
 |Nov 29|4.08|speed|0|[Black Friday Turkey Trots](https://m.facebook.com/events/483889035551289?ref=page_internal&_rdr)|[30:13.0](https://www.webscorer.com/race?raceid=204331), 155bpm, 7:25 min/mi|
+|Nov 30|32.57|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=67798)|[6:01:51](http://ultrasignup.com/results_event.aspx?did=67798), 123bpm, 10:56 min/mi|
+|Dec 1|3.18|comfort|40|Alameda Open Space w/ Team RWB|37:16, 118bpm, 11:44 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Nov 30|32.57|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=67798)||
 |Dec 4|7.5|speed|40|from house||
 |Dec 6|9.5|mountain|35|La Luz|*Friday* _not_ Saturday, due to CiSAR DF Class|
 |Dec 8|13.1|comfort|0|Mars Court|Gail's (in my case vegan: V) Turkey Carcass|
