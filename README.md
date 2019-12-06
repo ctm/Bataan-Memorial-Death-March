@@ -268,12 +268,12 @@ hills.
 |Nov 30|32.57|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=67798)|[6:01:51](http://ultrasignup.com/results_event.aspx?did=67798), 123bpm, 10:56 min/mi|
 |Dec 1|3.18|comfort|40|Alameda Open Space w/ Team RWB|37:16, 118bpm, 11:44 min/mi|
 |Dec 4|7.51|speed|40|from house|1:08:21, 148bpm, 9:06 min/mi|
+|Dec 6|9.47|mountain|35|La Luz|2:34:40, 136bpm, 16:20 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Dec 6|9.5|mountain|35|La Luz|*Friday* _not_ Saturday, due to CiSAR DF Class|
 |Dec 8|13.1|comfort|0|Mars Court|Gail's (in my case vegan: V) Turkey Carcass|
 |Dec 8|6.2|comfort|0|Mars Court|Gail's (V) Turkey Breast|
 |Dec 8|3.1|comfort|0|Mars Court|Gail's (V) Turkey Drumstick|
