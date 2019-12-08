@@ -274,9 +274,6 @@ hills.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Dec 8|13.1|comfort|0|Mars Court|Gail's (in my case vegan: V) Turkey Carcass|
-|Dec 8|6.2|comfort|0|Mars Court|Gail's (V) Turkey Breast|
-|Dec 8|3.1|comfort|0|Mars Court|Gail's (V) Turkey Drumstick|
 |Dec 9|13.1|interval|40|from house||
 |Dec 11|8.0|speed|40|from house||
 |Dec 13|18|race|40|Bosque Bike Path|*Friday* _not_ Saturday, due to CSAR litter eval conflict|
