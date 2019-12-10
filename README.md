@@ -274,9 +274,9 @@ hills.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Dec 9|13.1|interval|40|from house||
 |Dec 11|8.0|speed|40|from house||
 |Dec 13|18|race|40|Bosque Bike Path|*Friday* _not_ Saturday, due to CSAR litter eval conflict|
+|Dec 16|13.1|interval|40|from house||
 |Dec 18|8.5|speed|40|from house||
 |Dec 21|9.5|mountain|35|La Luz||
 |Dec 21|3|race|0|[The Grinch Lunch](https://www.facebook.com/events/477996732790130/)||
