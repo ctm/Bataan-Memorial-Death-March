@@ -270,12 +270,12 @@ hills.
 |Dec 4|7.51|speed|40|from house|1:08:21, 148bpm, 9:06 min/mi|
 |Dec 6|9.47|mountain|35|La Luz|2:34:40, 136bpm, 16:20 min/mi|
 |Dec 11|8.0|speed|40|from house|1:14:23, 149bpm, 9:17 min/mi|
+|Dec 13 (Fri)|18.01|race|40|Bosque Bike Path|3:00:55.8, 136bpm, 10:02 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Dec 13|18|race|40|Bosque Bike Path|*Friday* _not_ Saturday, due to CSAR litter eval conflict|
 |Dec 16|13.1|interval|40|from house||
 |Dec 18|8.5|speed|40|from house||
 |Dec 21|9.5|mountain|35|La Luz||
