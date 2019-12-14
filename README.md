@@ -271,6 +271,7 @@ hills.
 |Dec 6|9.47|mountain|35|La Luz|2:34:40, 136bpm, 16:20 min/mi|
 |Dec 11|8.0|speed|40|from house|1:14:23, 149bpm, 9:17 min/mi|
 |Dec 13 (Fri)|18.01|race|40|Bosque Bike Path|3:00:55.8, 136bpm, 10:02 min/mi|
+|Dec 14|0.35|walk|37|Vista Sandia Equestrian Park (litter eval)|1:46:26, 77bpm, 301:44 min/mi|
 
 ### Planned
 
