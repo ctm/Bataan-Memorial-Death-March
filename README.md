@@ -273,14 +273,14 @@ hills.
 |Dec 13 (Fri)|18.01|race|40|Bosque Bike Path|3:00:55.8, 136bpm, 10:02 min/mi|
 |Dec 14|0.35|walk|37|Vista Sandia Equestrian Park (litter eval)|1:46:26, 77bpm, 301:44 min/mi|
 |Dec 16|11.19|interval|40|from house|1:58:01, 132bpm, 10:32 min/mi|
+|Dec 18|8.5|speed|40|from house|**Did Not Do**: Flu|
+|Dec 21|9.5|mountain|35|La Luz|**Did Not Do**: Flu|
+|Dec 21|3.06|race|0|[The Grinch Lunch](https://www.facebook.com/events/477996732790130/)|[24:19.3](https://www.webscorer.com/race?raceid=206084), 147bpm, 7:57 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Dec 18|8.5|speed|40|from house||
-|Dec 21|9.5|mountain|35|La Luz||
-|Dec 21|3|race|0|[The Grinch Lunch](https://www.facebook.com/events/477996732790130/)||
 |Dec 23|13.11|interval|40|from house||
 |Dec 25|9|speed|40|from house||
 |Dec 28|18 or 21|race|40|Bosque Bike Path||
