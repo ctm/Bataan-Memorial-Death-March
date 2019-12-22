@@ -276,6 +276,7 @@ hills.
 |Dec 18|8.5|speed|40|from house|**Did Not Do**: Flu|
 |Dec 21|9.5|mountain|35|La Luz|**Did Not Do**: Flu|
 |Dec 21|3.06|race|0|[The Grinch Lunch](https://www.facebook.com/events/477996732790130/)|[24:19.3](https://www.webscorer.com/race?raceid=206084), 147bpm, 7:57 min/mi|
+|Dec 22|3.19|race|40|Alameda Open Space w/ Team RWB|32:15, 1??bpm, 10:06 min/mi|
 
 ### Planned
 
