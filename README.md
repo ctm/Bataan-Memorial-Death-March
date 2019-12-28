@@ -276,15 +276,15 @@ hills.
 |Dec 18|8.5|speed|40|from house|**Did Not Do**: Flu|
 |Dec 21|9.5|mountain|35|La Luz|**Did Not Do**: Flu|
 |Dec 21|3.06|race|0|[The Grinch Lunch](https://www.facebook.com/events/477996732790130/)|[24:19.3](https://www.webscorer.com/race?raceid=206084), 147bpm, 7:57 min/mi|
-|Dec 22|3.19|race|40|Alameda Open Space w/ Team RWB|32:15, 1??bpm, 10:06 min/mi|
+|Dec 22|3.19|race|40|Alameda Open Space w/ Team RWB|32:15, 135?bpm, 10:06 min/mi|
+|Dec 23|13.11|interval|40|from house|**Did Not Do**: Flu|
+|Dec 25|9|speed|40|from house|**Did Not Do**: Flu|
+|Dec 28|21.01|comfort?|41.7|Bosque Bike Path|4:12:21, 135bpm, 12:00 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Dec 23|13.11|interval|40|from house||
-|Dec 25|9|speed|40|from house||
-|Dec 28|18 or 21|race|40|Bosque Bike Path||
 |Jan 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)||
 |Jan 4|9.5|mountain|35|La Luz||
 |Jan 6|13.12|interval|40|from house||
