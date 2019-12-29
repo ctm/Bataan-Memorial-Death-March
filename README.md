@@ -280,6 +280,7 @@ hills.
 |Dec 23|13.11|interval|40|from house|**Did Not Do**: Flu|
 |Dec 25|9|speed|40|from house|**Did Not Do**: Flu|
 |Dec 28|21.01|comfort?|41.7|Bosque Bike Path|4:12:21, 135bpm, 12:00 min/mi|
+|Dec 29|3.19|race|40|Alameda Open Space w/ Team RWB|30:02, 149bpm, 9:24 min/mi|
 
 ### Planned
 
