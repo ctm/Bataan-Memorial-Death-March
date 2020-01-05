@@ -281,13 +281,13 @@ hills.
 |Dec 25|9|speed|40|from house|**Did Not Do**: Flu|
 |Dec 28|21.01|comfort?|41.7|Bosque Bike Path|4:12:21, 135bpm, 12:00 min/mi|
 |Dec 29|3.19|race|40|Alameda Open Space w/ Team RWB|30:02, 149bpm, 9:24 min/mi|
-|Jan 1|30?|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|7:00:00?, 130bpm?, 14:00 min/mi|
+|Jan 1|30?|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|[6:56:15](https://www.webscorer.com/racedetails?raceid=206560&did=230483), 130bpm?, 14:00 min/mi|
+|Jan 4|9.5|mountain|35|La Luz|**Did Not Do**: post-flu + sledding|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 4|9.5|mountain|35|La Luz||
 |Jan 6|13.12|interval|40|from house||
 |Jan 8|10|speed|40|from house||
 |Jan 11|21 or 24|race|40|Bosque Bike Path||
