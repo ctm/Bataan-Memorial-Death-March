@@ -283,6 +283,7 @@ hills.
 |Dec 29|3.19|race|40|Alameda Open Space w/ Team RWB|30:02, 149bpm, 9:24 min/mi|
 |Jan 1|30?|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|[6:56:15](https://www.webscorer.com/racedetails?raceid=206560&did=230483), 130bpm?, 14:00 min/mi|
 |Jan 4|9.5|mountain|35|La Luz|**Did Not Do**: post-flu + sledding|
+|Jan 5|3.18|race|39|Alameda Open Space w/ Team RWB|27:38, 153bpm, 8:42 min/mi|
 
 ### Planned
 
@@ -306,7 +307,7 @@ hills.
 |Feb 12|5.54|speed|40|from house||
 |Feb 15|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)||
 |Feb 19|6.21|speed|40|from house||
-|Feb 21|24.01|race|40|Bosque Bike Path||
+|Feb 21|24o.01|race|40|Bosque Bike Path||
 |Feb 22|3|race|0|[V Day Run](https://www.facebook.com/events/2494537367250957/)||
 |Feb 24|13.11|interval|40|from house||
 |Feb 26|13.11|speed|40|from house||
