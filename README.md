@@ -284,12 +284,12 @@ hills.
 |Jan 1|30?|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|[6:56:15](https://www.webscorer.com/racedetails?raceid=206560&did=230483), 130bpm?, 14:00 min/mi|
 |Jan 4|9.5|mountain|35|La Luz|**Did Not Do**: post-flu + sledding|
 |Jan 5|3.18|race|39|Alameda Open Space w/ Team RWB|27:38, 153bpm, 8:42 min/mi|
+|Jan 6|8.90|interval|40|from house|1:44:12, 132bpm, 11:42 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 6|13.12|interval|40|from house||
 |Jan 8|10|speed|40|from house||
 |Jan 11|21 or 24|race|40|Bosque Bike Path||
 |Jan 15|10.5|speed|40|from house||
@@ -299,7 +299,7 @@ hills.
 |Jan 25|3.1|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)||
 |Jan 26|4|race|0|[Resolutions Stink!](https://www.facebook.com/events/2360150457583355/)||
 |Jan 29|11.51|speed|43|from house||
-|Feb 1|24.01|race|40|Bosque Bike Path||
+|Feb 1|24|race|40|Bosque Bike Path||
 |Feb 3|13.11|interval|40|from house||
 |Feb 5|12.01|speed|40|from house||
 |Feb 8|9.5|mountain|35|La Luz||
@@ -307,7 +307,7 @@ hills.
 |Feb 12|5.54|speed|40|from house||
 |Feb 15|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)||
 |Feb 19|6.21|speed|40|from house||
-|Feb 21|24o.01|race|40|Bosque Bike Path||
+|Feb 21|24|race|40|Bosque Bike Path||
 |Feb 22|3|race|0|[V Day Run](https://www.facebook.com/events/2494537367250957/)||
 |Feb 24|13.11|interval|40|from house||
 |Feb 26|13.11|speed|40|from house||
