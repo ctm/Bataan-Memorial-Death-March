@@ -291,7 +291,7 @@ hills.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 11|21 or 24|race|40|Bosque Bike Path||
+|Jan 11|21|race|40|Bosque Bike Path||
 |Jan 15|10.5|speed|40|from house||
 |Jan 18|9.5|mountain|35|La Luz||
 |Jan 20|13.10|interval|40|from house||
