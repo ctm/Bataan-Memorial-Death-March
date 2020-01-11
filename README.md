@@ -286,12 +286,12 @@ hills.
 |Jan 5|3.18|race|39|Alameda Open Space w/ Team RWB|27:38, 153bpm, 8:42 min/mi|
 |Jan 6|8.90|interval|40|from house|1:44:12, 132bpm, 11:42 min/mi|
 |Jan 8|10.01|speed|40|from house|1:34:38, 149bpm, 9:27 min/mi|
+|Jan 11|21.01|race|40|Bosque Bike Path|3:40:14, 144bpm, 10:29 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 11|21|race|40|Bosque Bike Path||
 |Jan 15|10.5|speed|40|from house||
 |Jan 18|9.5|mountain|35|La Luz||
 |Jan 20|13.10|interval|40|from house||
