@@ -292,6 +292,7 @@ hills.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
+|Jan 13|13.1|interval|40|from house||
 |Jan 15|10.5|speed|40|from house||
 |Jan 18|9.5|mountain|35|La Luz||
 |Jan 20|13.10|interval|40|from house||
