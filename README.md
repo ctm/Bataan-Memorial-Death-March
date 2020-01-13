@@ -295,28 +295,31 @@ hills.
 |----|-----|----|------|-----|-----|
 |Jan 15|10.5|speed|40|from house||
 |Jan 18|9.5|mountain|35|La Luz||
-|Jan 20|13.10|interval|40|from house||
+|Jan 20|13.1|interval|40|from house||
 |Jan 22|11|speed|40|from house||
 |Jan 25|3.1|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)||
 |Jan 26|4|race|0|[Resolutions Stink!](https://www.facebook.com/events/2360150457583355/)||
-|Jan 29|11.51|speed|43|from house||
+|Jan 27|13.1|interval|40|from house||
+|Jan 29|11.5|speed|43|from house||
 |Feb 1|24|race|40|Bosque Bike Path||
-|Feb 3|13.11|interval|40|from house||
-|Feb 5|12.01|speed|40|from house||
+|Feb 3|13.1|interval|40|from house||
+|Feb 5|12|speed|40|from house||
 |Feb 8|9.5|mountain|35|La Luz||
-|Feb 10|13.11|interval|40|from house||
-|Feb 12|5.54|speed|40|from house||
+|Feb 10|13.1|interval|40|from house||
+|Feb 12|5.6|speed|40|from house||
 |Feb 15|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)||
-|Feb 19|6.21|speed|40|from house||
+|Feb 17|6.5|interval(6)|40|from house||
+|Feb 19|6.5|speed|40|from house||
 |Feb 21|24|race|40|Bosque Bike Path||
 |Feb 22|3|race|0|[V Day Run](https://www.facebook.com/events/2494537367250957/)||
-|Feb 24|13.11|interval|40|from house||
-|Feb 26|13.11|speed|40|from house||
+|Feb 24|13.1|interval|40|from house||
+|Feb 26|13.1|speed|40|from house||
 |Feb 29|9.5|mountain|35|La Luz||
-|Mar 4|6.56|speed|40|from house||
+|Mar 2|6.5|interval(6)|40|from house||
+|Mar 4|6.5|speed|40|from house||
 |Mar 7|6|race|35|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)||
-|Mar 9|3.28|interval(3)|40|from house||
-|Mar 11|3.28|speed|40|from house||
+|Mar 9|3.25|interval(3)|40|from house||
+|Mar 11|3.25|speed|40|from house||
 |Mar 15|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
 |Mar 28|3|race|0|[BBT Crowning](https://www.abqroadrunners.com/burque-brewery-tour.html)||
 |Apr 19|26.2|race|35|[Tough Ruck](http://www.toughruck.org/)||
