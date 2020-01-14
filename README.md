@@ -304,7 +304,7 @@ hills.
 |Feb 1|24|race|40|Bosque Bike Path||
 |Feb 3|13.1|interval|40|from house||
 |Feb 5|12|speed|40|from house||
-|Feb 8|9.5|mountain|35|La Luz||
+|Feb 7|9.5|mountain|35|La Luz|**Day Early**|
 |Feb 10|13.1|interval|40|from house||
 |Feb 12|5.6|speed|40|from house||
 |Feb 15|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)||
