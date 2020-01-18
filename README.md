@@ -289,13 +289,12 @@ hills.
 |Jan 11|21.01|race|40|Bosque Bike Path|3:40:14, 144bpm, 10:29 min/mi|
 |Jan 13|13.12|interval|40.6|from house|2:28:36, 135bpm, 11:20 min/mi|
 |Jan 15|10.51|speed|40|from house|1:38:15, 151bpm, 9:20 min/mi|
-
+|Jan 18|9.43|mountain|35.4|La Luz|3:03:30, 127bpm, 19:28 min/mi (clip broke)|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 18|9.5|mountain|35|La Luz||
 |Jan 20|13.1|interval|40|from house||
 |Jan 22|11|speed|40|from house||
 |Jan 25|3.1|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)||
