@@ -290,13 +290,26 @@ hills.
 |Jan 13|13.12|interval|40.6|from house|2:28:36, 135bpm, 11:20 min/mi|
 |Jan 15|10.51|speed|40|from house|1:38:15, 151bpm, 9:20 min/mi|
 |Jan 18|9.43|mountain|35.4|La Luz|3:03:30, 127bpm, 19:28 min/mi (clip broke)|
+|Jan 20|13.1|no pack|0|from house|2:07:23, 141bpm, 9:42 min/mi|
+|Jan 23|7.67|fubar|40|from house|1:28:53, 134bpm, 11:34 min/mi|
+
+Descending down La Luz on Saturday, an important clip broke on my
+Osprey pack.  I wound up having to walk down.  I had already ordered a
+Kelty Tioga and knew it was going to be arriving Wednesday afternoon,
+so on Monday I did intervals, but without a pack and planned on doing
+my speed run on Thursday.  Well, my pack did arrive Wednesday, but I
+didn't unbox it until Thursday morning and then I didn't have time to
+adjust it properly, so I decided to just work and not run.  However, I
+couldn't concentrate and so I put the pack on and tried to do my run.
+It did not go well.  It turns out that I accidentally had too much
+caffeine when I woke up (4 double espressos instead of 2) and that
+caused a variety of problems too.  Anyway, after running 5.5 miles, I
+tucked my tail between my legs and walked home.
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 20|13.1|interval|40|from house||
-|Jan 22|11|speed|40|from house||
 |Jan 25|3.1|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)||
 |Jan 26|4|race|0|[Resolutions Stink!](https://www.facebook.com/events/2360150457583355/)||
 |Jan 27|13.1|interval|40|from house||
