@@ -293,6 +293,7 @@ hills.
 |Jan 20|13.1|no pack|0|from house|2:07:23, 141bpm, 9:42 min/mi|
 |Jan 23|7.67|fubar|40|from house|1:28:53, 134bpm, 11:34 min/mi|
 |Jan 25|3.0|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)|35:37, 150bpm, 11:52 min/mi|
+|Jan 26|3.76|race|0|[Resolutions Stink!](https://www.facebook.com/events/2360150457583355/)|[27:14](https://www.webscorer.com/racedetails?raceid=208671&did=233370&gender=M), 157bpm, 7:15 min/mi|
 
 Descending down La Luz on Saturday, an important clip broke on my
 Osprey pack.  I wound up having to walk down.  I had already ordered a
@@ -311,7 +312,6 @@ tucked my tail between my legs and walked home.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 26|4|race|0|[Resolutions Stink!](https://www.facebook.com/events/2360150457583355/)||
 |Jan 27|13.1|interval|40|from house||
 |Jan 29|11.5|speed|43|from house||
 |Feb 1|24|race|40|Bosque Bike Path||
