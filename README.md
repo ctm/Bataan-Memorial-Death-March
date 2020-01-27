@@ -263,7 +263,7 @@ hills.
 |Nov 23|15|race|40|Bosque Bike Path|2:32:29, 135bpm, 10:09 min/mi|
 |Nov 24|3.17|comfort|40|Bosque Bike Path|36:37, 119bpm, 11:33 min/mi|
 |Nov 27|7.01|speed|40|from house|1:04:20, 148bpm, 9:10 min/mi|
-|Nov 28|7.27|walk|40|from house w/Team RWB in snow|2:13:07, 109bm, 18:19 min/mi|
+|Nov 28|7.27|walk|40|from house w/Team RWB in snow|2:13:07, 109bpm, 18:19 min/mi|
 |Nov 29|4.08|speed|0|[Black Friday Turkey Trots](https://m.facebook.com/events/483889035551289?ref=page_internal&_rdr)|[30:13.0](https://www.webscorer.com/race?raceid=204331), 155bpm, 7:25 min/mi|
 |Nov 30|32.57|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=67798)|[6:01:51](http://ultrasignup.com/results_event.aspx?did=67798), 123bpm, 10:56 min/mi|
 |Dec 1|3.18|comfort|40|Alameda Open Space w/ Team RWB|37:16, 118bpm, 11:44 min/mi|
@@ -294,25 +294,26 @@ hills.
 |Jan 23|7.67|fubar|40|from house|1:28:53, 134bpm, 11:34 min/mi|
 |Jan 25|3.0|race|0|[Sandia Snowshoe Race](http://sandiasnowshoe.com)|35:37, 150bpm, 11:52 min/mi|
 |Jan 26|3.76|race|0|[Resolutions Stink!](https://www.facebook.com/events/2360150457583355/)|[27:14](https://www.webscorer.com/racedetails?raceid=208671&did=233370&gender=M), 157bpm, 7:15 min/mi|
+|Jan 27|13.11|interval|40|from house|2:22:05, 140bpm, 10:50 min/mi|
 
-Descending down La Luz on Saturday, an important clip broke on my
-Osprey pack.  I wound up having to walk down.  I had already ordered a
-Kelty Tioga and knew it was going to be arriving Wednesday afternoon,
-so on Monday I did intervals, but without a pack and planned on doing
-my speed run on Thursday.  Well, my pack did arrive Wednesday, but I
-didn't unbox it until Thursday morning and then I didn't have time to
-adjust it properly, so I decided to just work and not run.  However, I
-couldn't concentrate and so I put the pack on and tried to do my run.
-It did not go well.  It turns out that I accidentally had too much
-caffeine when I woke up (4 double espressos instead of 2) and that
-caused a variety of problems too.  Anyway, after running 5.5 miles, I
-tucked my tail between my legs and walked home.
+Descending down La Luz on Saturday, January 18th, an important clip
+broke on my Osprey pack.  I wound up having to walk down.  I had
+already ordered a Kelty Tioga and knew it was going to be arriving
+Wednesday afternoon, so on Monday I did intervals, but without a pack
+and planned on doing my speed run on Thursday.  Well, my pack did
+arrive Wednesday, but I didn't unbox it until Thursday morning and
+then I didn't have time to adjust it properly, so I decided to just
+work and not run.  However, I couldn't concentrate and so I put the
+pack on and tried to do my run.  It did not go well.  It turns out
+that I accidentally had too much caffeine when I woke up (4 double
+espressos instead of 2) and that caused a variety of problems too.
+Anyway, after running 5.5 miles, I tucked my tail between my legs and
+walked home.
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 27|13.1|interval|40|from house||
 |Jan 29|11.5|speed|43|from house||
 |Feb 1|24|race|40|Bosque Bike Path||
 |Feb 3|13.1|interval|40|from house||
@@ -330,7 +331,7 @@ tucked my tail between my legs and walked home.
 |Feb 29|9.5|mountain|35|La Luz||
 |Mar 2|6.5|interval(6)|40|from house||
 |Mar 4|6.5|speed|40|from house||
-|Mar 7|6|race|35|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)||
+|Mar 7|6|race|35|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)|_probably won't do, due to it being so close to BMDM_|
 |Mar 9|3.25|interval(3)|40|from house||
 |Mar 11|3.25|speed|40|from house||
 |Mar 15|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
@@ -340,12 +341,10 @@ tucked my tail between my legs and walked home.
 
 ### Packs
 
-I'm currently training with my Osprey search-and-rescue pack.  I have not
-yet sent my Goruck 20L back for repair, but I will do that soon.  It may
-take some time to get a replacement, but I need to get fit again before
-I try again to transition to my Goruck 20L.  This time I'll try without
-the hip belt which I think was counter-productive.
-
+I'm currently training with a new Kelty Tioga 5500, after breaking the clip
+on my Osprey search-and-rescue pack.  I have not yet sent my Goruck
+20L back for repair, nor have I sent in my Osprey.  I need to do both
+"soon", but have been distracted by my poker work.
 
 ### Tough Ruck Campaign
 
