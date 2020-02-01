@@ -296,6 +296,7 @@ hills.
 |Jan 26|3.76|race|0|[Resolutions Stink!](https://www.facebook.com/events/2360150457583355/)|[27:14](https://www.webscorer.com/racedetails?raceid=208671&did=233370&gender=M), 157bpm, 7:15 min/mi|
 |Jan 27|13.11|interval|40|from house|2:22:05, 140bpm, 10:50 min/mi|
 |Jan 29|11.5|speed|40.6|from house|1:55:33, 143bpm, 10:02 min/mi|
+|Feb 1|24.01|race|40.6|Bosque Bike Path|4:01:53, 142bpm, 10:04 min/mi|
 
 Descending down La Luz on Saturday, January 18th, an important clip
 broke on my Osprey pack.  I wound up having to walk down.  I had
@@ -323,7 +324,6 @@ pantyliners).  My February 1st run is going to be interesting.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 1|24|race|40|Bosque Bike Path||
 |Feb 3|13.1|interval|40|from house||
 |Feb 5|12|speed|40|from house||
 |Feb 7|9.5|mountain|35|La Luz|**Day Early**|
