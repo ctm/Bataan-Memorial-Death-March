@@ -297,34 +297,19 @@ hills.
 |Jan 27|13.11|interval|40|from house|2:22:05, 140bpm, 10:50 min/mi|
 |Jan 29|11.5|speed|40.6|from house|1:55:33, 143bpm, 10:02 min/mi|
 |Feb 1|24.01|race|40.6|Bosque Bike Path|4:01:53, 142bpm, 10:04 min/mi|
+|Feb 3|13.1|interval|40.1|from house|2:29:23, 135bpm, 11:24 min/mi|
 
 Descending down La Luz on Saturday, January 18th, an important clip
 broke on my Osprey pack.  I wound up having to walk down.  I had
-already ordered a Kelty Tioga and knew it was going to be arriving
-Wednesday afternoon, so on Monday I did intervals, but without a pack
-and planned on doing my speed run on Thursday.
-
-Well, my pack did arrive Wednesday, but I didn't unbox it until
-Thursday morning and then I didn't have time to adjust it properly, so
-I decided to just work and not run.  However, I couldn't concentrate
-and so I put the pack on and tried to do my run.  It did not go well.
-It turns out that I accidentally had too much caffeine when I woke up
-(4 double espressos instead of 2) and that caused a variety of
-problems too.  Anyway, after running 5.5 miles, I tucked my tail
-between my legs and walked home.
-
-On Monday, January 27th, I did a half marathon pack run with intervals
-in the middle.  I was supposed to do 12 1:15 all-outs, with 30 seconds
-of rest between them, but I accidentally did 14.  Unfortunately, I
-abraded enough of my skin that my Wednesday, January 29th speed run
-was slow due to the discomfort (even w/ caffeine, ibuprofen and 3
-pantyliners).  My February 1st run is going to be interesting.
+already ordered a Kelty Tioga and that's what I've been training on
+since.  It rubs me in different places than the Osprey does and that's
+sufficiently uncomfortable when running fast that I slow down here and
+there to avoid the discomfort.  Oh well.
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 3|13.1|interval|40|from house||
 |Feb 5|12|speed|40|from house||
 |Feb 7|9.5|mountain|35|La Luz|**Day Early**|
 |Feb 10|13.1|interval|40|from house||
