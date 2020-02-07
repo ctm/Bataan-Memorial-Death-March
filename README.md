@@ -299,6 +299,7 @@ hills.
 |Feb 1|24.01|race|40.6|Bosque Bike Path|4:01:53, 142bpm, 10:04 min/mi|
 |Feb 3|13.1|interval|40.1|from house|2:29:23, 135bpm, 11:24 min/mi|
 |Feb 5|12.0|speed|40|from house|1:53:50, 149bpm, 9:29 min/mi|
+|Feb 7|9.48|mountain|35|La Luz|2:32:47, 138bpm, 16:07 min/mi|
 
 Descending down La Luz on Saturday, January 18th, an important clip
 broke on my Osprey pack.  I wound up having to walk down.  I had
@@ -311,7 +312,6 @@ there to avoid the discomfort.  Oh well.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 7|9.5|mountain|35|La Luz|**Day Early**|
 |Feb 10|13.1|interval|40|from house||
 |Feb 12|5.6|speed|40|from house||
 |Feb 15|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)||
