@@ -300,19 +300,20 @@ hills.
 |Feb 3|13.1|interval|40.1|from house|2:29:23, 135bpm, 11:24 min/mi|
 |Feb 5|12.0|speed|40|from house|1:53:50, 149bpm, 9:29 min/mi|
 |Feb 7|9.48|mountain|35|La Luz|2:32:47, 138bpm, 16:07 min/mi|
+|Feb 10|8.88|interval|40|from house|1:38:27, 136bpm, 11:05 min/mi|
 
 Descending down La Luz on Saturday, January 18th, an important clip
 broke on my Osprey pack.  I wound up having to walk down.  I had
 already ordered a Kelty Tioga and that's what I've been training on
-since.  It rubs me in different places than the Osprey does and that's
-sufficiently uncomfortable when running fast that I slow down here and
-there to avoid the discomfort.  Oh well.
+since.  It rubbed me in different places than the Osprey does and that
+had been sufficiently uncomfortable when running fast to slow me down
+a bit the first few times I ran with it, but I'm *mostly* over that by
+now (and I'm letting other things slow me down).
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 10|13.1|interval|40|from house||
 |Feb 12|5.6|speed|40|from house||
 |Feb 15|43*|comfort|0|[Mount Taylor Winter Quadrathlon](http://www.mttaylorquad.org)||
 |Feb 17|6.5|interval(6)|40|from house||
