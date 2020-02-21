@@ -322,7 +322,7 @@ now (and I'm letting other things slow me down).
 |Feb 22|3|race|0|[V Day Run](https://www.facebook.com/events/2494537367250957/)||
 |Feb 24|13.1|interval|40|from house||
 |Feb 26|13.1|speed|40|from house||
-|Feb 29|9.5|mountain|35|La Luz||
+|Feb 29|5.0|mountain|35|La Luz||
 |Mar 2|6.5|interval(6)|40|from house||
 |Mar 4|6.5|speed|40|from house||
 |Mar 7|6|race|35|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)|_probably won't do, due to it being so close to BMDM_|
