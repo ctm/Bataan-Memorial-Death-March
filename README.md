@@ -325,7 +325,7 @@ now (and I'm letting other things slow me down).
 |Feb 29|5.0|mountain|35|La Luz||
 |Mar 2|6.5|interval(6)|40|from house||
 |Mar 4|6.5|speed|40|from house||
-|Mar 7|6|race|35|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)|_probably won't do, due to it being so close to BMDM_|
+|Mar 7|6|race|35|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)||
 |Mar 9|3.25|interval(3)|40|from house||
 |Mar 11|3.25|speed|40|from house||
 |Mar 15|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
