@@ -309,6 +309,7 @@ hills.
 |Feb 22|3.25|race|0|[V Day Run](https://www.facebook.com/events/2494537367250957/)|[24:51](https://www.webscorer.com/racedetails?raceid=211431&did=237678), 148bpm, 7:39 min/mi|
 |Feb 24|13.1|interval|41.3|from house|2:15:06, 142bpm, 10:19 min/mi|
 |Feb 26|13.11|speed|40|from house|2:02:48, 150bpm, 9:21 min/mi|
+|Feb 29|5.03|mountain|35.3|La Luz|1:08:31, 142bpm, 13:36 min/mi|
 
 Descending down La Luz on Saturday, January 18th, an important clip
 broke on my Osprey pack.  I wound up having to walk down.  I had
@@ -322,7 +323,6 @@ now (and I'm letting other things slow me down).
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 29|5.0|mountain|35|La Luz||
 |Mar 2|6.5|interval(6)|40|from house||
 |Mar 4|6.5|speed|40|from house||
 |Mar 7|6|race|35|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)||
