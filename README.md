@@ -312,7 +312,8 @@ hills.
 |Feb 29|5.03|mountain|35.3|La Luz|1:08:31, 142bpm, 13:36 min/mi|
 |Mar 2|6.56|interval(6)|40.3|from house|1:08:22, 141bpm, 10:25 min/mi|
 |Mar 4|6.56|speed|40.3|from house|58:06, 152bpm, 8:51 min/mi|
-|Mar 7|6.2|race|35.3?|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)|1:00:14, 154bpm, 9:42 min/mi|
+|Mar 7|6.2|race|35.3?|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)|[1:00:14](https://www.athlinks.com/event/166931/results/Event/890663/Course/1719862/Bib/381), 154bpm, 9:42 min/mi|
+|Mar 9|3.28|interval(3)|41.5|from house|34:47, 136bpm, 10:35 min/mi|
 
 Descending down La Luz on Saturday, January 18th, an important clip
 broke on my Osprey pack.  I wound up having to walk down.  I had
@@ -326,7 +327,6 @@ now (and I'm letting other things slow me down).
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Mar 9|3.25|interval(3)|40|from house||
 |Mar 11|3.25|speed|40|from house||
 |Mar 15|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
 |Mar 28|3|race|0|[BBT Crowning](https://www.abqroadrunners.com/burque-brewery-tour.html)||
