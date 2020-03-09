@@ -315,13 +315,9 @@ hills.
 |Mar 7|6.2|race|35.3?|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)|[1:00:14](https://www.athlinks.com/event/166931/results/Event/890663/Course/1719862/Bib/381), 154bpm, 9:42 min/mi|
 |Mar 9|3.28|interval(3)|41.5|from house|34:47, 136bpm, 10:35 min/mi|
 
-Descending down La Luz on Saturday, January 18th, an important clip
-broke on my Osprey pack.  I wound up having to walk down.  I had
-already ordered a Kelty Tioga and that's what I've been training on
-since.  It rubbed me in different places than the Osprey does and that
-had been sufficiently uncomfortable when running fast to slow me down
-a bit the first few times I ran with it, but I'm *mostly* over that by
-now (and I'm letting other things slow me down).
+Descending La Luz on Saturday, January 18th, an important clip broke on
+my Osprey pack.  I wound up having to walk down.  I had already
+ordered a Kelty Tioga and that's what I've been training on since.
 
 ### Planned
 
@@ -335,10 +331,11 @@ now (and I'm letting other things slow me down).
 
 ### Packs
 
-I'm currently training with a new Kelty Tioga 5500, after breaking the clip
-on my Osprey search-and-rescue pack.  I have not yet sent my Goruck
-20L back for repair, nor have I sent in my Osprey.  I need to do both
-"soon", but have been distracted by my poker work.
+Since late January, I've trained with a (brand new at the time) Kelty
+Tioga 5500, after breaking the clip on my Osprey search-and-rescue
+pack.  I have not yet sent my Goruck 20L back for repair, nor have I
+sent in my Osprey.  I need to do both "soon", but have been distracted
+by my poker work.
 
 ### Tough Ruck Campaign
 
