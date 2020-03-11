@@ -1,10 +1,13 @@
 # Bataan Memorial Death March and Tough Ruck training
 
-My (Cliff Matthews) training plan for the 2020 [Bataan Memorial Death
+My (Cliff Matthews) training log for the 2020 [Bataan Memorial Death
 March](http://bataanmarch.com) (civilian heavy), similar to what I did
-for [2017](2017.md), [2018](2018.md) and [2019](2019.md).  In addition
-to BMDM 2020, I've registered for the [Tough
-Ruck](http://www.toughruck.org/).
+for [2017](2017.md), [2018](2018.md) and [2019](2019.md).
+
+On March 11th, the BMDM 2020 was canceled due to Covid-19.  However,
+in addition to BMDM 2020, I'm registered for the [Tough
+Ruck](http://www.toughruck.org/), but that too will quite possibly be
+canceled.
 
 ## What is the BMDM?
 
@@ -324,10 +327,10 @@ ordered a Kelty Tioga and that's what I've been training on since.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Mar 15|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)||
+|Mar 15|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)|**CANCELED**|
 |Mar 28|3|race|0|[BBT Crowning](https://www.abqroadrunners.com/burque-brewery-tour.html)||
-|Apr 19|26.2|race|35|[Tough Ruck](http://www.toughruck.org/)||
-|Apr 20|26.2|comfort|0|[Boston Marathon](https://www.baa.org/races/boston-marathon)||
+|Apr 19|26.2|race|35|[Tough Ruck](http://www.toughruck.org/)|_may be canceled_|
+|Apr 20|26.2|comfort|0|[Boston Marathon](https://www.baa.org/races/boston-marathon)|_may be canceled_|
 
 ### Packs
 
