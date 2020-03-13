@@ -9,6 +9,18 @@ in addition to BMDM 2020, I'm registered for the [Tough
 Ruck](http://www.toughruck.org/), but that too will quite possibly be
 canceled.
 
+With BMDM 2020 canceled, I'm going to run 26.2 miles on the Bosque
+Bike Path on Saturday, March 14th, with my pack weighing 35 pounds,
+not including the extra Tailwind water that I'll have in a bladder so
+I can do this self-supported.  I will not take ibuprofen, nor will I
+take as much caffeine as I normally do.  I will be starting with minor
+discomfort in my right foot which I expect to get better as I run but
+to be significantly worse after I finish.
+
+On March 13th, the Boston Marathon has been postponed to September
+14th.  Although it hasn't yet been announced, I believe that means the
+Tough Ruck will either be postponed or canceled.
+
 ## What is the BMDM?
 
 The Bataan Memorial Death March is a tribute to the men and women who
@@ -327,10 +339,10 @@ ordered a Kelty Tioga and that's what I've been training on since.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Mar 15|26.2|race|35|[Bataan Memorial Death March](http://bataanmarch.com/register/civilian-individual/)|**CANCELED**|
+|Mar 14|26.2|race|35|Bosque Bike Path -- BMDM Substitute||
 |Mar 28|3|race|0|[BBT Crowning](https://www.abqroadrunners.com/burque-brewery-tour.html)||
-|Apr 19|26.2|race|35|[Tough Ruck](http://www.toughruck.org/)|_may be canceled_|
-|Apr 20|26.2|comfort|0|[Boston Marathon](https://www.baa.org/races/boston-marathon)|_may be canceled_|
+|Sep 13|26.2|race|35|[Tough Ruck](http://www.toughruck.org/)||
+|Sep 14|26.2|comfort|0|[Boston Marathon](https://www.baa.org/races/boston-marathon)||
 
 ### Packs
 
