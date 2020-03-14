@@ -1,25 +1,26 @@
 # Bataan Memorial Death March and Tough Ruck training
 
-My (Cliff Matthews) training log for the 2020 [Bataan Memorial Death
-March](http://bataanmarch.com) (civilian heavy), similar to what I did
-for [2017](2017.md), [2018](2018.md) and [2019](2019.md).
+My (Cliff Matthews) training log for what would have been the 2020
+[Bataan Memorial Death March](http://bataanmarch.com) (civilian
+heavy), similar to what I did for [2017](2017.md), [2018](2018.md) and
+[2019](2019.md).
 
 On March 11th, the BMDM 2020 was canceled due to Covid-19.  However,
 in addition to BMDM 2020, I'm registered for the [Tough
-Ruck](http://www.toughruck.org/), but that too will quite possibly be
-canceled.
+Ruck](http://www.toughruck.org/), but that too has been postponed.
 
-With BMDM 2020 canceled, I'm going to run 26.2 miles on the Bosque
-Bike Path on Saturday, March 14th, with my pack weighing 35 pounds,
-not including the extra Tailwind water that I'll have in a bladder so
-I can do this self-supported.  I will not take ibuprofen, nor will I
-take as much caffeine as I normally do.  I will be starting with minor
-discomfort in my right foot which I expect to get better as I run but
-to be significantly worse after I finish.
+With BMDM 2020 canceled, I ran 26.2 miles on the Bosque Bike Path on
+Saturday, March 14th, with my pack weighing 35.4 pounds, not including
+a bladder and 60 oz. of water with 9 scoops of Tailwind (needed since
+this was self-supported).  Although I initially planned on not taking
+ibuprofen, I changed my mind since I could not sleep well the night
+before due to flu-like body aches.  Similarly, I hadn't planned on
+taking my full complement of caffeine, but I wound up doing so after
+all.
 
-On March 13th, the Boston Marathon has been postponed to September
-14th.  Although it hasn't yet been announced, I believe that means the
-Tough Ruck will either be postponed or canceled.
+I started with minor discomfort in my right foot which sort of got
+better as I ran but kind of felt like it was on fire for a while.
+
 
 ## What is the BMDM?
 
@@ -330,6 +331,7 @@ hills.
 |Mar 7|6.2|race|35.3?|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)|[1:00:14](https://www.athlinks.com/event/166931/results/Event/890663/Course/1719862/Bib/381), 154bpm, 9:42 min/mi|
 |Mar 9|3.28|interval(3)|41.5|from house|34:47, 136bpm, 10:35 min/mi|
 |Mar 11|3.31|speed|41.0|from house|28:59, 157bpm, 8:44 min/mi|
+|Mar 14|26.21|race|35.4|Bosque Bike Path -- BMDM Substitute|4:29:27, 143bpm, 10:17 min/mi|
 
 Descending La Luz on Saturday, January 18th, an important clip broke on
 my Osprey pack.  I wound up having to walk down.  I had already
@@ -339,7 +341,6 @@ ordered a Kelty Tioga and that's what I've been training on since.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Mar 14|26.2|race|35|Bosque Bike Path -- BMDM Substitute||
 |Mar 28|3|race|0|[BBT Crowning](https://www.abqroadrunners.com/burque-brewery-tour.html)||
 |Sep 13|26.2|race|35|[Tough Ruck](http://www.toughruck.org/)||
 |Sep 14|26.2|comfort|0|[Boston Marathon](https://www.baa.org/races/boston-marathon)||
