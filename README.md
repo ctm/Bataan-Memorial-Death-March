@@ -334,6 +334,7 @@ hills.
 |Mar 14|26.21|race|35.4|Bosque Bike Path -- BMDM Substitute|4:29:27, 143bpm, 10:17 min/mi|
 |Apr 1|13.1|comfort|32|from house|2:56:29, 130bpm, 13:28 min/mi|
 |Apr 4|7.46|mountain|32|up old La Luz to plate, down new|2:06:58, 144bpm, 16:59 min/mi|
+|Apr 8|13.11|comfort|38.8|from house|2:26:38, 130bpm, 11:11 min/mi|
 
 Descending La Luz on Saturday, January 18th, an important clip broke on
 my Osprey pack.  I wound up having to walk down.  I had already
@@ -343,8 +344,10 @@ ordered a Kelty Tioga and that's what I've been training on since.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Sep 13|26.2|race|35|Bosque Bike Path -- [Tough Ruck](http://www.toughruck.org/) Substitute||
-|Sep 14|26.2|comfort|0|Bosque Bike Path -- [Boston Marathon](https://www.baa.org/races/boston-marathon) Substitute||
+|Apr 19|26.2|race|35|Bosque Bike Path -- [Tough Ruck](http://www.toughruck.org/) Substitute||
+|Apr 20|26.2|comfort|0|Bosque Bike Path -- [Boston Marathon](https://www.baa.org/races/boston-marathon) Substitute||
+|Sep 13|26.2|race|35|[Tough Ruck](http://www.toughruck.org/)|speculative date|
+|Sep 14|26.2|comfort|0|[Boston Marathon](https://www.baa.org/races/boston-marathon)||
 
 ### Packs
 
