@@ -345,7 +345,6 @@ ordered a Kelty Tioga and that's what I've been training on since.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Apr 13|3.28|interval(3)|40|from house||
 |Apr 15|3.28|speed|40|from house||
 |Apr 19|26.2|race|35|Bosque Bike Path -- [Tough Ruck](http://www.toughruck.org/) Substitute||
 |Apr 20|26.2|comfort|0|Bosque Bike Path -- [Boston Marathon](https://www.baa.org/races/boston-marathon) Substitute||
