@@ -218,7 +218,7 @@ hills.
 |Apr 6|6.63|race|0|[Berta Run](https://www.abqroadrunners.com/2019-berta-run.html)|1:00:24, 148bpm, 9:06 min/mi, [1st overall](https://www.abqroadrunners.com/fun-runs-freeforall.html)|
 |Apr 7|6.00|race|0|[Forever Young](https://www.abqroadrunners.com/forever-young1.html)|48:05, 158bpm, 8:00 min/mi, [1st Grandmaster](http://www.abqroadrunners.com/uploads/6/7/7/6/6776981/2019_forever_young_results_by_age_group_men_rev.pdf)|
 |Apr 15|26.2|race|0|[Boston Marathon](https://www.baa.org/races/boston-marathon)|[3:45:08](https://registration.baa.org/2019/cf/Public/iframe_ResultsSearch.cfm?mode=entry&FirstName=clifford&LastName=matthews), 153bpm, 8:30 min/mi|
-|Apr 27|32.21|race|0|[Cedro Peak 50k](https://cedropeaktrailevent.wordpress.com/)|[6:03:51](http://ultrasignup.com/results_event.aspx?did=60031#id220546), 153bpm, 8:30 min/mi, 1st M50-59|
+|Apr 27|32.21|race|0|[Cedro Peak 50k](https://cedropeaktrailevent.wordpress.com/)|[6:03:51](http://ultrasignup.com/results_event.aspx?did=60031#id220546), 153bpm, 11:17 min/mi, 1st M50-59|
 |Apr 28|104.64*|comfort|0|[Tour of the Rio Grande](http://www.touroftheriogrande.com/)|6:25:26, 126bpm, 16.3 mph, *[bike ride](https://www.facebook.com/touroftheriogrande) w/train interruption & detour|
 |May 5|13.1|race|0|[Run for the Zoo half marathon](http://runforthezoo.org/)|1:37:35, 155bpm, 7:25 min/mi, [1st M55-59](https://www.athlinks.com/event/34346/results/Event/729962/Course/1205623/Division/1074219/Results)|
 |May 8|15.50|comfort|40|from house|2:55:07, 129bpm, 11:17 min/mi|
@@ -336,6 +336,7 @@ hills.
 |Apr 4|7.46|mountain|32|up old La Luz to plate, down new|2:06:58, 144bpm, 16:59 min/mi|
 |Apr 8|13.11|comfort|38.8|from house|2:26:38, 130bpm, 11:11 min/mi|
 |Apr 11|5.42|mountain|36.9|old La Luz to plate and back|1:57:55, 131bpm, 21:44 min/mi|
+|Apr 15|3.28|speed|40.3|from house|28:18, 154bpm, 8:37 min/mi|
 
 Descending La Luz on Saturday, January 18th, an important clip broke on
 my Osprey pack.  I wound up having to walk down.  I had already
@@ -345,10 +346,9 @@ ordered a Kelty Tioga and that's what I've been training on since.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Apr 15|3.28|speed|40|from house||
 |Apr 19|26.2|race|35|Bosque Bike Path -- [Tough Ruck](http://www.toughruck.org/) Substitute||
 |Apr 20|26.2|comfort|0|Bosque Bike Path -- [Boston Marathon](https://www.baa.org/races/boston-marathon) Substitute||
-|Sep 13|26.2|race|35|[Tough Ruck](http://www.toughruck.org/)|speculative date|
+|Sep 13|26.2|race|35|[Tough Ruck](http://www.toughruck.org/)||
 |Sep 14|26.2|comfort|0|[Boston Marathon](https://www.baa.org/races/boston-marathon)||
 
 ### Packs
