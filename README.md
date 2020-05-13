@@ -342,6 +342,7 @@ hills.
 |Apr 19|9.35|comfort|0|from house -- [Boston Marathon](https://www.baa.org/races/boston-marathon) Substitute part II|1:53:01, 129bpm, 12:06 min/mi|
 |Apr 29|13.11|comfort|41.5|from house|2:35:35, 130bpm, 11:51 min/mi|
 |May 6|13.10|comfort|42.0|from house|2:35:20, 130bpm, 11:50 min/mi|
+|May 13|13.10|comfort|42.5|from house|2:45:55, 142bpm, 12:39 min/mi|
 
 Descending La Luz on Saturday, January 18th, an important clip broke on
 my Osprey pack.  I wound up having to walk down.  I had already
