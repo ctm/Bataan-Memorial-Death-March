@@ -346,6 +346,7 @@ hills.
 |May 20|13.11|> comfort|42.0|from house|2:22:54, 139bpm, 10:53 min/mi|
 |May 23|7.48|mountain|36.0|up old La Luz to plate, down new|2:05:12, 139bpm, 16:44 min/mi|
 |May 20|13.11|comfort|42.0|from house|2:40:24, 130bpm, 12:14 min/mi|
+|Jun 3|13.11|comfort|42.1|from house|2:35:58, 129bpm, 11:54 min/mi|
 
 Descending La Luz on Saturday, January 18th, an important clip broke on
 my Osprey pack.  I wound up having to walk down.  I had already
@@ -356,7 +357,6 @@ ordered a Kelty Tioga and that's what I've been training on since.
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
 |Sep 13|26.2|race|35|[Tough Ruck](http://www.toughruck.org/)||
-|Sep 14|26.2|comfort|0|[Boston Marathon](https://www.baa.org/races/boston-marathon)||
 
 ### Packs
 
