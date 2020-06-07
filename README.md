@@ -347,6 +347,9 @@ hills.
 |May 23|7.48|mountain|36.0|up old La Luz to plate, down new|2:05:12, 139bpm, 16:44 min/mi|
 |May 20|13.11|comfort|42.0|from house|2:40:24, 130bpm, 12:14 min/mi|
 |Jun 3|13.11|comfort|42.1|from house|2:35:58, 129bpm, 11:54 min/mi|
+|Jun 7|1.91|comfort|40.7|from house|21:10, 126bpm, 11:04 min/mi|
+|Jun 7|3.35|comfort|40.7|Around AA|40:23, 125bpm, 12:03 min/mi|
+|Jun 7|7.72|comfort|40.7|2xAA back to house|1:57:40, 110bpm, 15:13 min/mi|
 
 Descending La Luz on Saturday, January 18th, an important clip broke on
 my Osprey pack.  I wound up having to walk down.  I had already
