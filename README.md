@@ -350,6 +350,7 @@ hills.
 |Jun 7|1.91|comfort|40.7|from house|21:10, 126bpm, 11:04 min/mi|
 |Jun 7|3.35|comfort|40.7|Around AA|40:23, 125bpm, 12:03 min/mi|
 |Jun 7|7.72|comfort|40.7|2xAA back to house|1:57:40, 110bpm, 15:13 min/mi|
+|Jun 10|8.89|comfort|42.0|from house|1:36:51, 130bpm, 10:53 min/mi|
 
 Descending La Luz on Saturday, January 18th, an important clip broke on
 my Osprey pack.  I wound up having to walk down.  I had already
