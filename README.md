@@ -7,7 +7,10 @@ heavy), similar to what I did for [2017](2017.md), [2018](2018.md) and
 
 On March 11th, the BMDM 2020 was canceled due to Covid-19.  However,
 in addition to BMDM 2020, I'm registered for the [Tough
-Ruck](http://www.toughruck.org/), but that too has been postponed.
+Ruck](http://www.toughruck.org/), but that too was postponed then
+turned into a virtual event (and I'm not participating in the virtual
+event, seeing how I did a substitute before the virtual event was
+announced).
 
 With BMDM 2020 canceled, I ran 26.2 miles on the Bosque Bike Path on
 Saturday, March 14th, with my pack weighing 35.4 pounds, not including
@@ -357,12 +360,6 @@ Descending La Luz on Saturday, January 18th, an important clip broke on
 my Osprey pack.  I wound up having to walk down.  I had already
 ordered a Kelty Tioga and that's what I've been training on since.
 
-### Planned
-
-|Date|Miles|Pace|Pounds|Where|Notes|
-|----|-----|----|------|-----|-----|
-|Sep 13|26.2|race|35|[Tough Ruck](http://www.toughruck.org/)||
-
 ### Packs
 
 Since late January, I've trained with a (brand new at the time) Kelty
@@ -370,13 +367,3 @@ Tioga 5500, after breaking the clip on my Osprey search-and-rescue
 pack.  I have not yet sent my Goruck 20L back for repair, nor have I
 sent in my Osprey.  I need to do both "soon", but have been distracted
 by my poker work.
-
-### Tough Ruck Campaign
-
-[My Tough Ruck
-Campaign](https://charity.gofundme.com/o/en/campaign-manager/edit/cliffmatthews/gratitude-higher-than-my-expectations/campaign)
-is named "Gratitude higher than my expectations" which is a phrase
-that comes from Ray Wylie Hubbard's ["Mother
-Blue's"](https://www.youtube.com/watch?v=rIQVG0Bcu6w).  I have no
-association with RWH, other than as an anonymous fan, but I am very
-grateful and honored.
