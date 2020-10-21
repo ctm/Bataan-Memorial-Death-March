@@ -363,6 +363,7 @@ hills.
 |Sep 16|13.11|> comfort|42.6|from house|2:31:40, 135bpm, 11:33 min/mi| 
 |Sep 23|13.11|> comfort|42.5|from house|2:25:08, 144bpm, 11:04 min/mi| 
 |Sep 30|6.55|> comfort|42.5|from house|1:13:09, 142bpm, 11:09 min/mi| 
+|Oct 21|6.55|> comfort|42.0|from house|1:09:53, 142bpm, 10:39 min/mi| 
 
 Descending La Luz on Saturday, January 18th, an important clip broke on
 my Osprey pack.  I wound up having to walk down.  I had already
