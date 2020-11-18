@@ -185,6 +185,7 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Nov 4|7.86|< comfort|40.9|from house|1:41:50, 125bpm, 12:56 min/mi|
 |Nov 11|13.1|< comfort|41.0|from house|2:49:10, 116bpm, 12:54 min/mi|
 |Nov 11|1.13|< comfort|41.0|to house|18:37, 105bpm, 16:28 min/mi|
+|Nov 18|6.00|speed|40.6|from house|56:39, 152bpm, 9:25 min/mi|
 
 ### Planned
 
@@ -196,7 +197,6 @@ aggressive schedule, considering.
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Nov 18|6|speed|40|from house||
 |Nov 21|9.5|mountain|35|La Luz||
 |Nov 25|6.5|speed|40|from house||
 |Dec 2|7|speed|40|from house||
