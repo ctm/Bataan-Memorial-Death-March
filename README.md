@@ -190,42 +190,44 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 
 ### Planned
 
-This table does not yet include my every-other week Monday Intervals
-with a pack.  My left foot is still slightly sore from some ultras I
-ran, starting with the Moab 240 on October 9th.  I'm hoping to be able
-to start doing them on Monday, November 23rd, but that's a fairly
-aggressive schedule, considering.
-
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
 |Nov 25|6.5|speed|40|from house||
+|Nov 28|32|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=80150) Substitute|I plan on running the course anyway|
+|Nov 30|13.1|interval|35|from house||
 |Dec 2|7|speed|40|from house||
 |Dec 5|15|race|40|Bosque Bike Path||
 |Dec 9|7.5|speed|40|from house||
 |Dec 12|9.5|mountain|35|La Luz||
+|Dec 14|13.1|interval|35|from house||
 |Dec 16|8|speed|40|from house||
 |Dec 19|18|race|40|Bosque Bike Path||
 |Dec 23|8.5|speed|40|from house||
 |Dec 26|9.5|mountain|35|La Luz||
+|Dec 28|13.1|interval|35|from house||
 |Dec 30|9|speed|40|from house||
-|Jan 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|[_unannounced so far_|
+|Jan 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|_unannounced so far_|
 |Jan 3|21|race|40|Bosque Bike Path|Sunday, since I have a 50k on the 1st|
 |Jan 6|9.5|speed|40|from house||
 |Jan 9|9.5|mountain|35|La Luz||
+|Jan 11|13.1|interval|35|from house||
 |Jan 13|10|speed|40|from house||
 |Jan 16|21*|race|40|Bosque Bike Path|*or 24 if I'm feeling frisky|
 |Jan 20|10.5|speed|40|from house||
+|Jan 25|13.1|interval|35|from house||
 |Jan 23|9.5|mountain|35|La Luz||
 |Jan 27|11|speed|40|from house||
 |Jan 30|24|race|40|Bosque Bike Path||
 |Feb 3|11.5|speed|40|from house||
 |Feb 6|9.5|mountain|35|La Luz||
+|Feb 8|13.1|interval|35|from house||
 |Feb 10|12|speed|40|from house||
 |Feb 13|10|race|0|[Mt. Taylor Winter Quadrathlon](http://www.mttaylorquad.org/)|_may not happen_|
 |Feb 17|12.5|speed|40|from house||
 |Feb 20|24|race|40|Bosque Bike Path||
 |Feb 24|13|speed|40|from house||
 |Feb 27|9.5|mountain|35|La Luz||
+|Mar 1|13.1|interval|35|from house||
 |Mar 3|13.5|speed|40|from house||
 |Mar 6|12|race|40|Bosque Bike Path||
 |Mar 10|6.56|speed|40|from house||
