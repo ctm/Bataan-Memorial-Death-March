@@ -190,18 +190,18 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Nov 25|6.51|speed|40.6|from house|59:16, 148bpm, 9:06 min/mi|
 |Nov 28|31.23|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=80150) Substitute|5:51:47, 118bpm, 11:16 min/mi|
 |Nov 30|8.86|interval|40.8|from house|1:31:26, 137bpm, 10:19 min/mi|
+|Dec 2|7.00|speed|40.4|from house|1:04:15, 149bpm, 9:11 min/mi|
 
 ### Most Recent
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Dec 2|7.00|speed|40.4|from house|1:04:15, 149bpm, 9:11 min/mi|
+|Dec 5|15.00|race|41.2|Bosque Bike Path|2:19:12, 142bpm, 9:16 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Dec 5|15|race|40|Bosque Bike Path||
 |Dec 9|7.5|speed|40|from house||
 |Dec 12|9.5|mountain|35|La Luz||
 |Dec 14|13.1|interval|40|from house||
