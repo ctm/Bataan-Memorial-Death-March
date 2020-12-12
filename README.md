@@ -192,18 +192,18 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Nov 30|8.86|interval|40.8|from house|1:31:26, 137bpm, 10:19 min/mi|
 |Dec 2|7.00|speed|40.4|from house|1:04:15, 149bpm, 9:11 min/mi|
 |Dec 5|15.00|race|41.2|Bosque Bike Path|2:19:12, 142bpm, 9:16 min/mi|
+|Dec 9|7.51|speed|40.5|from house|1:06:57, 144bpm, 8:55 min/mi|
 
 ### Most Recent
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Dec 9|7.51|speed|40.5|from house|1:06:57, 144bpm, 8:55 min/mi|
+|Dec 12|9.53|mountain|37.9|La Luz|2:55:08, 129bpm, 18:21 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Dec 12|9.5|mountain|35|La Luz||
 |Dec 14|13.1|interval|40|from house||
 |Dec 16|8|speed|40|from house||
 |Dec 19|18|race|40|Bosque Bike Path||
