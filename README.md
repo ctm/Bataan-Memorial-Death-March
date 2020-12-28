@@ -1,10 +1,14 @@
 # Bataan Memorial Death March and Tough Ruck training
 
-My (Cliff Matthews) training plan and log for either the 2021 [Bataan
-Memorial Death March](http://bataanmarch.com) (civilian heavy) or a
-substitute to be held on the same day in Albuquerque.  This is similar
-to what I did for [2017](2017.md), [2018](2018.md) and
-[2019](2019.md).
+My (Cliff Matthews) training plan and log for a 2021 [Bataan Memorial
+Death March](http://bataanmarch.com) (civilian heavy) substitute that
+I'll run on Sunday, March 21st in Albuquerque.  This is similar to
+what I did for [2017](2017.md), [2018](2018.md), [2019](2019.md) and
+[2020](2020.md).
+
+I do not plan on doing the virtual BMDM, but I am exploring setting up
+aid stations to help people who want to do it, probably on either (or
+both) Saturday, April 10th or Sunday, April 11th.
 
 ## What is the BMDM?
 
@@ -197,21 +201,21 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Dec 14|13.11|interval|40.7|from house|2:20:33, 130bpm, 10:43 min/mi|
 |Dec 16|8.00|speed|41.5|from house|1:11:43, 150bpm, 8:57 min/mi|
 |Dec 19|18.01|race|42.7|Bosque Bike Path|2:48:10, 140bpm, 9:20 min/mi|
+|Dec 23|8.51|speed|40.6|from house|1:15:08, 147bpm, 8:49 min/mi|
+|Dec 26|9.46|mountain|35.0|La Luz|2:24:01, 132bpm, 15:13 min/mi|
 
 ### Most Recent
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Dec 23|8.51|speed|40.6|from house|1:15:08, 147bpm, 8:49 min/mi|
+|Dec 28|13.11|interval|40|from house|2:24:43, 130bpm, 11:02 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Dec 26|9.5|mountain|35|La Luz||
-|Dec 28|13.1|interval|40|from house||
 |Dec 30|9|speed|40|from house||
-|Jan 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|_unannounced so far_|
+|Jan 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|_unofficial and self-supported_|
 |Jan 3|21|race|40|Bosque Bike Path|Sunday, since I have a 50k on the 1st|
 |Jan 6|9.5|speed|40|from house||
 |Jan 9|9.5|mountain|35|La Luz||
