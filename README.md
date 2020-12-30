@@ -203,18 +203,19 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Dec 19|18.01|race|42.7|Bosque Bike Path|2:48:10, 140bpm, 9:20 min/mi|
 |Dec 23|8.51|speed|40.6|from house|1:15:08, 147bpm, 8:49 min/mi|
 |Dec 26|9.46|mountain|35.0|La Luz|2:24:01, 132bpm, 15:13 min/mi|
+|Dec 28|13.11|interval|40|from house|2:24:43, 130bpm, 11:02 min/mi|
 
 ### Most Recent
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Dec 28|13.11|interval|40|from house|2:24:43, 130bpm, 11:02 min/mi|
+|Dec 30|9|speed|41.6|from house|1:19:57*, 147bpm, 8:53 min/mi|
+||||||*forgot to turn on watch, all values approximate|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Dec 30|9|speed|40|from house||
 |Jan 1|31|comfort|0|[Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|_unofficial and self-supported_|
 |Jan 3|21|race|40|Bosque Bike Path|Sunday, since I have a 50k on the 1st|
 |Jan 6|9.5|speed|40|from house||
