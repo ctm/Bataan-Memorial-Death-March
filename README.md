@@ -222,7 +222,7 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Jan 9|9.5|mountain|35|La Luz||
 |Jan 11|13.1|interval|40|from house||
 |Jan 13|10|speed|40|from house||
-|Jan 16|21*|race|40|Bosque Bike Path|*or 24 if I'm feeling frisky|
+|Jan 16|24*|race|40|Bosque Bike Path|*or 21 if I'm feeling lazy|
 |Jan 20|10.5|speed|40|from house||
 |Jan 25|13.1|interval|40|from house||
 |Jan 23|9.5|mountain|35|La Luz||
@@ -232,7 +232,7 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Feb 6|9.5|mountain|35|La Luz||
 |Feb 8|13.1|interval|40|from house||
 |Feb 10|12|speed|40|from house||
-|Feb 13|10|race|0|[Mt. Taylor Winter Quadrathlon](http://www.mttaylorquad.org/)|_may not happen_|
+|Feb 13|31|race|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=80150)|_rescheduled from November 28th_|
 |Feb 17|12.5|speed|40|from house||
 |Feb 20|24|race|40|Bosque Bike Path||
 |Feb 24|13|speed|40|from house||
