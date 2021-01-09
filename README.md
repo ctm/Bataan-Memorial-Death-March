@@ -1,4 +1,4 @@
-# Bataan Memorial Death March and Tough Ruck training
+# Bataan Memorial Death March (and Tough Ruck?) training
 
 My (Cliff Matthews) training plan and log for a 2021 [Bataan Memorial
 Death March](http://bataanmarch.com) (civilian heavy) substitute that
@@ -6,9 +6,16 @@ I'll run on Sunday, March 21st in Albuquerque.  This is similar to
 what I did for [2017](2017.md), [2018](2018.md), [2019](2019.md) and
 [2020](2020.md).
 
-I do not plan on doing the virtual BMDM, but I am exploring setting up
-aid stations to help people who want to do it, probably on either (or
-both) Saturday, April 10th or Sunday, April 11th.
+I do not plan on doing the virtual BMDM, but I, and others, will be
+setting up aid stations to help people who want to do it on Sunday,
+April 11th.  The start will be the Alameda Open Space, and
+participants will walk, hike, ruck and/or run four miles down the bike
+path, turn around and then do that same out and back two more times,
+then head down about a mile and back so that the total distance will
+be 26.2 miles.  This route allows people to use the toilets every
+eight miles.  We'll have an aid station at the beginning and
+turnaround and probably one more in between.  More details will be
+available as we get closer to April 11th.
 
 ## What is the BMDM?
 
@@ -208,18 +215,18 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 ||||||*forgot to turn on watch, all values approximate|
 |Jan 1|31|comfort|0|[Unofficial Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|6:18:35, 127bpm, 12:28 min/mi|
 |Jan 3|21.00|race|41.2|Bosque Bike Path|3:19:05, 136bpm, 9:28 min/mi|
+|Jan 6|9.51|speed|40.0|from house|1:25:41, 147bpm, 9:00 min/mi|
 
 ### Most Recent
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 6|9.51|speed|40.0|from house|1:25:41, 147bpm, 9:00 min/mi|
+|Jan 9|9.50|mountain|35.5|La Luz|2:21:09, 132bpm, 14:51 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 9|9.5|mountain|35|La Luz||
 |Jan 11|13.1|interval|40|from house||
 |Jan 13|10|speed|40|from house||
 |Jan 16|24*|race|40|Bosque Bike Path|*or 21 if I'm feeling lazy|
