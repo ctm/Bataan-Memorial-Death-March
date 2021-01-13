@@ -231,8 +231,8 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |----|-----|----|------|-----|-----|
 |Jan 16|24*|race|40|Bosque Bike Path|*or 21 if I'm feeling lazy|
 |Jan 20|10.5|speed|40|from house||
-|Jan 25|13.1|interval|40|from house||
 |Jan 23|9.5|mountain|35|La Luz||
+|Jan 25|13.1|interval|40|from house||
 |Jan 27|11|speed|40|from house||
 |Jan 30|24|race|40|Bosque Bike Path||
 |Feb 3|11.5|speed|40|from house||
