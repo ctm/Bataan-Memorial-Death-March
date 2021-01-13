@@ -223,7 +223,7 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 13|10.00|speed|40.4|from house|1:27:06, 151bpm, 8:42 min/mi|
+|Jan 13|10.00|speed|40.4|from house|1:27:06, 149bpm, 8:42 min/mi|
 
 ### Planned
 
