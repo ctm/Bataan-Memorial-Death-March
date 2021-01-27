@@ -241,6 +241,7 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Feb 8|13.1|interval|40|from house||
 |Feb 10|12|speed|40|from house||
 |Feb 13|31|race|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=80150)|_rescheduled from November 28th_|
+|Feb 15|13.1|_maybe_ interval|40|from house|_will do pack interval if not too beaten up_|
 |Feb 17|12.5|speed|40|from house||
 |Feb 20|24|race|40|Bosque Bike Path||
 |Feb 24|13|speed|40|from house||
