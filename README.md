@@ -222,19 +222,19 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Jan 16|24.01|race|40.7|Bosque Bike Path|3:41:36, 143bpm, 9:13 min/mi|
 |Jan 20|10.50|speed|40.3|from house|1:31:59, 148bpm, 8:45 min/mi|
 |Jan 23|9.50|mountain|35.3|La Luz|2:18:49, 138bpm, 14:37 min/mi|
+|Jan 25|13.30|interval|40.4|from house|2:28:08*, 127bpm, 11:08 min/mi|
+||||||*forgot to turn on watch, all values approximate|
 
 ### Most Recent
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 25|13.30|interval|40.4|from house|2:28:08*, 127bpm, 11:08 min/mi|
-||||||*forgot to turn on watch, all values approximate|
+|Jan 27|11.01|speed|40.0|from house|1:41:25, 141bpm, 9:12 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 27|11|speed|40|from house||
 |Jan 30|24|race|40|Bosque Bike Path||
 |Feb 3|11.5|speed|40|from house||
 |Feb 6|9.5|mountain|35|La Luz||
