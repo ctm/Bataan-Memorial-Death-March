@@ -225,21 +225,23 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Jan 25|13.30|interval|40.4|from house|2:28:08*, 127bpm, 11:08 min/mi|
 ||||||*forgot to turn on watch, all values approximate|
 |Jan 27|11.01|speed|40.0|from house|1:41:25, 141bpm, 9:12 min/mi|
+|Jan 30|24.0|race|40.4|Bosque Bike Path|4:43:35, 126bpm, 11:49 min/mi|
+|Feb 3|11.5|speed|40|from house|_did not do, leg injury_|
+|Feb 6|9.5|mountain|35|La Luz|_did not do, leg injury_|
 
 ### Most Recent
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Jan 30|24.0|race|40.4|Bosque Bike Path|4:43:35, 126bpm, 11:49 min/mi|
+|Feb 8|13.1|interval|0|from house|2:20:52, 135bpm, 10:45 min/mi|
+||||||_no pack, leg injury_|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 3|11.5|speed|40|from house||
-|Feb 6|9.5|mountain|35|La Luz||
-|Feb 8|13.1|interval|40|from house||
-|Feb 10|12|speed|40|from house||
+|Feb 10|5.6|speed|40|from house|_shortened, leg injury_|
+|Feb 10|5.6|speed|40|from house|_may do a second run, but probaby won't_|
 |Feb 13|31|race|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=80150)|_rescheduled from November 28th_|
 |Feb 15|13.1|_maybe_ interval|40|from house|_will do pack interval if not too beaten up_|
 |Feb 17|12.5|speed|40|from house||
