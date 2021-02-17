@@ -226,25 +226,25 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 ||||||*forgot to turn on watch, all values approximate|
 |Jan 27|11.01|speed|40.0|from house|1:41:25, 141bpm, 9:12 min/mi|
 |Jan 30|24.0|race|40.4|Bosque Bike Path|4:43:35, 126bpm, 11:49 min/mi|
-|Feb 3|11.5|speed|40|from house|_did not do, leg injury_|
-|Feb 6|9.5|mountain|35|La Luz|_did not do, leg injury_|
-|Feb 8|13.1|interval|0|from house|2:20:52, 135bpm, 10:45 min/mi|
-||||||_no pack, leg injury_|
+|Feb 3|11.5|speed|40|from house|_did not do due to leg injury_|
+|Feb 6|9.5|mountain|35|La Luz|_did not do due to leg injury_|
+|Feb 8|13.1|interval|0*|from house|2:20:52, 135bpm, 10:45 min/mi|
+||||||*_no pack due to leg injury_|
+|Feb 10|5.52**|speed|40.1|from house|48:21, 155bpm, 8:45 min/mi|
+||||||**_shortened due to leg injury_|
+|Feb 13|31|race|0|Bosque Bigfoot 50k|[5:06:06](https://ultrasignup.com/results_event.aspx?did=73894#id220546), 135bpm, 9:22 min/mi|
+|Feb 15|13.09|interval|40.2|from house|2:35:57, 123bpm, 11:54 min/mi|
 
 ### Most Recent
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 10|5.52|speed|40.1|from house|48:21, 155bpm, 8:45 min/mi|
-||||||_shortened, leg injury_|
+|Feb 17|12.49|speed|40.8|from house|2:04:47, 145bpm, 9:59 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 13|31|race|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=80150)|_rescheduled from November 28th_|
-|Feb 15|13.1|_maybe_ interval|40|from house|_will do pack interval if not too beaten up_|
-|Feb 17|12.5|speed|40|from house||
 |Feb 20|24|race|40|Bosque Bike Path||
 |Feb 24|13|speed|40|from house||
 |Feb 27|9.5|mountain|35|La Luz||
@@ -252,7 +252,7 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Mar 3|13.5|speed|40|from house||
 |Mar 6|12|race|40|Bosque Bike Path||
 |Mar 10|6.56|speed|40|from house||
-|Mar 13|6.2|race|35|[King of the Hill](https://www.loslunasnm.gov/721/King-of-the-Hill)|_unannounced so far_|
+|Mar 13|6|race|40|Bosque Bike Path|_King of the Hill is canceled_|
 |Mar 17|3.28|speed|40|from house||
 |Mar 21|26.2|race|35|Bataan Memorial Death March|_or substitute_|
 
