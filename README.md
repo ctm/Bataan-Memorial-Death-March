@@ -245,16 +245,16 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 20|24|race|40|Bosque Bike Path||
+|Feb 20|9.5|mountain|35|La Luz|_lots of snow, so I'm going to go slowly_|
+|Feb 22|13.1|interval|40|from house||
 |Feb 24|13|speed|40|from house||
-|Feb 27|9.5|mountain|35|La Luz||
-|Mar 1|13.1|interval|40|from house||
+|Feb 27|24|race|40|Bosque Bike Path||
 |Mar 3|13.5|speed|40|from house||
 |Mar 6|12|race|40|Bosque Bike Path||
 |Mar 10|6.56|speed|40|from house||
 |Mar 13|6|race|40|Bosque Bike Path|_King of the Hill is canceled_|
 |Mar 17|3.28|speed|40|from house||
-|Mar 21|26.2|race|35|Bataan Memorial Death March|_or substitute_|
+|Mar 21|26.2|race|35|Bataan Memorial Death March Substitute||
 
 ### Packs
 
