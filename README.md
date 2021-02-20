@@ -234,18 +234,18 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 ||||||**_shortened due to leg injury_|
 |Feb 13|31|race|0|Bosque Bigfoot 50k|[5:06:06](https://ultrasignup.com/results_event.aspx?did=73894#id220546), 135bpm, 9:22 min/mi|
 |Feb 15|13.09|interval|40.2|from house|2:35:57, 123bpm, 11:54 min/mi|
+|Feb 17|12.49|speed|40.8|from house|2:04:47, 145bpm, 9:59 min/mi|
 
 ### Most Recent
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 17|12.49|speed|40.8|from house|2:04:47, 145bpm, 9:59 min/mi|
+|Feb 20|9.48|mountain|35.3|La Luz|3:00:21, 128bpm, 19:01 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 20|9.5|mountain|35|La Luz|_lots of snow, so I'm going to go slowly_|
 |Feb 22|13.1|interval|40|from house||
 |Feb 24|13|speed|40|from house||
 |Feb 27|24|race|40|Bosque Bike Path||
