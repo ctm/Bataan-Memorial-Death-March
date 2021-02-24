@@ -228,26 +228,26 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Jan 30|24.0|race|40.4|Bosque Bike Path|4:43:35, 126bpm, 11:49 min/mi|
 |Feb 3|11.5|speed|40|from house|_did not do due to leg injury_|
 |Feb 6|9.5|mountain|35|La Luz|_did not do due to leg injury_|
-|Feb 8|13.1|interval|0*|from house|2:20:52, 135bpm, 10:45 min/mi|
+|Feb 8|13.10|interval|0*|from house|2:20:52, 135bpm, 10:45 min/mi|
 ||||||*_no pack due to leg injury_|
 |Feb 10|5.52**|speed|40.1|from house|48:21, 155bpm, 8:45 min/mi|
 ||||||**_shortened due to leg injury_|
-|Feb 13|31|race|0|Bosque Bigfoot 50k|[5:06:06](https://ultrasignup.com/results_event.aspx?did=73894#id220546), 135bpm, 9:22 min/mi|
-|Feb 15|13.09|interval|40.2|from house|2:35:57, 123bpm, 11:54 min/mi|
-|Feb 17|12.49|speed|40.8|from house|2:04:47, 145bpm, 9:59 min/mi|
+|Feb 13|32.65|race|0|Bosque Bigfoot 50k|[5:06:06](https://ultrasignup.com/results_event.aspx?did=73894#id220546), 135bpm, 9:22 min/mi|
+|Feb 15|13.09|interval|40.2|from house|2:36:38, 123bpm, 11:57 min/mi|
+|Feb 17|12.50|speed|40.8|from house|2:04:57, 145bpm, 10:00 min/mi|
 |Feb 20|9.48|mountain|35.3|La Luz|3:00:21, 128bpm, 19:01 min/mi|
+|Feb 22|13.10|interval|40.5|from house|2:30:00, 131bpm, 11:27 min/mi|
 
 ### Most Recent
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 22|13.10|interval|40.5|from house|2:30:00, 131bpm, 11:27 min/mi|
+|Feb 24|13.10|speed|40.8|from house|2:03:23, 150bpm, 9:25 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Feb 24|13|speed|40|from house||
 |Feb 27|24|race|40|Bosque Bike Path||
 |Mar 3|13.5|speed|40|from house||
 |Mar 6|12|race|40|Bosque Bike Path||
@@ -260,5 +260,7 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 
 Since late January 2020, I've trained with a (brand new at the time)
 Kelty Tioga 5500, after breaking the clip on my Osprey
-search-and-rescue pack.
+search-and-rescue pack. Osprey has repaired and returned my pack, but
+I'll stick with my Tioga at least through March 21st (the day of my
+BMDM substitute run).
 
