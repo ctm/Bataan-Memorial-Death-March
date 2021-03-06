@@ -262,6 +262,12 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 Since late January 2020, I've trained with a (brand new at the time)
 Kelty Tioga 5500, after breaking the clip on my Osprey
 search-and-rescue pack. Osprey has repaired and returned my pack, but
-I'll stick with my Tioga at least through March 21st (the day of my
-BMDM substitute run).
+I had planned to stick with my Tioga through March 21st (the day of my
+BMDM substitute run).  However, on Saturday, March 6th, while doing my
+12 mile "race" pace run, my 13+ month old Kelty Tioga 5500 broke.
+Both uprights broke about 4.5 miles out.  As such, I had to walk back
+with a broken pack and I didn't get my full workout done that day.
 
+My sister and brother-in-law are ordering me a replacement Kelty.  In
+the meantime, I'll kit up my Osprey with 40 pounds and use that for my
+5.56 mile speed run this coming Wednesday.  Whee!
