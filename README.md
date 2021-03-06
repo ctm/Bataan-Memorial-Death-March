@@ -239,18 +239,19 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Feb 22|13.10|interval|40.5|from house|2:30:00, 131bpm, 11:27 min/mi|
 |Feb 24|13.10|speed|40.8|from house|2:03:23, 150bpm, 9:25 min/mi|
 |Feb 27|24.0|race|40.3|Bosque Bike Path|3:58:44, 151bpm, 9:57 min/mi|
+|Mar 3|13.50|speed|40.2|from house|2:09:41, 150bpm, 9:36 min/mi|
 
 ### Most Recent
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Mar 3|13.50|speed|40.2|from house|2:09:41, 150bpm, 9:36 min/mi|
+|Mar 6|4.47|race|40.3|Bosque Bike Path|40:22, 150bpm, 9:02 min/mi|
+|Mar 6|4.47|walk|40.3|Bosque Bike Path|1:14:07, 104bpm, 16:35 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Mar 6|12|race|40|Bosque Bike Path||
 |Mar 10|6.56|speed|40|from house||
 |Mar 13|6|race|40|Bosque Bike Path|_King of the Hill is canceled_|
 |Mar 17|3.28|speed|40|from house||
