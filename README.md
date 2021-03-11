@@ -240,19 +240,19 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Feb 24|13.10|speed|40.8|from house|2:03:23, 150bpm, 9:25 min/mi|
 |Feb 27|24.0|race|40.3|Bosque Bike Path|3:58:44, 151bpm, 9:57 min/mi|
 |Mar 3|13.50|speed|40.2|from house|2:09:41, 150bpm, 9:36 min/mi|
+|Mar 6|4.47|race|40.3|Bosque Bike Path|40:22, 150bpm, 9:02 min/mi|
+|Mar 6|4.47|walk|40.3|Bosque Bike Path|1:14:07, 104bpm, 16:35 min/mi|
 
 ### Most Recent
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Mar 6|4.47|race|40.3|Bosque Bike Path|40:22, 150bpm, 9:02 min/mi|
-|Mar 6|4.47|walk|40.3|Bosque Bike Path|1:14:07, 104bpm, 16:35 min/mi|
+|Mar 11|6.76|speed|40.0|from house|1:02:26, 156bpm, 9:13 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Mar 10|6.56|speed|40|from house||
 |Mar 13|6|race|40|Bosque Bike Path|_King of the Hill is canceled_|
 |Mar 17|3.28|speed|40|from house||
 |Mar 21|26.2|race|35|Bataan Memorial Death March Substitute||
@@ -268,6 +268,11 @@ BMDM substitute run).  However, on Saturday, March 6th, while doing my
 Both uprights broke about 4.5 miles out.  As such, I had to walk back
 with a broken pack and I didn't get my full workout done that day.
 
-My sister and brother-in-law are ordering me a replacement Kelty.  In
-the meantime, I'll kit up my Osprey with 40 pounds and use that for my
-5.56 mile speed run this coming Wednesday.  Whee!
+My sister and brother-in-law bought me a replacement Kelty.  I used it
+for the first time on Thursday, March 11th to do my 1/2 distance taper
+speed run.  Normally that's a Wednesday run, but my schedule got
+temporarilly shifted by a day.  Although the pack came on Tuesday, I
+didn't set it up until Thursday morning, which resulted in me getting
+off to a much later than usual start.  Oh well.  It's been a unique
+training season.
+
