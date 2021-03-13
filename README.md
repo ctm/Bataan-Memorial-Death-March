@@ -1,9 +1,10 @@
 # Bataan Memorial Death March (and Tough Ruck?) training
 
-My (Cliff Matthews) training plan and log for a 2021 [Bataan Memorial
-Death March](http://bataanmarch.com) (civilian heavy) substitute that
-I'll run on Sunday, March 21st in Albuquerque.  This is similar to
-what I did for [2017](2017.md), [2018](2018.md), [2019](2019.md) and
+My ([Cliff Matthews](https://www.strava.com/athletes/58696205))
+training plan and log for a 2021 [Bataan Memorial Death
+March](http://bataanmarch.com) (civilian heavy) substitute that I'll
+run on Sunday, March 21st in Albuquerque.  This is similar to what I
+did for [2017](2017.md), [2018](2018.md), [2019](2019.md) and
 [2020](2020.md).
 
 I do not plan on doing the virtual BMDM, but I, and others, will be
@@ -242,18 +243,18 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Mar 3|13.50|speed|40.2|from house|2:09:41, 150bpm, 9:36 min/mi|
 |Mar 6|4.47|race|40.3|Bosque Bike Path|40:22, 150bpm, 9:02 min/mi|
 |Mar 6|4.47|walk|40.3|Bosque Bike Path|1:14:07, 104bpm, 16:35 min/mi|
+|Mar 11|6.76|speed|40.0|from house|1:02:26, 156bpm, 9:13 min/mi|
 
 ### Most Recent
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Mar 11|6.76|speed|40.0|from house|1:02:26, 156bpm, 9:13 min/mi|
+|Mar 13|6.01|race|40.4|Bosque Bike Path|53:34, 152bpm, 8:54 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Mar 13|6|race|40|Bosque Bike Path|_King of the Hill is canceled_|
 |Mar 17|3.28|speed|40|from house||
 |Mar 21|26.2|race|35|Bataan Memorial Death March Substitute||
 
