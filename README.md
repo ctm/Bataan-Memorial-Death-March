@@ -244,12 +244,13 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Mar 6|4.47|race|40.3|Bosque Bike Path|40:22, 150bpm, 9:02 min/mi|
 |Mar 6|4.47|walk|40.3|Bosque Bike Path|1:14:07, 104bpm, 16:35 min/mi|
 |Mar 11|6.76|speed|40.0|from house|1:02:26, 156bpm, 9:13 min/mi|
+|Mar 13|6.01|race|40.4|Bosque Bike Path|53:34, 152bpm, 8:54 min/mi|
 
 ### Most Recent
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Mar 13|6.01|race|40.4|Bosque Bike Path|53:34, 152bpm, 8:54 min/mi|
+|Mar 15|3.28|interval(3)|40.6|from house|33:47, 138bpm, 10:17 min/mi|
 
 ### Planned
 
