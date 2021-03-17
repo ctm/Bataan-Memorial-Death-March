@@ -1,11 +1,10 @@
 # Bataan Memorial Death March (and Tough Ruck?) training
 
-My ([Cliff Matthews](https://www.strava.com/athletes/58696205))
-training plan and log for a 2021 [Bataan Memorial Death
-March](http://bataanmarch.com) (civilian heavy) substitute that I'll
-run on Sunday, March 21st in Albuquerque.  This is similar to what I
-did for [2017](2017.md), [2018](2018.md), [2019](2019.md) and
-[2020](2020.md).
+My ([Cliff Matthews](https://www.strava.com/athletes/58696205)) log
+for the [Bataan Memorial Death March](http://bataanmarch.com)
+(civilian heavy) substitute that I'll run on Sunday, March 21st, 2021
+in Albuquerque.  This is similar to what I did for [2017](2017.md),
+[2018](2018.md), [2019](2019.md) and [2020](2020.md).
 
 I do not plan on doing the virtual BMDM, but I, and others, will be
 setting up aid stations to help people who want to do it on Sunday,
@@ -52,7 +51,8 @@ knew that SAR was a tiny way I could say thanks with more than a word
 and a handshake.
 
 In addition to honoring veterans, training for BMDM keeps me fit for
-SAR missions.
+SAR missions, although I have not been a formal SAR member since
+December 31st, 2020 due to how covid affected my former SAR team.
 
 ## How do I train?
 
@@ -245,18 +245,18 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Mar 6|4.47|walk|40.3|Bosque Bike Path|1:14:07, 104bpm, 16:35 min/mi|
 |Mar 11|6.76|speed|40.0|from house|1:02:26, 156bpm, 9:13 min/mi|
 |Mar 13|6.01|race|40.4|Bosque Bike Path|53:34, 152bpm, 8:54 min/mi|
+|Mar 15|3.28|interval(3)|40.6|from house|33:47, 138bpm, 10:17 min/mi|
 
 ### Most Recent
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Mar 15|3.28|interval(3)|40.6|from house|33:47, 138bpm, 10:17 min/mi|
+|Mar 17|3.28|speed|40|from house|28:34, 156bpm, 8:40 min/mi|
 
 ### Planned
 
 |Date|Miles|Pace|Pounds|Where|Notes|
 |----|-----|----|------|-----|-----|
-|Mar 17|3.28|speed|40|from house||
 |Mar 21|26.2|race|35|Bataan Memorial Death March Substitute||
 
 ### Packs
