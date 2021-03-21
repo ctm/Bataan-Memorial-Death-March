@@ -246,18 +246,25 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Mar 11|6.76|speed|40.0|from house|1:02:26, 156bpm, 9:13 min/mi|
 |Mar 13|6.01|race|40.4|Bosque Bike Path|53:34, 152bpm, 8:54 min/mi|
 |Mar 15|3.28|interval(3)|40.6|from house|33:47, 138bpm, 10:17 min/mi|
+|Mar 17|3.28|speed|41.0|from house|28:34, 156bpm, 8:40 min/mi|
+|Mar 21|26.20|race|35.1|Bataan Memorial Death March Substitute|4:43:41, 146bpm, 10:49 min/mi|
 
-### Most Recent
+## Bottom Line
 
-|Date|Miles|Pace|Pounds|Where|Notes|
-|----|-----|----|------|-----|-----|
-|Mar 17|3.28|speed|40|from house|28:34, 156bpm, 8:40 min/mi|
+I ran a flat course in 4:43:41.  I did not meet my goal for my
+substitute run.  I made a couple of big mistakes.  One was not taking
+200mg of ibuprofen at the turnaround.  The other was not loading my
+handhelds and bladder with ice.  Basically, when the going got tough,
+I walked.  The upside is I'm as trained as I'm trained.  The downside
+is that the more I allow myself to make excuses the more excuses I'll
+make.
 
-### Planned
-
-|Date|Miles|Pace|Pounds|Where|Notes|
-|----|-----|----|------|-----|-----|
-|Mar 21|26.2|race|35|Bataan Memorial Death March Substitute||
+OTOH, [Ben Skardon](https://www.youtube.com/watch?v=BrPvQWn7st0) and
+[James Bollich](https://www.youtube.com/watch?v=7QKQAZqZWrU), the two
+Bataan Death March survivors who spoke at the last pre-covid BMDM two
+years ago are are still alive. This makes me very happy.  Ben is 104
+and James is 99.  Perhaps I have plenty of time to get my shit
+together.
 
 ### Packs
 
