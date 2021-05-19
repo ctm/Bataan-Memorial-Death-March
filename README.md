@@ -288,3 +288,12 @@ didn't set it up until Thursday morning, which resulted in me getting
 off to a much later than usual start.  Oh well.  It's been a unique
 training season.
 
+Starting on May 12th, 2021 I've used my repaired Osprey to play on the
+mountain.  Containing my SAR gear it weighs pretty close to 33 pounds
+(depending on whether I have my wallet and keys in it, it can be just
+below or just above).  Since it's the off season, I'm just playing
+around and trying to keep my legs strong and get my body used to doing
+pack "runs" in a fasted state.  It's not at all clear what I'll do
+between now and mid November.  My guess is once Hardrock is over (and
+perhaps before) I'll go back to doing some speed work, although it's
+unclear if I'll use the Osprey or Tioga.
