@@ -250,6 +250,7 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |Mar 21|26.20|race|35.1|Bataan Memorial Death March Substitute|4:43:41, 146bpm, 10:49 min/mi|
 |May 12|11.37|mountain|33|La Luz (Osprey Pack)|3:28:16, 110bpm, 18:19 min/mi|
 |May 19|12.03|mountain|33|La Luz (Osprey Pack)|3:28:59, 118bpm, 17:22 min/mi|
+|May 19|11.63|mountain|35.1|La Luz (Osprey Pack)|3:24:25, 118bpm, 17:35 min/mi|
 
 
 ## Bottom Line
