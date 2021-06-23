@@ -252,7 +252,8 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |May 19|12.03|mountain|33|La Luz (Osprey Pack)|3:28:59, 118bpm, 17:22 min/mi|
 |May 27|11.63|mountain|35.1|La Luz (Osprey Pack)|3:24:25, 118bpm, 17:35 min/mi|
 |Jun 3|11.98|mountain|35.3|La Luz (Osprey Pack)|3:23:45, 119bpm, 16:59 min/mi|
-|Jun 9|11.76|mountain|35.3|La Luz (Osprey Pack)|3:23:48, 114bpm, 17:20 min/mi|
+|Jun 17|6.07|mountain|34.8|La Luz (Osprey Pack)|1:42:17, 122bpm, 16:51 min/mi|
+|Jun 23|3.41|mountain|35.4|La Luz (Osprey Pack)|50:05, 128bpm, 14:41 min/mi|
 
 ## Bottom Line
 
