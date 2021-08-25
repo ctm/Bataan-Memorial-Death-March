@@ -161,6 +161,11 @@ typically have to wait at a stoplight a couple of times or more and
 it's hillier than the Bosque Bike path, which has neither stops nor
 hills.
 
+`Timed`: I aim to be on my feet a specific amount of time.  This is
+not normally how I schedule an exercise, but it's a good compromise
+when I am coming back after not having done a pack exercise in a while
+or recovering from some other event.
+
 ### Completed
 
 FWIW, in previous years I've included various races that I've done
@@ -259,6 +264,7 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |<a name="jul-21">Jul 21</a>|8.90|recovery|29.4|from home (Osprey Pack)|1:59:49, 113bpm, 13:27 min/mi|
 |<a name="jul-24" href="https://www.strava.com/activities/5680488111">Jul 24</a>|8.27|mountain|36.8|La Luz (Osprey Pack)|3:41:51, 111bpm, 27:08 min/mi|
 |<a name="aug-4" href="https://www.strava.com/activities/5738337049">Aug 4</a>|10.81|mountain|36.3|La Luz (Osprey Pack)|3:23:46, ?bpm, 18:52 min/mi|
+|<a name="aug-25" href="https://www.strava.com/activities/5852045686">Aug 25</a>|12.03|timed|35.8|from house (Osprey Pack)|3:30:21, 109bpm, 17:26 min/mi|
 
 ## Bottom Line
 
