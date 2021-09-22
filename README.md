@@ -268,7 +268,7 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |<a name="sep-1" href="https://www.strava.com/activities/5887913210">Sep 1</a>|8.86|timed|41.3|from house (Osprey Pack)|1:40:29, 130bpm, 11:21 min/mi|
 |<a name="sep-8" href="https://www.strava.com/activities/5926438099">Sep 8</a>|4.73|timed|42.6|from house (Osprey Pack)|50:13, 137bpm, 10:37 min/mi|
 |<a name="sep-18" href="https://www.strava.com/activities/5980383146">Sep 18</a>|5.55|mountain|36.3|La Luz (Osprey Pack)|1:36:53, 118bpm, 17:26 min/mi|
-
+|<a name="sep-22" href="https://www.strava.com/activities/6001083844">Sep 22</a>|4.77|timed|42.3|from house (Osprey Pack)|50:19, 139bpm, 10:32 min/mi|
 ## Bottom Line
 
 I ran a flat course in 4:43:41.  I did not meet my goal for my
