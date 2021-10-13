@@ -270,6 +270,7 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |<a name="sep-18" href="https://www.strava.com/activities/5980383146">Sep 18</a>|5.55|mountain|36.3|La Luz (Osprey Pack)|1:36:53, 118bpm, 17:26 min/mi|
 |<a name="sep-22" href="https://www.strava.com/activities/6001083844">Sep 22</a>|4.77|timed|42.3|from house (Osprey Pack)|50:19, 139bpm, 10:32 min/mi|
 |<a name="oct-01" href="https://www.strava.com/activities/6047233985">Oct 1</a>|5.54|race|42.7|from house (Osprey Pack)|53:21, 151bpm, 9:36 min/mi|
+|<a name="oct-13" href="https://www.strava.com/activities/6107617980">Oct 13</a>|5.55|walk|42.6|from house (Osprey Pack)|1:16:27, 118bpm, 13:45 min/mi|
 
 ## Bottom Line
 
