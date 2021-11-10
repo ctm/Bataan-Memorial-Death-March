@@ -273,6 +273,7 @@ and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/res
 |<a name="oct-13" href="https://www.strava.com/activities/6107617980">Oct 13</a>|5.55|walk|42.6|from house (Osprey Pack)|1:16:27, 118bpm, 13:45 min/mi|
 |<a name="oct-20" href="https://www.strava.com/activities/6140912607">Oct 20</a>|6.50|race|43.3|from house (Osprey Pack)|1:02:27, 145bpm, 9:36 min/mi|
 |<a name="oct-27" href="https://www.strava.com/activities/6173909150">Oct 27</a>|3.93|race|43.4|from house (Osprey Pack)|37:45, 136bpm, 9:35 min/mi|
+|<a name="nov-10" href="https://www.strava.com/activities/6239204488">Nov 10</a>|8.95|<a href="https://github.com/ctm/misc_running/blob/master/Monday_Intervals#L3329-L3345">mix</a>|37.7|from house (Osprey Pack)|2:04:53, 106bpm, 13:57 min/mi|
 
 ## Bottom Line
 
