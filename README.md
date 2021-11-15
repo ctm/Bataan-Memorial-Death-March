@@ -1,21 +1,20 @@
-# Bataan Memorial Death March (and Tough Ruck?) training
+# Bataan Memorial Death March and/or Tough Ruck training
 
-My ([Cliff Matthews](https://www.strava.com/athletes/58696205)) log
-for the [Bataan Memorial Death March](http://bataanmarch.com)
-(civilian heavy) substitute that I'll run on Sunday, March 21st, 2021
-in Albuquerque.  This is similar to what I did for [2017](2017.md),
-[2018](2018.md), [2019](2019.md) and [2020](2020.md).
+This is my ([Cliff
+Matthews](https://www.strava.com/athletes/58696205)) collection of
+training logs for the [Bataan Memorial Death
+Marchs](http://bataanmarch.com) (civilian heavy) that I've done in the
+past as well as the one I'm doing in the future.  Although I did my
+first BMDM in 2010, I didn't start these logs until [2017](2017.md),
+which is a shame, since my [best time
+(4:39:45.185)](https://bataanmemorialdeathmarch.itsyourrace.com/Results/6574/2016/35464/1524)
+was in 2016.
 
-I do not plan on doing the virtual BMDM, but I, and others, will be
-setting up aid stations to help people who want to do it on Sunday,
-April 11th.  The start will be the Alameda Open Space, and
-participants will walk, hike, ruck and/or run four miles down the bike
-path, turn around and then do that same out and back two more times,
-then head down about a mile and back so that the total distance will
-be 26.2 miles.  This route allows people to use the toilets every
-eight miles.  We'll have an aid station at the beginning and
-turnaround and probably one more in between.  More details will be
-available as we get closer to April 11th.
+So, in addition to [2017](2017.md), the others that I've logged in the
+past are [2018](2018.md), [2019](2019.md), [2020](2020.md) and
+[2021](2021.md).  I'm currently working toward [2022](2022.md)
+although it's unclear whether I'll be down at White Sands Missile
+Range for the actual event or if I'll do a substitute.
 
 ## What is the BMDM?
 
@@ -24,7 +23,7 @@ defended the Philippines at the onset of World War II.  They suffered
 greatly and many perished either during the defense, after they were
 surrendered and were forced to march (having subsisted on quarter
 rations prior to the start of the march), at the inhumane prison
-camps, the hell-ships that carried them to Japan or in the forced
+camps, in the hell-ships that carried them to Japan or in the forced
 labor thereafter.
 
 Some of those men and women, now in their nineties (or more!), are
@@ -50,7 +49,7 @@ and rescue (SAR) since I realized I met the physical requirements and
 knew that SAR was a tiny way I could say thanks with more than a word
 and a handshake.
 
-In addition to honoring veterans, training for BMDM keeps me fit for
+In addition to honoring veterans, training for BMDM kept me fit for
 SAR missions, although I have not been a formal SAR member since
 December 31st, 2020 due to how covid affected my former SAR team.
 
@@ -65,9 +64,9 @@ soft.  So, when I attended my first BMDM, my feet hurt quite a bit by
 mile six.  I could barely walk the last several miles.
 
 Some of my previous years' training plans and logs have the history of
-how I got to where I am, but basically from mid November 2020 until
-March 21st, I'll be doing a speed run with my pack every Wednesday and
-a Saturday pack run that will alternate between a flat run with
+how I got to where I am, but basically from mid November until mid
+March, I'll be doing a speed run with my pack every Wednesday and a
+Saturday pack run that will alternate between a flat run with
 forty-pounds and a 5 mile up and 5 mile down thirty-five pound pack
 run at the local mountain. Specifically, my flat run will be done on
 the Bosque Bike Path and my mountain run will be done on La Luz.
@@ -90,47 +89,45 @@ although the times, distances and weight should probably be lessened.
 
 ## Base building
 
-In previous years, my BMDM training has begun in mid November.  I was
-not happy with my performance @ BMDM in March of 2017, so that year I
+In previous years, my BMDM training began in mid November.  I was not
+happy with my performance @ BMDM in March of 2017, so that year I
 started doing Wednesday pack runs in late August.  I also stopped
-tapering and taking recovery days after my August through November
-races.
+tapering and taking recovery days after most of my August through
+November races.
 
 So, in my off season, although I only run with my pack on Wednesdays,
 I still typically run five other days of the week and bike (or run) on
 Sundays.
 
-
 ## Non-pack Days
 
 During the week I do slow runs from my house out to Albuquerque
 Academy, some distance around Albuquerque Academy and back to my
-house.  On Sundays I ride my bike.  How far I ride is dependent on
-weather, mood, how much time I want to be out and to a lesser extent
-how beat up I am from my Saturday activity. I usually ride my bike
-between an hour to an hour and a half the day after a La Luz pack run
-and an hour the day after a Bosque Bike Path pack run.
+house.  On Sundays, in theory, I ride my bike.  How far I ride is
+dependent on weather, mood, how much time I want to be out and to a
+lesser extent how beat up I am from my Saturday activity.
 
-On Mondays I run from my house to Albuquerque Academy, run three laps
-around AA, back to my house and then do another .9 miles to bring the
-total up to 13.1 miles. However, during that half marathon, I do
-twelve all-outs of seventy-five seconds with only thirty seconds of
-rest in between.  I alternate between doing my Monday run with a 40
-pound pack and without a pack.
+On Mondays I run from my house to Albuquerque Academy, run four laps
+around AA then back to my house for a total of 15.5 miles. However,
+after my second AA loop, I do twelve all-outs of seventy-five seconds
+with only thirty seconds of rest in between.  I alternate between
+doing my Monday run with a 40 pound pack and without a pack.
 
-In theory, I try to keep my heart-rate at about 130bpm for my slow
-runs and bike ride, but if it's chilly or I'm rushed or otherwise
-feeling frisky I may run, or bike, a bit faster.
+I used to try to keep my heart-rate at about 130bpm for my slow runs
+and bike ride, but starting in April 2020 I began doing almost all my
+exercise in a fasted state and often I find myself exercising at a
+lower heart-rate.  I think my average HR in a fasted state is slowly
+creeping up again, but I am not paying a huge amount of attention.
 
 So, for the 2020-2021 training season, here are my non-pack days:
 
 |Day|Activity|Amount|
 |---|--------|------|
-|Sunday|Bike Ride|hour to hour and a half|
-|every other Monday|1/2 marathon incorporating Interval Training|13.1 miles|
-|Tuesday|Slow Run|8.9 miles|
-|Thursday|Slow Run|8.9 miles|
-|Friday|Slow Run|13.1 miles|
+|Sunday|Bike Ride|30.5, 71 or 100 miles|
+|every other Monday|Interval Training inside Slow Run|15.5 miles|
+|Tuesday|Slow Run|15.5 miles|
+|Thursday|Slow Run|15.5 miles|
+|Friday|Slow Run|18.8 miles|
 
 ## Pack (and exception) days
 
@@ -150,7 +147,7 @@ a 14:15 minute/mile pace.
 during the training or event.  I'm out there to have fun.
 
 `Interval`: Interval training with my forty pound pack, wrapped with
-enough low heart rate running on either end to be a total of 13.1
+enough low heart rate running on either end to be a total of 15.5
 miles with an average heart rate of 130bpm.  The intervals themselves
 are 12 all-outs of 75 seconds each, with 30 seconds of light running
 as rest in between.
@@ -166,157 +163,16 @@ not normally how I schedule an exercise, but it's a good compromise
 when I am coming back after not having done a pack exercise in a while
 or recovering from some other event.
 
-### Completed
-
-FWIW, in previous years I've included various races that I've done
-without my pack.  Due to covid, my race schedule was pretty erratic.
-Any race that was a marathon or longer shows up on [my Marathon
-Maniacs
-page](https://www.marathonmaniacsdb.com/Maniacs/MyRaces?ManiacId=4395)
-and most of my ultras how up on [my UltraSignup page](http://ultrasignup.com/results_participant.aspx?fname=Clifford&lname=Matthews).
-
-|Date|Miles|Pace|Pounds|Where|Notes|
-|----|-----|----|------|-----|-----|
-|Apr 29|13.11|comfort|41.5|from house|2:35:35, 130bpm, 11:51 min/mi|
-|May 6|13.10|comfort|42.0|from house|2:35:20, 130bpm, 11:50 min/mi|
-|May 13|13.10|comfort|42.5|from house|2:45:55, 142bpm, 12:39 min/mi|
-|May 20|13.11|comfort|42.0|from house|2:22:54, 139bpm, 10:53 min/mi|
-|May 23|7.48|mountain|36.0|up old La Luz to plate, down new|2:05:12, 139bpm, 16:44 min/mi|
-|May 20|13.11|comfort|42.0|from house|2:40:24, 130bpm, 12:14 min/mi|
-|Jun 3|13.11|comfort|42.1|from house|2:35:58, 129bpm, 11:54 min/mi|
-|Jun 7|1.91|comfort|40.7|from house|21:10, 126bpm, 11:04 min/mi|
-|Jun 7|3.35|comfort|40.7|Around AA|40:23, 125bpm, 12:03 min/mi|
-|Jun 7|7.72|comfort|40.7|2xAA back to house|1:57:40, 110bpm, 15:13 min/mi|
-|Jun 10|8.89|comfort|42.0|from house|1:36:51, 130bpm, 10:53 min/mi|
-|Jul 22|8.97|comfort|42.0|from house|2:02:14, 134bpm, 13:37 min/mi|
-|Aug 5|8.97|comfort|41.5|from house|1:57:48, 143bpm, 13:09 min/mi|
-|Aug 26|8.93|> comfort|41.9|from house|1:55:01, 155?bpm, 12:53 min/mi|
-|Aug 29|7.65|mountain|35.1|up old La Luz to plate, down new|2:23:00, 148bpm, 18:40 min/mi|
-|Sep 2|13.11|comfort|42.1|from house|2:42:25, 136bpm, 12:23 min/mi|
-|Sep 9|15.56|comfort|41.9|from house|3:03:39, 137bpm, 11:48 min/mi| 
-|Sep 16|13.11|comfort|42.6|from house|2:31:40, 135bpm, 11:33 min/mi| 
-|Sep 23|13.11|comfort|42.5|from house|2:25:08, 144bpm, 11:04 min/mi| 
-|Sep 30|6.55|comfort|42.5|from house|1:13:09, 142bpm, 11:09 min/mi| 
-|Oct 21|6.55|comfort|42.0|from house|1:09:53, 142bpm, 10:39 min/mi| 
-|Oct 21|6.55|comfort|42.0|from house|1:13:06, 143bpm, 11:09 min/mi|
-|Nov 4|7.86|< comfort|40.9|from house|1:41:50, 125bpm, 12:56 min/mi|
-|Nov 11|13.1|< comfort|41.0|from house|2:49:10, 116bpm, 12:54 min/mi|
-|Nov 11|1.13|< comfort|41.0|to house|18:37, 105bpm, 16:28 min/mi|
-|Nov 18|6.00|speed|40.6|from house|56:39, 152bpm, 9:25 min/mi|
-|Nov 21|9.44|mountain|35.0|La Luz|2:22:15, 138bpm, 15:05 min/mi|
-|Nov 25|6.51|speed|40.6|from house|59:16, 148bpm, 9:06 min/mi|
-|Nov 28|31.23|comfort|0|[Bosque Bigfoot 50k](http://ultrasignup.com/register.aspx?did=80150) Substitute|5:51:47, 118bpm, 11:16 min/mi|
-|Nov 30|8.86|interval|40.8|from house|1:31:26, 137bpm, 10:19 min/mi|
-|Dec 2|7.00|speed|40.4|from house|1:04:15, 149bpm, 9:11 min/mi|
-|Dec 5|15.00|race|41.2|Bosque Bike Path|2:19:12, 142bpm, 9:16 min/mi|
-|Dec 9|7.51|speed|40.5|from house|1:06:57, 144bpm, 8:55 min/mi|
-|Dec 12|9.53|mountain|37.9|La Luz|2:55:08, 129bpm, 18:21 min/mi|
-|Dec 14|13.11|interval|40.7|from house|2:20:33, 130bpm, 10:43 min/mi|
-|Dec 16|8.00|speed|41.5|from house|1:11:43, 150bpm, 8:57 min/mi|
-|Dec 19|18.01|race|42.7|Bosque Bike Path|2:48:10, 140bpm, 9:20 min/mi|
-|Dec 23|8.51|speed|40.6|from house|1:15:08, 147bpm, 8:49 min/mi|
-|Dec 26|9.46|mountain|35.0|La Luz|2:24:01, 132bpm, 15:13 min/mi|
-|Dec 28|13.11|interval|40|from house|2:24:43, 130bpm, 11:02 min/mi|
-|Dec 30|9|speed|41.6|from house|1:19:57*, 147bpm, 8:53 min/mi|
-||||||*forgot to turn on watch, all values approximate|
-|Jan 1|31|comfort|0|[Unofficial Foothills Fat Ass 50k](https://newmexicofa50k.wordpress.com/foothills-50k/)|6:18:35, 127bpm, 12:28 min/mi|
-|Jan 3|21.00|race|41.2|Bosque Bike Path|3:19:05, 136bpm, 9:28 min/mi|
-|Jan 6|9.51|speed|40.0|from house|1:25:41, 147bpm, 9:00 min/mi|
-|Jan 9|9.50|mountain|35.5|La Luz|2:21:09, 132bpm, 14:51 min/mi|
-|Jan 11|13.10|interval|40.1|from house|2:20:23, 131bpm, 10:43 min/mi|
-|Jan 13|10.00|speed|40.4|from house|1:27:06, 149bpm, 8:42 min/mi|
-|Jan 16|24.01|race|40.7|Bosque Bike Path|3:41:36, 143bpm, 9:13 min/mi|
-|Jan 20|10.50|speed|40.3|from house|1:31:59, 148bpm, 8:45 min/mi|
-|Jan 23|9.50|mountain|35.3|La Luz|2:18:49, 138bpm, 14:37 min/mi|
-|Jan 25|13.30|interval|40.4|from house|2:28:08*, 127bpm, 11:08 min/mi|
-||||||*forgot to turn on watch, all values approximate|
-|Jan 27|11.01|speed|40.0|from house|1:41:25, 141bpm, 9:12 min/mi|
-|Jan 30|24.0|race|40.4|Bosque Bike Path|4:43:35, 126bpm, 11:49 min/mi|
-|Feb 3|11.5|speed|40|from house|_did not do due to leg injury_|
-|Feb 6|9.5|mountain|35|La Luz|_did not do due to leg injury_|
-|Feb 8|13.10|interval|0*|from house|2:20:52, 135bpm, 10:45 min/mi|
-||||||*_no pack due to leg injury_|
-|Feb 10|5.52**|speed|40.1|from house|48:21, 155bpm, 8:45 min/mi|
-||||||**_shortened due to leg injury_|
-|Feb 13|32.65|race|0|Bosque Bigfoot 50k|[5:06:06](https://ultrasignup.com/results_event.aspx?did=73894#id220546), 135bpm, 9:22 min/mi|
-|Feb 15|13.09|interval|40.2|from house|2:36:38, 123bpm, 11:57 min/mi|
-|Feb 17|12.50|speed|40.8|from house|2:04:57, 145bpm, 10:00 min/mi|
-|Feb 20|9.48|mountain|35.3|La Luz|3:00:21, 128bpm, 19:01 min/mi|
-|Feb 22|13.10|interval|40.5|from house|2:30:00, 131bpm, 11:27 min/mi|
-|Feb 24|13.10|speed|40.8|from house|2:03:23, 150bpm, 9:25 min/mi|
-|Feb 27|24.0|race|40.3|Bosque Bike Path|3:58:44, 151bpm, 9:57 min/mi|
-|Mar 3|13.50|speed|40.2|from house|2:09:41, 150bpm, 9:36 min/mi|
-|Mar 6|4.47|race|40.3|Bosque Bike Path|40:22, 150bpm, 9:02 min/mi|
-|Mar 6|4.47|walk|40.3|Bosque Bike Path|1:14:07, 104bpm, 16:35 min/mi|
-|Mar 11|6.76|speed|40.0|from house|1:02:26, 156bpm, 9:13 min/mi|
-|Mar 13|6.01|race|40.4|Bosque Bike Path|53:34, 152bpm, 8:54 min/mi|
-|Mar 15|3.28|interval(3)|40.6|from house|33:47, 138bpm, 10:17 min/mi|
-|Mar 17|3.28|speed|41.0|from house|28:34, 156bpm, 8:40 min/mi|
-|Mar 21|26.20|race|35.1|Bataan Memorial Death March Substitute|4:43:41, 146bpm, 10:49 min/mi|
-|May 12|11.37|mountain|33|La Luz (Osprey Pack)|3:28:16, 110bpm, 18:19 min/mi|
-|May 19|12.03|mountain|33|La Luz (Osprey Pack)|3:28:59, 118bpm, 17:22 min/mi|
-|May 27|11.63|mountain|35.1|La Luz (Osprey Pack)|3:24:25, 118bpm, 17:35 min/mi|
-|Jun 3|11.98|mountain|35.3|La Luz (Osprey Pack)|3:23:45, 119bpm, 16:59 min/mi|
-|Jun 17|6.07|mountain|34.8|La Luz (Osprey Pack)|1:42:17, 122bpm, 16:51 min/mi|
-|Jun 23|3.41|mountain|35.4|La Luz (Osprey Pack)|50:05, 128bpm, 14:41 min/mi|
-|Jun 30|7.91|mountain|34.8|La Luz (Osprey Pack)|2:55:48, 114bpm, 22:14 min/mi|
-|Jul 7|6.14|mountain|35.8|La Luz (Osprey Pack)|1:38:57, 128bpm, 16:07 min/mi|
-|<a name="jul-21">Jul 21</a>|8.90|recovery|29.4|from home (Osprey Pack)|1:59:49, 113bpm, 13:27 min/mi|
-|<a name="jul-24" href="https://www.strava.com/activities/5680488111">Jul 24</a>|8.27|mountain|36.8|La Luz (Osprey Pack)|3:41:51, 111bpm, 27:08 min/mi|
-|<a name="aug-4" href="https://www.strava.com/activities/5738337049">Aug 4</a>|10.81|mountain|36.3|La Luz (Osprey Pack)|3:23:46, ?bpm, 18:52 min/mi|
-|<a name="aug-25" href="https://www.strava.com/activities/5852045686">Aug 25</a>|12.03|timed|35.8|from house (Osprey Pack)|3:30:21, 109bpm, 17:26 min/mi|
-|<a name="sep-1" href="https://www.strava.com/activities/5887913210">Sep 1</a>|8.86|timed|41.3|from house (Osprey Pack)|1:40:29, 130bpm, 11:21 min/mi|
-|<a name="sep-8" href="https://www.strava.com/activities/5926438099">Sep 8</a>|4.73|timed|42.6|from house (Osprey Pack)|50:13, 137bpm, 10:37 min/mi|
-|<a name="sep-18" href="https://www.strava.com/activities/5980383146">Sep 18</a>|5.55|mountain|36.3|La Luz (Osprey Pack)|1:36:53, 118bpm, 17:26 min/mi|
-|<a name="sep-22" href="https://www.strava.com/activities/6001083844">Sep 22</a>|4.77|timed|42.3|from house (Osprey Pack)|50:19, 139bpm, 10:32 min/mi|
-|<a name="oct-01" href="https://www.strava.com/activities/6047233985">Oct 1</a>|5.54|race|42.7|from house (Osprey Pack)|53:21, 151bpm, 9:36 min/mi|
-|<a name="oct-13" href="https://www.strava.com/activities/6107617980">Oct 13</a>|5.55|walk|42.6|from house (Osprey Pack)|1:16:27, 118bpm, 13:45 min/mi|
-|<a name="oct-20" href="https://www.strava.com/activities/6140912607">Oct 20</a>|6.50|race|43.3|from house (Osprey Pack)|1:02:27, 145bpm, 9:36 min/mi|
-|<a name="oct-27" href="https://www.strava.com/activities/6173909150">Oct 27</a>|3.93|race|43.4|from house (Osprey Pack)|37:45, 136bpm, 9:35 min/mi|
-|<a name="nov-10" href="https://www.strava.com/activities/6239204488">Nov 10</a>|8.95|<a href="https://github.com/ctm/misc_running/blob/master/Monday_Intervals#L3329-L3345">mix</a>|37.7|from house (Osprey Pack)|2:04:53, 106bpm, 13:57 min/mi|
-
-## Bottom Line
-
-I ran a flat course in 4:43:41.  I did not meet my goal for my
-substitute run.  I made a couple of big mistakes.  One was not taking
-200mg of ibuprofen at the turnaround.  The other was not loading my
-handhelds and bladder with ice.  Basically, when the going got tough,
-I walked.  The upside is I'm as trained as I'm trained.  The downside
-is that the more I allow myself to make excuses the more excuses I'll
-make.
-
-OTOH, [Ben Skardon](https://www.youtube.com/watch?v=BrPvQWn7st0) and
-[James Bollich](https://www.youtube.com/watch?v=7QKQAZqZWrU), the two
-Bataan Death March survivors who spoke at the last pre-covid BMDM two
-years ago are are still alive. This makes me very happy.  Ben is 104
-and James is 99.  Perhaps I have plenty of time to get my shit
-together.
-
 ### Packs
 
-Since late January 2020, I've trained with a (brand new at the time)
-Kelty Tioga 5500, after breaking the clip on my Osprey
-search-and-rescue pack. Osprey has repaired and returned my pack, but
-I had planned to stick with my Tioga through March 21st (the day of my
-BMDM substitute run).  However, on Saturday, March 6th, while doing my
-12 mile "race" pace run, my 13+ month old Kelty Tioga 5500 broke.
-Both uprights broke about 4.5 miles out.  As such, I had to walk back
-with a broken pack and I didn't get my full workout done that day.
+In theory I'll be doing almost all my 2022 season training using the
+Kelty Tioga 5500 my sister and brother-in-law bought me after my
+previous one broke (on March 6th, 2021), although I also have an
+Osprey that I used to use for search-and-rescue that I might train
+with.
 
-My sister and brother-in-law bought me a replacement Kelty.  I used it
-for the first time on Thursday, March 11th to do my 1/2 distance taper
-speed run.  Normally that's a Wednesday run, but my schedule got
-temporarilly shifted by a day.  Although the pack came on Tuesday, I
-didn't set it up until Thursday morning, which resulted in me getting
-off to a much later than usual start.  Oh well.  It's been a unique
-training season.
-
-Starting on May 12th, 2021 I've used my repaired Osprey to play on the
-mountain.  Containing my SAR gear it weighs pretty close to 33 pounds
-(depending on whether I have my wallet and keys in it, it can be just
-below or just above).  Since it's the off season, I'm just playing
-around and trying to keep my legs strong and get my body used to doing
-pack "runs" in a fasted state.  It's not at all clear what I'll do
-between now and mid November.  My guess is once Hardrock is over (and
-perhaps before) I'll go back to doing some speed work, although it's
-unclear if I'll use the Osprey or Tioga.
+My plan is to pay close attention to my Tioga because I tend to wear
+through the uprights and when an upright breaks it is super annoying.
+As such, I plan on buying a replacement sometime during the training
+season so that I won't have a break during the event (like happened in
+2019) or just before it (like it happened in 2021).
