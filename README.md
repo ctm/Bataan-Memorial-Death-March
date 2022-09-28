@@ -1,7 +1,8 @@
-# Bataan Memorial Death March and/or Tough Ruck training
+# Bataan Memorial Death March Training
 
 This is my ([Cliff
-Matthews](https://www.strava.com/athletes/58696205)) collection of
+Matthews](https://www.strava.com/athletes/58696205)) (aka [Young Lazy
+deadhead](https://ctm.github.io/docs/yld/welcome.html)) collection of
 training logs for the [Bataan Memorial Death
 Marchs](http://bataanmarch.com) (civilian heavy) that I've done in the
 past as well as the one I'm doing in the future.  Although I did my
@@ -11,10 +12,12 @@ which is a shame, since my [best time
 was in 2016.
 
 So, in addition to [2017](2017.md), the others that I've logged in the
-past are [2018](2018.md), [2019](2019.md), [2020](2020.md) and
-[2021](2021.md).  I'm currently working toward [2022](2022.md)
-although it's unclear whether I'll be down at White Sands Missile
-Range for the actual event or if I'll do a substitute.
+past are [2018](2018.md), [2019](2019.md), [2020](2020.md),
+[2021](2021.md) and [2022](2022.md).
+
+I've set a tentative schedule for [2023](2023.md), which&mdash;I
+hope&mdash;will be down at the White Sands Missile Range as it had
+been pre-covid.
 
 ## What is the BMDM?
 
