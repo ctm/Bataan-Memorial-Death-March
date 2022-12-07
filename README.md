@@ -75,12 +75,27 @@ run at the local mountain. Specifically, my flat run will be done on
 the Bosque Bike Path and my mountain run will be done on La Luz.
 
 In addition to those pack runs, roughly every other week I'll also be
-doing a 13.1 mile pack run incorporating 12 75 second all-out
-intervals in the middle.
+doing a pack run incorporating twelve 75 second all-out
+intervals in the middle.  Sometimes the total distance for that pack
+run will be as short as 5.6 miles. Other times it might be 8.9,
+12.2 or 15.5, depending on how I'm feeling, the weather and how much
+time I feel I can afford on a Monday.
 
 In addition to my pack runs, I will also run without my pack the
 remaining days of the week except Sunday, when I might ride my bike
 (or run without my pack or run with my pack).
+
+### Weight Training?
+
+I do not currently do any weight training except my "weird" body
+weight core exercises that I do on Tuesday and Thursday.  It is quite
+possible that I would benefit from weight training, but what I've been
+doing seems to work, more or less, and doesn't require me to leave my
+house.  So, this section is for completeness of documentation and is
+absolutely not a suggestion that anyone else do the same thing.  In
+fact, if I continue racing BMDM beyond 2023, this is the section that
+I'll probably change the most.
+
 
 ## Is this training plan safe?
 
