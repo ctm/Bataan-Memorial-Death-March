@@ -4,7 +4,7 @@ This is my ([Cliff
 Matthews](https://www.strava.com/athletes/58696205)) (aka [Young Lazy
 deadhead](https://ctm.github.io/docs/yld/welcome.html)) collection of
 training logs for the [Bataan Memorial Death
-Marchs](http://bataanmarch.com) (civilian heavy) that I've done in the
+Marches](http://bataanmarch.com) (civilian heavy) that I've done in the
 past as well as the one I'm doing in the future.  Although I did my
 first BMDM in 2010, I didn't start these logs until [2017](2017.md),
 which is a shame, since my [best time
@@ -125,6 +125,17 @@ house.  On Sundays, in theory, I ride my bike.  How far I ride is
 dependent on weather, mood, how much time I want to be out and to a
 lesser extent how beat up I am from my Saturday activity.
 
+On September 10th, I [fell pretty
+hard](https://ctm.github.io/docs/yld/running/past/big_cottonwood_marathon_2022.html#bam)
+on my left knee while running the [Big Cottonwood
+Marathon](https://www.runrevel.com/bcm/video/view/16381).
+Unfortunately, I've also fallen on it since.  As such, in the
+beginning of the 2023 season, I'm _not_ running as much as is
+described below.  The distances are what I was doing in previous
+training seasons, but are currently aspirational.  If you want to see
+what I'm actually running, you can [find me on
+Strava](https://www.strava.com/athletes/58696205).
+
 On Mondays I run from my house to Albuquerque Academy, run four laps
 around AA then back to my house for a total of 15.5 miles. However,
 after my second AA loop, I do twelve all-outs of seventy-five seconds
@@ -137,7 +148,7 @@ exercise in a fasted state and often I find myself exercising at a
 lower heart-rate.  I think my average HR in a fasted state is slowly
 creeping up again, but I am not paying a huge amount of attention.
 
-So, for the 2020-2021 training season, here are my non-pack days:
+So, for the 2020-2021 training season, here were my non-pack days:
 
 |Day|Activity|Amount|
 |---|--------|------|
@@ -183,7 +194,7 @@ or recovering from some other event.
 
 ### Packs
 
-In theory I'll be doing almost all my 2022 season training using the
+In theory I'll be doing almost all my 2023 season training using the
 Kelty Tioga 5500 my sister and brother-in-law bought me after my
 previous one broke (on March 6th, 2021), although I also have an
 Osprey that I used to use for search-and-rescue that I might train
@@ -191,6 +202,9 @@ with.
 
 My plan is to pay close attention to my Tioga because I tend to wear
 through the uprights and when an upright breaks it is super annoying.
-As such, I plan on buying a replacement sometime during the training
-season so that I won't have a break during the event (like happened in
-2019) or just before it (like it happened in 2021).
+I've already broken the bottom-most connecting tube, but it's holding
+together with duct tape.
+
+So, I plan on buying a replacement sometime during this training
+season so that I won't have an upright break during the event (like
+happened in 2019) or just before it (like it happened in 2021).
