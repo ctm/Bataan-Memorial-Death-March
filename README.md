@@ -5,7 +5,7 @@ Matthews](https://www.strava.com/athletes/58696205)) (aka [Young Lazy
 deadhead](https://ctm.github.io/docs/yld/welcome.html)) collection of
 training logs for the [Bataan Memorial Death
 Marches](http://bataanmarch.com) (civilian heavy) that I've done in the
-past as well as the one I'm doing in the future.  Although I did my
+past as well as the one I'm doing on March 19th, 2023.  Although I did my
 first BMDM in 2010, I didn't start these logs until [2017](2017.md),
 which is a shame, since my [best time
 (4:39:45.185)](https://bataanmemorialdeathmarch.itsyourrace.com/Results/6574/2016/35464/1524)
@@ -15,9 +15,8 @@ So, in addition to [2017](2017.md), the others that I've logged in the
 past are [2018](2018.md), [2019](2019.md), [2020](2020.md),
 [2021](2021.md) and [2022](2022.md).
 
-I've set a tentative schedule for [2023](2023.md), which&mdash;I
-hope&mdash;will be down at the White Sands Missile Range as it had
-been pre-covid.
+I've largely followed my schedule for [2023](2023.md).  It will be nice
+to return to the White Sands Missile Range.
 
 ## What is the BMDM?
 
@@ -29,7 +28,7 @@ rations prior to the start of the march), at the inhumane prison
 camps, in the hell-ships that carried them to Japan or in the forced
 labor thereafter.
 
-Some of those men and women, now in their nineties (or more!), are
+A few of those men and women, now in their nineties (or more!), are
 still alive.  In 1989, members of the Army ROTC Department at New
 Mexico State University started an annual march to honor these
 veterans.  The march has grown considerably since then and although it
@@ -194,17 +193,16 @@ or recovering from some other event.
 
 ### Packs
 
-In theory I'll be doing almost all my 2023 season training using the
-Kelty Tioga 5500 my sister and brother-in-law bought me after my
-previous one broke (on March 6th, 2021), although I also have an
-Osprey that I used to use for search-and-rescue that I might train
-with.
+I started my 2023 season training using a Kelty Tioga 5500 my sister
+and brother-in-law bought me after my previous one broke (on March
+6th, 2021).  At some point, the bottom most horizontal tube broke and
+I patched it with duct tape.  The duct tape held well, but I do not
+want to risk one of the uprights breaking, so I bought a new pack and
+will begin using it on Monday, February 6th, 2023.  Assuming no problems,
+I'll continue to use that pack for training and competition.
 
-My plan is to pay close attention to my Tioga because I tend to wear
-through the uprights and when an upright breaks it is super annoying.
-I've already broken the bottom-most connecting tube, but it's holding
-together with duct tape.
-
-So, I plan on buying a replacement sometime during this training
-season so that I won't have an upright break during the event (like
-happened in 2019) or just before it (like it happened in 2021).
+So, it looks like my Tioga 5500s break every two years or so (2019,
+2021).  That's disappointing, since the original one I had lasted much
+longer and was used on a ton of search-and-rescue missions in addition
+to training for and competing at BMDM. However, I realize that I'm an
+outlier and that I push my equipment very hard.
