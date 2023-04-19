@@ -196,10 +196,9 @@ or recovering from some other event.
 I started my 2023 season training using a Kelty Tioga 5500 my sister
 and brother-in-law bought me after my previous one broke (on March
 6th, 2021).  At some point, the bottom most horizontal tube broke and
-I patched it with duct tape.  The duct tape held well, but I do not
+I patched it with duct tape.  The duct tape held well, but I dis not
 want to risk one of the uprights breaking, so I bought a new pack and
-will begin using it on Monday, February 6th, 2023.  Assuming no problems,
-I'll continue to use that pack for training and competition.
+began using it on Monday, February 6th, 2023.
 
 So, it looks like my Tioga 5500s break every two years or so (2019,
 2021).  That's disappointing, since the original one I had lasted much
