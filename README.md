@@ -5,18 +5,19 @@ Matthews](https://www.strava.com/athletes/58696205)) (aka [Young Lazy
 deadhead](https://ctm.github.io/docs/yld/welcome.html)) collection of
 training logs for the [Bataan Memorial Death
 Marches](http://bataanmarch.com) (civilian heavy) that I've done in the
-past as well as the one I'm doing on March 19th, 2023.  Although I did my
+past as well as the one I'm doing on March 16th, 2024.  Although I did my
 first BMDM in 2010, I didn't start these logs until [2017](2017.md),
 which is a shame, since my [best time
 (4:39:45.185)](https://bataanmemorialdeathmarch.itsyourrace.com/Results/6574/2016/35464/1524)
-was in 2016.
+was in 2016, although I came close in 2023 with [4:41:03](https://bataanmemorialdeathmarch.itsyourrace.com/Results/6574/2023/115251/2017).
 
 So, in addition to [2017](2017.md), the others that I've logged in the
 past are [2018](2018.md), [2019](2019.md), [2020](2020.md),
-[2021](2021.md) and [2022](2022.md).
+[2021](2021.md), [2022](2022.md) and [2023](2023.md).
 
-I've largely followed my schedule for [2023](2023.md).  It will be nice
-to return to the White Sands Missile Range.
+We'll see if I can stick to my schedule for [2024](2024.md).  I am
+planning on staying on base this year and getting a little more rest
+than previous years.
 
 ## What is the BMDM?
 
