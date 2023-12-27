@@ -87,14 +87,72 @@ remaining days of the week except Sunday, when I might ride my bike
 
 ### Weight Training?
 
-I do not currently do any weight training except my "weird" body
+I do not currently do any weight training except the body
 weight core exercises that I do on Tuesday and Thursday.  It is quite
 possible that I would benefit from weight training, but what I've been
 doing seems to work, more or less, and doesn't require me to leave my
 house.  So, this section is for completeness of documentation and is
-absolutely not a suggestion that anyone else do the same thing.  In
-fact, if I continue racing BMDM beyond 2023, this is the section that
-I'll probably change the most.
+absolutely not a suggestion that anyone else do the same thing.
+
+#### Tuesday and Thursday Core
+
+The following section is embarrassing, in that there's no science,
+per-se to suggest that this particularly useful for anything, but in
+2011, when I was training for the Pikes Peak Marathon, I read
+[Training for the Ascent and Marathon on Pikes
+Peak](https://www.amazon.com/Training-Ascent-Marathon-Pikes-Peak/dp/B000LUWO1C)
+by Matt Carpenter and Jim Freim and&mdash;IIRC&mdash;the only three
+body weight core exercises they both did were push-ups, sit-ups and
+squats, so I started doing them figuring I'd add in other exercises
+later&hellip; and of course I never did.
+
+I start at 5:15 and swallow a double espresso, then do 100 sit-ups,
+using a chair as a brace.  Yes, I realize people recommend against
+sit-ups in general and bracing your feet in specific, but I've been
+doing this for years and I'm a creature of habit. It takes me about
+seven minutes to do all 100; I don't rush. I then start a timer
+that I have set for four minutes.
+
+I then get into push-up/plank position, and fairly rapidly lower and raise
+myself one hundred times. On this set I do not go deep enough for them to
+be actual push-ups; they're more of a moving plank. I do these to warm up
+my push-up muscles and to practice counting to 100. Once again, click
+the four minute timer.
+
+Next, I do 100 unweighted squats, typically while skimming an article
+or comments from [Hacker News](https://news.ycombinator.com/news), then
+I start the timer.
+
+The rest of my core exercise consists of "real" push-ups (they used to
+be nose-to-ground, but when my daughter was required to do push-ups
+the rules she had to do them in did not allow the body to contact the
+ground, so I adopted that policy), each with a four minute rest in
+between. My first set is typically (at least for now) 18 more than my
+six successive sets will be. My final set is until exhaustion.
+
+On Tuesday, December 26th, 2023, for example my real push-ups were:
+
+61 at 5:40<br/>
+43 at 5:44<br/>
+43 at 5:49<br/>
+43 at 5:53<br/>
+43 at 5:58<br/>
+43 at 6:02<br/>
+43 at 6:07<br/>
+44 at 6:11
+
+So, in under an hour, I'm done with my core exercise for the day and since
+I only do them two days a week, I'm also either done with half for the week
+or done for the week. Yay!
+
+FWIW, over the years, I've fallen off the core exercise bandwagon
+several times, and part of that has been due to me not really thinking
+it provides anything other than being a PITA. However, I _seem_ to do
+better in my running and rucking when I'm doing my core, so eventually
+my regime evolved to doing it at **exactly** 5:15am, but only on
+Tuesdays and Thursdays.  I found I can keep to that schedule, but when
+it used to float, I'd do them erratically and then get frustrated when
+I got poor results.
 
 
 ## Is this training plan safe?
