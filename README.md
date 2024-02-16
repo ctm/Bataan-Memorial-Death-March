@@ -154,6 +154,26 @@ Tuesdays and Thursdays.  I found I can keep to that schedule, but when
 it used to float, I'd do them erratically and then get frustrated when
 I got poor results.
 
+#### 2016: Injured Wrist, no push-ups
+
+To date, my fastest completion of the Bataan Memorial Death March was my
+run in 2016, when I finished in [4:39:45.185 as first place
+overall](https://bataanmemorialdeathmarch.itsyourrace.com/Results/6574/2016/35464/1524)
+in the Civilian Male Heavy division.  In late September of 2015,
+I had injured my left wrist and that prevented me from doing push-ups
+during my 2016 BMDM training block.  I do **not** think that I ran faster
+because I did no push-ups. I do, however, think that my upper body strength
+is basically irrelevant to my ability to complete BMDM in the heavy (i.e.
+ruck-requiring) division.
+
+As a comparison to 2016, I was well on my way to a faster finishing
+time in 2019 when one of the upright supports of my pack broke.  Were
+it not for that equipment failure, I think I would have finished
+significantly faster than I had in 2016. By the end of my 2019 BMDM
+training block I was doing three sets of twenty-five push-ups.
+
+
+
 
 ## Is this training plan safe?
 
@@ -255,7 +275,7 @@ or recovering from some other event.
 I started my 2023 season training using a Kelty Tioga 5500 my sister
 and brother-in-law bought me after my previous one broke (on March
 6th, 2021).  At some point, the bottom most horizontal tube broke and
-I patched it with duct tape.  The duct tape held well, but I dis not
+I patched it with duct tape.  The duct tape held well, but I did not
 want to risk one of the uprights breaking, so I bought a new pack and
 began using it on Monday, February 6th, 2023.
 
