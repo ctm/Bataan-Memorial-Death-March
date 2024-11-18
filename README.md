@@ -5,19 +5,22 @@ Matthews](https://www.strava.com/athletes/58696205)) (aka [Young Lazy
 deadhead](https://ctm.github.io/docs/yld/welcome.html)) collection of
 training logs for the [Bataan Memorial Death
 Marches](http://bataanmarch.com) (civilian heavy) that I've done in the
-past as well as the one I'm doing on March 16th, 2024.  Although I did my
-first BMDM in 2010, I didn't start these logs until [2017](2017.md),
-which is a shame, since my [best time
+past as well as the one I'm doing on March 22nd, 2025.  
+
+Although I did my first BMDM in 2010, I didn't start these logs until
+[2017](2017.md), which is a shame, since my [best time
 (4:39:45.185)](https://bataanmemorialdeathmarch.itsyourrace.com/Results/6574/2016/35464/1524)
-was in 2016, although I came close in 2023 with [4:41:03](https://bataanmemorialdeathmarch.itsyourrace.com/Results/6574/2023/115251/2017).
+was in 2016, although I came close in 2023 with
+[4:41:03](https://bataanmemorialdeathmarch.itsyourrace.com/Results/6574/2023/115251/2017).
 
 So, in addition to [2017](2017.md), the others that I've logged in the
 past are [2018](2018.md), [2019](2019.md), [2020](2020.md),
-[2021](2021.md), [2022](2022.md) and [2023](2023.md).
+[2021](2021.md), [2022](2022.md), [2023](2023.md) and [2024](2024.md).
 
-We'll see if I can stick to my schedule for [2024](2024.md).  I am
-planning on staying on base this year and getting a little more rest
-than previous years.
+We'll see if I can stick to my schedule for [2025](2025.md). It's going to
+be one of my most challenging years due to my having moved in with my ninety-two
+year old mother to be her minder.
+
 
 ## What is the BMDM?
 
@@ -197,36 +200,14 @@ Sundays.
 
 ## Non-pack Days
 
-During the week I do slow runs from my house out to Albuquerque
-Academy, some distance around Albuquerque Academy and back to my
-house.  On Sundays, in theory, I ride my bike.  How far I ride is
-dependent on weather, mood, how much time I want to be out and to a
-lesser extent how beat up I am from my Saturday activity.
+Up until my 2025 training block, during the week I do slow runs from
+my house out to Albuquerque Academy, some distance around Albuquerque
+Academy and back to my house.  On Sundays, in theory, I ride my bike.
+How far I ride is dependent on weather, mood, how much time I want to
+be out and to a lesser extent how beat up I am from my Saturday
+activity.
 
-On September 10th, I [fell pretty
-hard](https://ctm.github.io/docs/yld/running/past/big_cottonwood_marathon_2022.html#bam)
-on my left knee while running the [Big Cottonwood
-Marathon](https://www.runrevel.com/bcm/video/view/16381).
-Unfortunately, I've also fallen on it since.  As such, in the
-beginning of the 2023 season, I'm _not_ running as much as is
-described below.  The distances are what I was doing in previous
-training seasons, but are currently aspirational.  If you want to see
-what I'm actually running, you can [find me on
-Strava](https://www.strava.com/athletes/58696205).
-
-On Mondays I run from my house to Albuquerque Academy, run four laps
-around AA then back to my house for a total of 15.5 miles. However,
-after my second AA loop, I do twelve all-outs of seventy-five seconds
-with only thirty seconds of rest in between.  I alternate between
-doing my Monday run with a 40 pound pack and without a pack.
-
-I used to try to keep my heart-rate at about 130bpm for my slow runs
-and bike ride, but starting in April 2020 I began doing almost all my
-exercise in a fasted state and often I find myself exercising at a
-lower heart-rate.  I think my average HR in a fasted state is slowly
-creeping up again, but I am not paying a huge amount of attention.
-
-So, for the 2020-2021 training season, here were my non-pack days:
+For example, for the 2020-2021 training season, here were my non-pack days:
 
 |Day|Activity|Amount|
 |---|--------|------|
@@ -235,6 +216,12 @@ So, for the 2020-2021 training season, here were my non-pack days:
 |Tuesday|Slow Run|15.5 miles|
 |Thursday|Slow Run|15.5 miles|
 |Friday|Slow Run|18.8 miles|
+
+During my 2025 training block, however, I will not be doing much cardio on
+non-pack days, because I'll be walking with mom and there are only so many
+hours in the day.  That will result in allowing my body to rest more between
+pack runs but it may not pound my body hard enough to be in peak racing
+performance by race day.  Only one way to find out&hellip;
 
 ## Pack (and exception) days
 
@@ -253,9 +240,8 @@ a 14:15 minute/mile pace.
 `Comfort`: I'll keep my HR between below 150bpm (typically 130bpm)
 during the training or event.  I'm out there to have fun.
 
-`Interval`: Interval training with my forty pound pack, wrapped with
-enough low heart rate running on either end to be a total of 15.5
-miles with an average heart rate of 130bpm.  The intervals themselves
+`Interval`: Interval training with my forty pound pack.  
+The intervals themselves
 are 12 all-outs of 75 seconds each, with 30 seconds of light running
 as rest in between.
 
